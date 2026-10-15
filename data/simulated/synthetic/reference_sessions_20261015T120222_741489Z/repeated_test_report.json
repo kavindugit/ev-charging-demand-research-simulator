@@ -1,0 +1,73 @@
+{
+  "schema_version": "repeated_session_engine_test_v1",
+  "data_origin": "SYNTHETIC",
+  "status": "complete",
+  "replicates_requested": 100,
+  "experiment_role": "selected_synthetic_development_reference",
+  "warmup_days": 7,
+  "warmup_policy": "explicit_argument",
+  "decision_documents_sha256": {
+    "synthetic_simulator_development_settings.md": "bcc0b6a9b25d8c76d8cdd61b2085a21806e6f739126987d02fe296b72c66e7bd",
+    "synthetic_readiness_review_decisions.md": "50a052ad3768a343e17fa79c9193d6b35a2833a39b1c02a76b39a21867c940e7"
+  },
+  "parameter_folder": "data/processed/synthetic/parameters_public_power_20261007T060348_474047Z",
+  "study_days": 28,
+  "base_seed": 20261007,
+  "seed_policy": "base_seed + zero-based replicate index",
+  "power_scenario": "reduced_test",
+  "owners_simulated": 60,
+  "input_sha256": {
+    "simulator_parameters.json": "1ba76e008372b6def33d265b4e6658cf882f72236f327441a619b595c0aa3732",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f",
+    "public_power_report.json": "29c2ff1bf9a70ebcdb5dc442750760771476aa9c79afd4e5670008cc2b278efe"
+  },
+  "source_sha256": {
+    "src/ev_demand/parameters/build_public_power_layer.py": "96a92d41bde4ca391f2d474321d4c0a46830a2c1277c5719614b5eaca51b5d92",
+    "src/ev_demand/simulation/run_session_simulator.py": "91bd6879292783ca2211ab376aa439cc0a98652ffdbc83f30999a58ae5b5bc76",
+    "src/ev_demand/simulation/audit_session_run.py": "d4a6212514924178033144ff8f1a306f87f9e8118585330e648cb1c60e7b3951",
+    "src/ev_demand/simulation/run_reference_session_test.py": "04c1b827b41aa25e38de2ee2cadb022a33b871702744c84c9e3c7d5147cb9afa",
+    "src/ev_demand/simulation/run_repeated_session_test.py": "b820a3fcd74e1fcfa696e23f0d027dfb73f8a54c6f0123a73bfd978dd313afa6"
+  },
+  "empirically_validated": false,
+  "national_forecast_ready": false,
+  "convergence_established": false,
+  "interpretation": [
+    "Each run resamples owner rates, counts, contexts, starts, energy and power under the current engine.",
+    "The ready owner pool and power scenario are fixed across replicates.",
+    "P05/P50/P95 describe simulated replicate variation; they are not empirical confidence intervals.",
+    "Profile quantiles are pointwise across replicate 28-day mean profiles, not daily extremes.",
+    "Context quantiles cannot be added to obtain TOTAL quantiles; TOTAL is computed within each replicate.",
+    "Overlap rejections change accepted frequency and energy; repeated runs do not correct this model choice.",
+    "No fleet scaling, calibration, station queues, SOC/trip evolution or grid losses are introduced.",
+    "A development batch does not establish Monte Carlo convergence or validate real-world demand."
+  ],
+  "replicates_completed": 100,
+  "all_replicates_audited": true,
+  "mean_profile_energy_check_passed": true,
+  "mean_daily_energy_kwh": {
+    "n": 100,
+    "mean": 761.646672976158,
+    "sample_std": 25.269350816254317,
+    "p05": 724.3429488637144,
+    "p50": 759.5458599553788,
+    "p95": 811.7520081639406
+  },
+  "pooled_study_rejection_percent": {
+    "T1": 15.353920264586405,
+    "T2": 27.7164474379691,
+    "T3": 16.009752133279154,
+    "T4": 11.343537414965986,
+    "TOTAL": 22.968255179518486
+  },
+  "peak_of_ensemble_mean_profile_kw": 43.35522019038914,
+  "ensemble_mean_profile_peak_hours": [
+    21
+  ],
+  "output_sha256": {
+    "context_replicates.csv": "16b900afaeae5c2acfd69b1d12398acfb19f7c8564a71fc5715344c6ae54042d",
+    "metric_summary.csv": "1c85dbb8bab323abdcd8332e5c23e5a9697aee9fa80f8c45e42c28192c65e8c1",
+    "profile_replicates.csv": "6c34b753646f238acc2b447f2db8757417df0d0fb1f88a7c5e5909e11f710437",
+    "profile_summary.csv": "ac14c600b97876b5e6bd862faf1229540551f3f13a3abdf9d5c972c3f3518086",
+    "replicate_summaries.csv": "40391306076cd44599a17097c3e587ad0426ca92d17d5b0de0e118bf283cdf6d"
+  }
+}
