@@ -1,0 +1,47 @@
+{
+  "replicate": 5,
+  "seed": 20261011,
+  "master_engine_summary": {
+    "owners_simulated": 60,
+    "study_days": 56,
+    "warmup_days": 7,
+    "seed": 20261011,
+    "candidate_sessions": 2349,
+    "accepted_sessions_including_warmup": 1818,
+    "accepted_sessions_starting_in_study": 1629,
+    "rejected_sessions_including_warmup": 531,
+    "rejected_sessions_starting_in_study": 469,
+    "rejection_reasons": {
+      "owner_already_charging": 531
+    },
+    "full_accepted_session_energy_kwh": 47927.34207061273,
+    "energy_before_study_kwh": 4494.501159970187,
+    "session_energy_in_study_kwh": 43255.87862250207,
+    "hourly_energy_in_study_kwh": 43255.87862250207,
+    "energy_after_study_kwh": 176.96228814045358,
+    "energy_balance_error_kwh": 0.0,
+    "mean_daily_energy_kwh": 772.4264039732512,
+    "no_owner_overlaps": true,
+    "energy_conserved": true
+  },
+  "checks": {
+    "common_prefix_draws_preserved": true,
+    "common_prefix_scheduling_matches": true,
+    "common_prefix_hourly_energy_matches": true,
+    "energy_conserved": true,
+    "no_owner_overlaps": true
+  },
+  "output_sha256": {
+    "accepted_days_14.csv": "1d6b66dd12b2c47be8b0658b1b70f02ba1d79bd4e4976989146dbff284fe9d60",
+    "accepted_days_28.csv": "76ec77b06a3b6bf5d4e3dfb12c2b597b826c1bc1ce951c8b12f4643fd4b9a26e",
+    "accepted_days_56.csv": "a8b0f83930674532d2a9bf7f0403f93e01383c28b2f2c63891a251b3b2dca195",
+    "hourly_days_14.csv": "4a2f7c5c7db7926487d4cad482c597b0f3ce81d41c2c76420e5a6f4767edb78c",
+    "hourly_days_28.csv": "918bac4bc2e6df3f93e42780252ebace07b15994286dd25379202f89eb2f3be3",
+    "hourly_days_56.csv": "d63ce34e01806c8bcfbc8a0e18bbda2f6a62137c4317820a8a04997232a5d465",
+    "master_candidates.csv": "4dc6a3e3525cd0ec9ffa8decca99ff9b673312531bb2f16eef481a1476deb0f9",
+    "owner_rates.csv": "21ffbaf767857016e35a04476dd9569c045909a3a2ac1d9da5d0e81050654da3",
+    "rejected_days_14.csv": "dd78f4d0d80af7a3bb5ef0e65d569fb73afbf562cacb68ca2feb2c397ff5f4bc",
+    "rejected_days_28.csv": "9c2818452e40bdcab94380fd15ec6bad1c245501196e2b26d3986d0b07e00756",
+    "rejected_days_56.csv": "753b3c076c119f6dacd13c3aad8dafd4974a67504fb4f62d2f362be84c85e972"
+  }
+}

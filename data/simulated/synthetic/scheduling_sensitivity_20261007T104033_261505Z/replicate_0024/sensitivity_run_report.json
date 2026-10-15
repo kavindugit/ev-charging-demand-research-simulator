@@ -1,0 +1,30 @@
+{
+  "schema_version": "same_day_deferral_run_v1",
+  "data_origin": "SYNTHETIC",
+  "seed": 20261030,
+  "baseline_run": "data/simulated/synthetic/sessions_20261007T065906_968191Z",
+  "baseline_energy": {
+    "full_accepted_energy_kwh": 23910.44715466,
+    "energy_before_study_kwh": 2830.8912383027905,
+    "energy_in_study_kwh": 20906.221432915838,
+    "energy_after_study_kwh": 173.33448344138628
+  },
+  "deferred_energy": {
+    "full_accepted_energy_kwh": 25192.09336718936,
+    "energy_before_study_kwh": 2920.776393509761,
+    "energy_in_study_kwh": 22024.746866927275,
+    "energy_after_study_kwh": 246.57010675234233
+  },
+  "checks": {
+    "candidate_draws_unchanged": true,
+    "original_day_and_window_preserved": true,
+    "no_owner_overlaps": true,
+    "energy_conserved": true,
+    "baseline_replay_matches": true
+  },
+  "output_sha256": {
+    "hourly_demand.csv": "c144e4bdf0740ab78b276c763366b75c5ea759913997ba544be2dd3f9cba376e",
+    "rejected_sessions.csv": "ead4f8d62156d7ae0bed69e70f4134650ae59d1dcb5642ada161ee94ca299225",
+    "scheduled_sessions.csv": "070979e70d0922530f49e67745de9b0d821eaad3ba457bd5084484d399ed079e"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": "session_engine_test_v1",
+  "data_origin": "SYNTHETIC",
+  "summary": {
+    "owners_simulated": 60,
+    "study_days": 28,
+    "warmup_days": 4,
+    "seed": 20261060,
+    "candidate_sessions": 1163,
+    "accepted_sessions_including_warmup": 892,
+    "accepted_sessions_starting_in_study": 776,
+    "rejected_sessions_including_warmup": 271,
+    "rejected_sessions_starting_in_study": 234,
+    "rejection_reasons": {
+      "owner_already_charging": 271
+    },
+    "full_accepted_session_energy_kwh": 23400.38573759835,
+    "energy_before_study_kwh": 2890.540193520013,
+    "session_energy_in_study_kwh": 20400.90877378117,
+    "hourly_energy_in_study_kwh": 20400.90877378117,
+    "energy_after_study_kwh": 108.93677029716798,
+    "energy_balance_error_kwh": 0.0,
+    "mean_daily_energy_kwh": 728.603884777899,
+    "no_owner_overlaps": true,
+    "energy_conserved": true
+  },
+  "input_sha256": {
+    "simulator_parameters.json": "1ba76e008372b6def33d265b4e6658cf882f72236f327441a619b595c0aa3732",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f",
+    "public_power_report.json": "29c2ff1bf9a70ebcdb5dc442750760771476aa9c79afd4e5670008cc2b278efe"
+  },
+  "power_sampler_sha256": "96a92d41bde4ca391f2d474321d4c0a46830a2c1277c5719614b5eaca51b5d92",
+  "simulator_sha256": "91bd6879292783ca2211ab376aa439cc0a98652ffdbc83f30999a58ae5b5bc76",
+  "parameter_folder": "data/processed/synthetic/parameters_public_power_20261007T060348_474047Z",
+  "power_scenario": "reduced_test",
+  "upstream_owner_summary": {
+    "owners_retained_in_audit": 170,
+    "owners_ready_for_bounded_test": 60,
+    "owners_deferred": 110,
+    "first_deferral_reasons": {
+      "usual_energy_kwh_unresolved_bounds": 38,
+      "sessions_per_week_unresolved_bounds": 35,
+      "T1_charger_type_unresolved": 9,
+      "home_power_kw_unresolved_bounds": 14,
+      "T3_charger_type_unresolved": 4,
+      "T4_charger_type_unresolved": 6,
+      "T2_charger_type_unresolved": 2,
+      "total_and_context_frequencies_do_not_overlap": 2
+    },
+    "ready_context_counts": {
+      "T2": 56,
+      "T1": 42,
+      "T3": 30,
+      "T4": 32
+    },
+    "recent_sessions_retained_upstream": 130,
+    "recent_sessions_used_for_fitting": 0,
+    "warning": "The selected pool is a biased completeness subset. Do not extrapolate its composition to Sri Lankan EV owners."
+  },
+  "output_sha256": {
+    "hourly_demand.csv": "b1b5790b7dac60983e850749543b768615325ff83cddef657ad7b52ce50c253e",
+    "owner_rates.csv": "d234be8dd34029000efbc1003dc7c3f9a758207b6403c982a59174236f0c47b8",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f",
+    "profile_24h.csv": "c189e9537f557a63ffbc873362687d4575d876a027898e8881b584ab5217cefd",
+    "rejected_sessions.csv": "b0c78ef8131056d69fdd2882da9f65fdeaadddaa5e99d307a216923b27e19e8d",
+    "sessions.csv": "39e0668a0e4f62cfa554be356544fab121a7f304a4589987d3461744be3f4019"
+  },
+  "policy": {
+    "one_owner_one_vehicle": true,
+    "frequency": "One feasible weekly rate per owner; daily Poisson candidate counts with mean rate/7.",
+    "context_rates": "Allocate sampled total across context bounds in proportion to available widths.",
+    "start_windows": "Uniform reported clock window; wrap midnight; no extra TOU delay or weekday effect.",
+    "energy": "Independent usual-energy draw per candidate; no separate distance-derived energy added.",
+    "power": "Use existing power helper once per session; constant effective average power.",
+    "overlap": "Sort by start time per owner; reject overlapping candidates without shifting or replacing them.",
+    "rates_after_rejection": "Realized accepted frequency can be below proposed Poisson frequency; inspect rejections.",
+    "warmup": "Longest possible session duration rounded to days plus one day; empty initial state, not proven stationarity.",
+    "boundary": "Count warm-up carry-in and study-start carry-out explicitly; hourly CSV covers study only.",
+    "electricity": "Delivered-energy load proxy; grid conversion losses and auxiliary loads are not modelled."
+  },
+  "limitations": [
+    "Single seed engineering run, not repeated Monte Carlo uncertainty or a national forecast.",
+    "Completeness-selected synthetic owners; no empirical calibration or population weighting.",
+    "No trip/SOC state, usable battery-capacity constraints, vehicle acceptance curves or connector matching.",
+    "Rejected candidate energy is hypothetical; it is not measured unserved charging demand.",
+    "No station assignment, port/site capacity, queues, travel time or public/private access enforcement."
+  ],
+  "empirically_validated": false,
+  "national_forecast_ready": false
+}

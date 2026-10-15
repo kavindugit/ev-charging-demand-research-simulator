@@ -1,0 +1,46 @@
+{
+  "replicate": 21,
+  "seed": 20261027,
+  "master_engine_summary": {
+    "owners_simulated": 60,
+    "study_days": 28,
+    "warmup_days": 14,
+    "seed": 20261027,
+    "candidate_sessions": 1611,
+    "accepted_sessions_including_warmup": 1245,
+    "accepted_sessions_starting_in_study": 848,
+    "rejected_sessions_including_warmup": 366,
+    "rejected_sessions_starting_in_study": 247,
+    "rejection_reasons": {
+      "owner_already_charging": 366
+    },
+    "full_accepted_session_energy_kwh": 32687.604523088256,
+    "energy_before_study_kwh": 10174.973541331321,
+    "session_energy_in_study_kwh": 22266.446171296237,
+    "hourly_energy_in_study_kwh": 22266.446171296237,
+    "energy_after_study_kwh": 246.18481046070892,
+    "energy_balance_error_kwh": 0.0,
+    "mean_daily_energy_kwh": 795.230220403437,
+    "no_owner_overlaps": true,
+    "energy_conserved": true
+  },
+  "checks": {
+    "candidate_draws_preserved": true,
+    "no_owner_overlaps": true,
+    "energy_conserved": true,
+    "longest_case_matches_master": true
+  },
+  "output_sha256": {
+    "accepted_warmup_14.csv": "99b964e744dc53506d0e7c476638a9b7421b720478aed24c787de2bfeb0513dc",
+    "accepted_warmup_4.csv": "64eb6a3d803d9618e33cde6cac4c52e15901e82b132cece40e494bd994884b8e",
+    "accepted_warmup_7.csv": "f96bb0cc47d544a3b1dda2b1aa57532353c03daf6a17526c577cfbd5024c8709",
+    "hourly_warmup_14.csv": "5ab6edea65268c785d4b0c918c07b4ae0aba59981add1d2299cab2bb35e479dc",
+    "hourly_warmup_4.csv": "5ab6edea65268c785d4b0c918c07b4ae0aba59981add1d2299cab2bb35e479dc",
+    "hourly_warmup_7.csv": "5ab6edea65268c785d4b0c918c07b4ae0aba59981add1d2299cab2bb35e479dc",
+    "master_candidates.csv": "0ae54fa6114f72f70c0d674abd19629a9fd1161969133c647210f4601d022b2a",
+    "owner_rates.csv": "9b53d8f49b93d58527f5f65236167d280c4e9f85ee1da96a2f8bf5b8c45f4dd4",
+    "rejected_warmup_14.csv": "444bbbe04b6f2615b12b52f1dc4ca2acb39968b11b8db967fb2a9bcc8e19967e",
+    "rejected_warmup_4.csv": "ed0c839c16edf4093a98ac1c9524fbca1b49bc27495e57815085b61a87f044a8",
+    "rejected_warmup_7.csv": "20a152b060bfc7b1797ab7c2aff54f115e329234eca9e85670f1ee21c4a7fb95"
+  }
+}

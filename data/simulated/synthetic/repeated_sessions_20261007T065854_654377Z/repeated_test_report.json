@@ -1,0 +1,65 @@
+{
+  "schema_version": "repeated_session_engine_test_v1",
+  "data_origin": "SYNTHETIC",
+  "status": "complete",
+  "replicates_requested": 30,
+  "parameter_folder": "data/processed/synthetic/parameters_public_power_20261007T060348_474047Z",
+  "study_days": 28,
+  "base_seed": 20261007,
+  "seed_policy": "base_seed + zero-based replicate index",
+  "power_scenario": "reduced_test",
+  "owners_simulated": 60,
+  "input_sha256": {
+    "simulator_parameters.json": "1ba76e008372b6def33d265b4e6658cf882f72236f327441a619b595c0aa3732",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f",
+    "public_power_report.json": "29c2ff1bf9a70ebcdb5dc442750760771476aa9c79afd4e5670008cc2b278efe"
+  },
+  "source_sha256": {
+    "src/ev_demand/parameters/build_public_power_layer.py": "96a92d41bde4ca391f2d474321d4c0a46830a2c1277c5719614b5eaca51b5d92",
+    "src/ev_demand/simulation/run_session_simulator.py": "91bd6879292783ca2211ab376aa439cc0a98652ffdbc83f30999a58ae5b5bc76",
+    "src/ev_demand/simulation/audit_session_run.py": "d4a6212514924178033144ff8f1a306f87f9e8118585330e648cb1c60e7b3951",
+    "src/ev_demand/simulation/run_repeated_session_test.py": "b820a3fcd74e1fcfa696e23f0d027dfb73f8a54c6f0123a73bfd978dd313afa6"
+  },
+  "empirically_validated": false,
+  "national_forecast_ready": false,
+  "convergence_established": false,
+  "interpretation": [
+    "Each run resamples owner rates, counts, contexts, starts, energy and power under the current engine.",
+    "The ready owner pool and power scenario are fixed across replicates.",
+    "P05/P50/P95 describe simulated replicate variation; they are not empirical confidence intervals.",
+    "Profile quantiles are pointwise across replicate 28-day mean profiles, not daily extremes.",
+    "Context quantiles cannot be added to obtain TOTAL quantiles; TOTAL is computed within each replicate.",
+    "Overlap rejections change accepted frequency and energy; repeated runs do not correct this model choice.",
+    "No fleet scaling, calibration, station queues, SOC/trip evolution or grid losses are introduced.",
+    "A development batch does not establish Monte Carlo convergence or validate real-world demand."
+  ],
+  "replicates_completed": 30,
+  "all_replicates_audited": true,
+  "mean_profile_energy_check_passed": true,
+  "mean_daily_energy_kwh": {
+    "n": 30,
+    "mean": 771.4918503411373,
+    "sample_std": 25.6756265302144,
+    "p05": 731.0812927289311,
+    "p50": 772.1369490817576,
+    "p95": 810.886961334496
+  },
+  "pooled_study_rejection_percent": {
+    "T1": 15.782139124375798,
+    "T2": 27.85639803366602,
+    "T3": 16.42512077294686,
+    "T4": 11.627906976744185,
+    "TOTAL": 23.17450398375254
+  },
+  "peak_of_ensemble_mean_profile_kw": 45.058632463900615,
+  "ensemble_mean_profile_peak_hours": [
+    21
+  ],
+  "output_sha256": {
+    "context_replicates.csv": "20558c39192a4c5b054a0e34e5163af8d6bc8bc20410d513092e8bb554db5acb",
+    "metric_summary.csv": "16cdf4509e29fb17ae06f19c85644ba256c0d9de767d1c4c61ea4d1a2a95aca7",
+    "profile_replicates.csv": "43333810573c633fb5931f992ee335c83425e7ab31e3a9905a31fee419bae2e0",
+    "profile_summary.csv": "6c19b84fd40a7cc9c677cd1f32c7b7b7eabb5f90c94067c93b3391bff805669a",
+    "replicate_summaries.csv": "39f484a78162ad3e0daa8a2ab48d4b8b969746dc94700a799f7b869a18f5461d"
+  }
+}
