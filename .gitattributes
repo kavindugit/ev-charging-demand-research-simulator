@@ -1,0 +1,4 @@
+# Preserve exact file bytes used by experiment audit hashes.
+/src/** -text
+/data/** -text
+/outputs/** -text
