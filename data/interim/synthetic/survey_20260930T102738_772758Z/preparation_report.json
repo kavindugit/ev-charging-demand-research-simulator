@@ -1,0 +1,27 @@
+{
+  "stage": "survey_structural_preparation",
+  "data_origin": "SYNTHETIC",
+  "source_sha256": "cf8b833bc5ed2721ea6d5c04c57f27838aab4735100c569fb05a6868a4e5abc2",
+  "counts": {
+    "owners": 170,
+    "owner_contexts": 680,
+    "recent_sessions": 130,
+    "excluded_rows": 0
+  },
+  "quality_counts": {
+    "recent_block_conflicts": 0,
+    "context_nonuse_conflicts": 0
+  },
+  "raw_check_warnings": [],
+  "simulation_ready": false,
+  "full_option_validation_completed": false,
+  "notes": [
+    "No midpoints, probabilities, power values or energy values were imputed.",
+    "Q29 contact details and screening answers are excluded from analytical tables.",
+    "Usual energy is owner-level evidence, not a separate observation for each context.",
+    "Recent sessions are recalled events with no collected session date.",
+    "Interviews and app logs are separate sources and were not processed here.",
+    "Category labels remain unchanged except whitespace normalisation; state labels are annotations.",
+    "Fallback owner IDs are stable only within the same source-file version and row."
+  ]
+}

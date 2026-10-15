@@ -1,0 +1,57 @@
+{
+  "DELAY_DISCUSSION": {
+    "pattern": "\\b(delay\\w*|schedul\\w*|timer|later|immediately)\\b",
+    "rule_family": "session_start_timing",
+    "review_question": "Is charging delayed, immediate, conditional, or unavailable?"
+  },
+  "PRICE_DISCUSSION": {
+    "pattern": "\\b(tou|tariff\\w*|cheap\\w*|price\\w*|discount\\w*|cost\\w*)\\b",
+    "rule_family": "price_timing_constraints",
+    "review_question": "Is this actual tariff behaviour or a hypothetical response?"
+  },
+  "TRIP_DISCUSSION": {
+    "pattern": "\\b(next|tomorrow|urgent|unexpected|reserve|journey|trip\\w*)\\b",
+    "rule_family": "next_trip_requirement",
+    "review_question": "Does an upcoming trip affect timing, energy, or the target?"
+  },
+  "TARGET_DISCUSSION": {
+    "pattern": "\\b(target\\w*|top-up|fill\\w*|full|higher|enough|battery|percentage)\\b",
+    "rule_family": "session_energy_and_stop",
+    "review_question": "What trigger or stop condition is actually described?"
+  },
+  "CONTEXT_DISCUSSION": {
+    "pattern": "\\b(home|public|workplace|office|hotel|restaurant|destination|route)\\b",
+    "rule_family": "charging_context_choice",
+    "review_question": "Which context is used, avoided, or only considered?"
+  },
+  "AVAILABILITY_DISCUSSION": {
+    "pattern": "\\b(queue\\w*|occupied|unavailable|reliable|reliability|backup|alternative\\w*|wait\\w*)\\b",
+    "rule_family": "charger_unavailability_response",
+    "review_question": "Does the owner wait, switch location, postpone, or leave?"
+  },
+  "SPEED_DISCUSSION": {
+    "pattern": "\\b(fast\\w*|slow\\w*|speed|ac|dc)\\b",
+    "rule_family": "charger_choice",
+    "review_question": "Is charger preference conditional on time or activity?"
+  },
+  "DAY_TYPE_DISCUSSION": {
+    "pattern": "\\b(weekday\\w*|weekend\\w*|workday\\w*|shift\\w*)\\b",
+    "rule_family": "day_type_and_schedule",
+    "review_question": "Is the routine different by day type or work schedule?"
+  },
+  "PARKING_DISCUSSION": {
+    "pattern": "\\b(connect\\w*|disconnect\\w*|unplug\\w*|park\\w*|drawing|finished|finishes|completion)\\b",
+    "rule_family": "active_charging_vs_connected_time",
+    "review_question": "Does connected or parked time exceed active charging time?"
+  },
+  "EXCEPTION_DISCUSSION": {
+    "pattern": "\\b(temporary|temporarily|exception\\w*|outage\\w*|failure|failed|repair\\w*|broken)\\b",
+    "rule_family": "exceptional_period",
+    "review_question": "Is this temporary behaviour rather than the usual routine?"
+  },
+  "COORDINATION_DISCUSSION": {
+    "pattern": "\\b(shar\\w*|coordinat\\w*|book\\w*|spouse|family|appliance\\w*)\\b",
+    "rule_family": "shared_access_constraints",
+    "review_question": "What access or schedule constraint is actually described?"
+  }
+}

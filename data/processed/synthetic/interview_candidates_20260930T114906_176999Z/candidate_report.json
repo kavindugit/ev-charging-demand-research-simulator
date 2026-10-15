@@ -1,0 +1,36 @@
+{
+  "data_origin": "SYNTHETIC",
+  "cases": 40,
+  "answers_retained": 800,
+  "behaviour_answers": 760,
+  "excluded_mock_consent_answers": 40,
+  "answers_with_candidates": 727,
+  "candidate_answer_counts": {
+    "DELAY_DISCUSSION": 118,
+    "TRIP_DISCUSSION": 256,
+    "CONTEXT_DISCUSSION": 426,
+    "DAY_TYPE_DISCUSSION": 89,
+    "PARKING_DISCUSSION": 145,
+    "PRICE_DISCUSSION": 106,
+    "TARGET_DISCUSSION": 191,
+    "COORDINATION_DISCUSSION": 118,
+    "SPEED_DISCUSSION": 55,
+    "AVAILABILITY_DISCUSSION": 154,
+    "EXCEPTION_DISCUSSION": 29
+  },
+  "accepted_codes": 0,
+  "input_sha256": {
+    "interview_cases.jsonl": "2b55122b51b42bc3b3fdc4699bc75cf583d6648a02fcfafa51c4c6705761a9bd",
+    "interview_answers.jsonl": "63a042232c875724c59a4cdae343df8e6cde04822c532625db9862b9f92330c8",
+    "interview_preparation_report.json": "de3daa3fd0d23a54e57712d2776ff1f2206baba81bc5082c32e47a65d099450c"
+  },
+  "parameters_fitted": false,
+  "simulator_ready": false,
+  "limitations": [
+    "Keyword candidates are review aids, not verified behavioural findings.",
+    "Negation and hypothetical or exceptional statements require full-answer review.",
+    "No match does not mean that the behaviour is absent.",
+    "Counts describe scripted answer matches, not owner prevalence or probabilities.",
+    "Qualitative timing rules must not shift already-reported survey start times twice."
+  ]
+}

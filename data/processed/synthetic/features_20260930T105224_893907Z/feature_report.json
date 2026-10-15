@@ -1,0 +1,35 @@
+{
+  "stage": "survey_feature_encoding",
+  "rules_version": "1.0",
+  "data_origin": "SYNTHETIC",
+  "input_folder": "data\\interim\\synthetic\\survey_20260930T102738_772758Z",
+  "counts": {
+    "owners": 170,
+    "owner_contexts": 680,
+    "recent_sessions": 130
+  },
+  "source_sha256": "cf8b833bc5ed2721ea6d5c04c57f27838aab4735100c569fb05a6868a4e5abc2",
+  "input_table_sha256": {
+    "owners.csv": "7b53e4962e6deda591a39d74f92916d437ac032251e1b9a7de697b6966e8ded9",
+    "owner_contexts.csv": "77e730901356503886b2dfb1474e1cc87432afa314de93b358ad82509ed55d20",
+    "recent_sessions.csv": "32125b116919b7a95988f90ec6bef1cbdb746541c681e243b1b177fe9e322aa2",
+    "preparation_report.json": "25deb9659087d3f7d568922fcc04e66a306459de5a940892617cef9308edb98e"
+  },
+  "inherited_quality_counts": {
+    "recent_block_conflicts": 0,
+    "context_nonuse_conflicts": 0
+  },
+  "simulation_ready": false,
+  "full_option_validation_completed": false,
+  "notes": [
+    "Original answer and provenance columns retained. No midpoint imputation.",
+    "Missing bounds are empty CSV cells, not zero.",
+    "Integer-labelled continuous bins use the next integer as an exclusive edge; energy bins use the next tenth. This is an encoding convention.",
+    "Weekly count ranges retain inclusive integer endpoints. Month and week frequency units remain separate.",
+    "Overlapping duration/power answer ranges remain approximate; no exact measured value is inferred.",
+    "Public charger code does not establish power. No public kW defaults applied.",
+    "A reported charging start window is not shifted again for TOU.",
+    "Only encoded answer fields are option-validated here; other categorical labels remain original.",
+    "Interviews, app logs, parameter distributions and scenario assumptions are still separate work."
+  ]
+}

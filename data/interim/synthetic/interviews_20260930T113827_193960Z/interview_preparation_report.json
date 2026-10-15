@@ -1,0 +1,30 @@
+{
+  "schema_version": "interview_evidence_v1",
+  "data_origin": "SYNTHETIC",
+  "source_file": "EV_Charging_40_Synthetic_Interview_Transcripts.md",
+  "source_sha256": "1276feff838b733606a003bf06417ad3ec500ea970a597d6c02c08d49dc30be9",
+  "source_declaration": "# Forty synthetic EV charging behaviour interviews\n\n> **SYNTHETIC · METHOD DEVELOPMENT ONLY.** Every speaker and answer in this file is invented. No participant was interviewed or consented, and no audio was transcribed. These examples must not be included in real participant counts, numerical parameter estimates, thesis findings, or attributed participant quotations.\n\nThese are complete Q1–Q20 **scripted interview examples** rather than recordings of actual 25–35-minute conversations. They explore possible explanations and conditional decisions. The Google Form and public charging-session records are separate sources; no survey responses or app logs were generated here. Some hypothetical edge cases, including a pilot electric shuttle fleet, are included to test analytic boundaries rather than assert their prevalence in Sri Lanka.\n\n## Case index\n\n| Scripted case | Fictional situation | Contexts discussed |\n|---|---|---|\n| S001 | Home charger, registered TOU tariff, office commute; occasional public charging | T2; T1 |\n| S002 | Apartment resident without home charging; urban ride-hailing driver | T1; occasional T4 |\n| S003 | Home charging for ordinary travel; occasional family tourism and destination charging | T2; T3; T4 |\n| S004 | Intercity business travel several times a week; relies on en-route DC charging | T4; T1 |\n| S005 | Shared family EV; home socket and occasional shopping/public charging; no TOU | T2; T1; occasional T3 |\n| S006 | Colombo apartment resident, office commuter, no residential charging | T1 |\n| S007 | Kurunegala-area rural household, slow home socket, farm and market trips | T2; occasional T1 |\n| S008 | Galle hotel employee, evening shifts and access to workplace AC charger | T1; T2 |\n| S009 | Electric delivery van operator making urban parcel rounds | T1; T2 |\n| S010 | University lecturer, campus parking charger and home wallbox | T1; T2 |\n| S011 | Retired couple with home charging and infrequent long trips | T2; occasional T3 |\n| S012 | Hospital nurse with rotating early, late and night shifts | T2; T1 |\n| S013 | Electric three-wheeler operator serving local trips | T1; T2 |\n| S014 | Company pool EV booked by several staff members | T1; T2 |\n| S015 | Solar-equipped household with home wallbox and irregular self-employment | T2; occasional T1 |\n| S016 | Condominium resident with a shared, bookable AC charger | T2; T1 |\n| S017 | Airport transfer driver with home charging and unpredictable flights | T2; T4; T1 |\n| S018 | Parent using one shared EV for school and household trips | T2; occasional T1 |\n| S019 | Tourism vehicle operator taking guests to hotels and attractions | T3; T4; T1 |\n| S020 | Driver in a district with sparse public charging, home socket | T2; T4 |\n| S021 | Intercity sales representative visiting several clients per day | T1; T4; T2 |\n| S022 | Small café owner with nearby destination AC charging | T1; T2; T3 |\n| S023 | Mobility-limited driver who needs accessible public facilities | T2; T1; occasional T4 |\n| S024 | New EV owner still learning range and charging behaviour | T2; T1 |\n| S025 | Experienced EV owner with long familiarity and charger-network habits | T2; T1; T4 |\n| S026 | University student sharing a household EV with parents | T2; T1 |\n| S027 | Night security worker, daytime home parking | T2; occasional T1 |\n| S028 | Electric two-wheeler food delivery rider using a home charger | T2 |\n| S029 | Coastal guesthouse manager with EV and verified guest charger | T2; T3 |\n| S030 | Courier making repeated urban stops in an electric car | T1; T2 |\n| S031 | Two-EV household sharing one wallbox | T2; T1 |\n| S032 | Community health worker visiting several villages | T2; T4; T1 |\n| S033 | Part-time ride-hailing driver who also has a day job | T2; T1 |\n| S034 | Restaurant proprietor with late closing and food-supply trips | T2; T1 |\n| S035 | Plantation-area commuter with steep routes and limited alternatives | T2; T4 |\n| S036 | Shared parking at a multi-generation home, no dedicated charger | T2; T1 |\n| S037 | Small-business technician making service calls with tools in EV | T1; T2; T4 |\n| S038 | Intercity passenger shuttle driver using an electric van in a hypothetical pilot fleet | T4; T1; T2 |\n| S039 | Home-charging household affected by an evening power outage | T2; occasional T1 |\n| S040 | Home wallbox failure, temporary reliance on public charging | T2; T1; T4 |\n\n---\n\n",
+  "cases": 40,
+  "answers": 800,
+  "questions_per_case": 20,
+  "source_offsets": "Zero-based character offsets in UTF-8 decoded text; end exclusive; lines one-based.",
+  "answer_preservation": "Exact source passages, excluding speaker headers and trailing separators/whitespace.",
+  "reviewed_answers": 0,
+  "simulator_ready": false,
+  "parameters_fitted": false,
+  "survey_owner_links_created": 0,
+  "synthetic_consent_is_real_consent": false,
+  "review_guidance": [
+    "Keep reported practice, hypothetical responses and exceptional periods distinct.",
+    "Q13 uses a hypothetical price prompt; inspect the full answer before coding.",
+    "Record explicit numerical statements only; do not translate qualitative words into probabilities.",
+    "Never join interview IDs to survey IDs by row order or matching number.",
+    "Do not treat these fictional cases as empirical frequencies or real participant quotations.",
+    "Case contexts describe discussion topics; they are not session allocation weights."
+  ],
+  "output_sha256": {
+    "interview_answers.jsonl": "63a042232c875724c59a4cdae343df8e6cde04822c532625db9862b9f92330c8",
+    "interview_cases.jsonl": "2b55122b51b42bc3b3fdc4699bc75cf583d6648a02fcfafa51c4c6705761a9bd",
+    "interview_coding_review.csv": "aa958a3686bbb91e921e1f5fa74ce01f24e9eb6a99a23e7f180babccce907baa"
+  }
+}

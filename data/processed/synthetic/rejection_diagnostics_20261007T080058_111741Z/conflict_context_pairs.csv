@@ -1,0 +1,17 @@
+﻿blocking_context,rejected_context,study_overlap_rejections
+T1,T1,1073
+T1,T2,52
+T1,T3,41
+T1,T4,58
+T2,T1,229
+T2,T2,5489
+T2,T3,125
+T2,T4,89
+T3,T1,35
+T3,T2,57
+T3,T3,59
+T3,T4,16
+T4,T1,22
+T4,T2,12
+T4,T3,13
+T4,T4,47

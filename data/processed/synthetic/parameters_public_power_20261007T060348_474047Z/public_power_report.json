@@ -1,0 +1,53 @@
+{
+  "schema_version": "public_power_report_v1",
+  "data_origin": "SYNTHETIC",
+  "power_evidence_status": "DEVELOPMENT_ASSUMPTIONS",
+  "scenario": "reduced_test",
+  "owner_summary": {
+    "owners_retained_in_audit": 170,
+    "owners_ready_for_bounded_test": 60,
+    "owners_deferred": 110,
+    "first_deferral_reasons": {
+      "usual_energy_kwh_unresolved_bounds": 38,
+      "sessions_per_week_unresolved_bounds": 35,
+      "T1_charger_type_unresolved": 9,
+      "home_power_kw_unresolved_bounds": 14,
+      "T3_charger_type_unresolved": 4,
+      "T4_charger_type_unresolved": 6,
+      "T2_charger_type_unresolved": 2,
+      "total_and_context_frequencies_do_not_overlap": 2
+    },
+    "ready_context_counts": {
+      "T2": 56,
+      "T1": 42,
+      "T3": 30,
+      "T4": 32
+    },
+    "recent_sessions_retained_upstream": 130,
+    "recent_sessions_used_for_fitting": 0,
+    "warning": "The selected pool is a biased completeness subset. Do not extrapolate its composition to Sri Lankan EV owners."
+  },
+  "power_summary": {
+    "home_contexts_preserved": 56,
+    "nonhome_contexts_updated": 104,
+    "nonhome_DC": 58,
+    "nonhome_AC": 38,
+    "nonhome_SOCKET_PORTABLE": 8
+  },
+  "config_rating_options": 8,
+  "input_sha256": {
+    "simulator_parameters.json": "1e281e58e9a6f4a89928e01fe052658b2b4dfc81d9118924969200bac263e1e0",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f",
+    "public_power_config.json": "32efe6aa7cc3e1c2df1fd84bf8d568d34f74ace1e259a2d527f702cb251d8808"
+  },
+  "output_sha256": {
+    "simulator_parameters.json": "1ba76e008372b6def33d265b4e6658cf882f72236f327441a619b595c0aa3732",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f"
+  },
+  "owner_profiles_preserved": true,
+  "readiness_file_copied_exactly": true,
+  "parameters_fitted": false,
+  "national_charger_mix_estimated": false,
+  "vehicle_connector_matching_completed": false,
+  "raw_data_changed": false
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": "session_run_audit_v1",
+  "data_origin": "SYNTHETIC",
+  "run_folder": "data/simulated/synthetic/sessions_20261008T171618_430626Z",
+  "study_days": 28,
+  "owners_simulated": 60,
+  "study_counts": {
+    "group": "TOTAL",
+    "study_candidate_starts": 1041,
+    "study_accepted_starts": 808,
+    "study_rejected_starts": 233,
+    "study_rejection_fraction": 0.22382324687800192,
+    "sampled_weekly_candidate_rate": 265.04706506532085,
+    "study_energy_kwh_including_carry_in": 21299.69163672797,
+    "median_accepted_study_duration_hours": 4.036329880810435,
+    "max_accepted_study_duration_hours": 49.88188621986205,
+    "mean_accepted_study_effective_power_kw": 11.169926587155993,
+    "rejected_study_candidate_energy_kwh": 7112.524382841927
+  },
+  "owners_with_study_rejections": 49,
+  "mean_daily_energy_kwh": 760.7032727402847,
+  "mean_profile_peak_kw": 48.29873903011061,
+  "mean_profile_peak_hours": [
+    15
+  ],
+  "largest_hourly_power_kw_in_run": 142.31562705695507,
+  "checks": {
+    "output_hashes_match": true,
+    "scheduling_replay_matches": true,
+    "session_energy_balances": true,
+    "hourly_series_matches_sessions": true,
+    "profile_matches_hourly_series": true,
+    "owner_readiness_preserved": true
+  },
+  "context_diagnostics": [
+    {
+      "group": "T1",
+      "study_candidate_starts": 288,
+      "study_accepted_starts": 245,
+      "study_rejected_starts": 43,
+      "study_rejection_fraction": 0.14930555555555555,
+      "sampled_weekly_candidate_rate": 70.57309197708939,
+      "study_energy_kwh_including_carry_in": 5662.830052883894,
+      "median_accepted_study_duration_hours": 1.4834914259961083,
+      "max_accepted_study_duration_hours": 10.88082483209081,
+      "mean_accepted_study_effective_power_kw": 18.643204208811124,
+      "rejected_study_candidate_energy_kwh": 1126.7463944918275,
+      "realized_weekly_candidate_starts": 72.0,
+      "realized_weekly_accepted_starts": 61.25
+    },
+    {
+      "group": "T2",
+      "study_candidate_starts": 638,
+      "study_accepted_starts": 461,
+      "study_rejected_starts": 177,
+      "study_rejection_fraction": 0.2774294670846395,
+      "sampled_weekly_candidate_rate": 166.7667846760988,
+      "study_energy_kwh_including_carry_in": 12765.602122718698,
+      "median_accepted_study_duration_hours": 8.177868191003038,
+      "max_accepted_study_duration_hours": 49.88188621986205,
+      "mean_accepted_study_effective_power_kw": 3.2549396181682466,
+      "rejected_study_candidate_energy_kwh": 5641.646363221448,
+      "realized_weekly_candidate_starts": 159.5,
+      "realized_weekly_accepted_starts": 115.25
+    },
+    {
+      "group": "T3",
+      "study_candidate_starts": 48,
+      "study_accepted_starts": 41,
+      "study_rejected_starts": 7,
+      "study_rejection_fraction": 0.14583333333333334,
+      "sampled_weekly_candidate_rate": 12.356410011664538,
+      "study_energy_kwh_including_carry_in": 1062.9313467821646,
+      "median_accepted_study_duration_hours": 1.9748396746687278,
+      "max_accepted_study_duration_hours": 7.074043213125625,
+      "mean_accepted_study_effective_power_kw": 16.657221101748714,
+      "rejected_study_candidate_energy_kwh": 176.68961310744209,
+      "realized_weekly_candidate_starts": 12.0,
+      "realized_weekly_accepted_starts": 10.25
+    },
+    {
+      "group": "T4",
+      "study_candidate_starts": 67,
+      "study_accepted_starts": 61,
+      "study_rejected_starts": 6,
+      "study_rejection_fraction": 0.08955223880597014,
+      "sampled_weekly_candidate_rate": 15.350778400468101,
+      "study_energy_kwh_including_carry_in": 1808.3281143432123,
+      "median_accepted_study_duration_hours": 0.7912971814070513,
+      "max_accepted_study_duration_hours": 3.3573789062580657,
+      "mean_accepted_study_effective_power_kw": 37.28266265764031,
+      "rejected_study_candidate_energy_kwh": 167.44201202120982,
+      "realized_weekly_candidate_starts": 16.75,
+      "realized_weekly_accepted_starts": 15.25
+    }
+  ],
+  "input_sha256": {
+    "sessions.csv": "6efef12bcb01a7d1de2768a5714d0adf07f3aee80614455557d4a47059043224",
+    "rejected_sessions.csv": "60e7dd3d46473b661339bb7589adeb26f9273322f3dcf7ed0cb18d64dc4aeb19",
+    "owner_rates.csv": "03e4f0c387724d3dea7d05ea5fbd405772e9e7070f90421f5f10cccd8ad64e3e",
+    "hourly_demand.csv": "ac809d998a57a117fc04fc1057f0cea22b604019d238f20db9ad23181b06bd3c",
+    "profile_24h.csv": "a48c451b3cc097ceecf20f78ac47ddb7b30617a580ebc56d67abe89403efa107",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f",
+    "simulation_report.json": "05bfec37dbe4825b4e4ff804478fe64d0123d2ddba3901355fc46be3eda5a179"
+  },
+  "interpretation": [
+    "Rejection fraction uses candidate starts in the study only; warm-up starts are excluded.",
+    "Study energy includes charging carried in from warm-up and excludes charging after the horizon.",
+    "Observed weekly start counts need not equal sampled Poisson rates in a finite run.",
+    "Rejected candidate energy is hypothetical, not measured unserved demand.",
+    "Rejection changes the realised frequency and energy; assess it before scaling or comparing scenarios.",
+    "No universal acceptable rejection threshold is established by this engineering audit.",
+    "This audit does not calibrate parameters, change the model or validate national demand."
+  ],
+  "output_sha256": {
+    "context_diagnostics.csv": "b6fa569951d83f11bf787f4df651df45825e24abbe3cd539b33a9ccee7bbe1bd",
+    "owner_diagnostics.csv": "55f0a68227b2df203d1cd859ec44b21ffb1be2a7379128ec90123807e4c8d19c"
+  }
+}

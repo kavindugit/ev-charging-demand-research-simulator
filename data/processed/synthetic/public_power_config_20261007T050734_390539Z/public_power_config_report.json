@@ -1,0 +1,14 @@
+{
+  "schema_version": "public_power_config_report_v1",
+  "data_origin": "DEVELOPMENT_ASSUMPTIONS",
+  "rating_options": 8,
+  "scenarios": [
+    "reduced_test",
+    "rated_ceiling_test"
+  ],
+  "generator_sha256": "b825f386a45c304d86e87b9d5a2d0e7502565083ec2016e1b1aee96ad73bafa1",
+  "config_sha256": "32efe6aa7cc3e1c2df1fd84bf8d568d34f74ace1e259a2d527f702cb251d8808",
+  "parameters_fitted": false,
+  "station_inventory_verified": false,
+  "owner_parameter_package_updated": false
+}

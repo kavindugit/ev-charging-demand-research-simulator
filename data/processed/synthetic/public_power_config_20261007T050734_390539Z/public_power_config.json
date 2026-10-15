@@ -1,0 +1,150 @@
+{
+  "schema_version": "public_power_config_v1",
+  "data_origin": "DEVELOPMENT_ASSUMPTIONS",
+  "purpose": "Synthetic engineering test only; no verified station inventory or national usage mixture.",
+  "fraction_meaning": "Average delivered session power divided by rated output; not conversion efficiency.",
+  "weight_meaning": "Equal test weights within each context and charger type; not observed usage probabilities.",
+  "scope": "Non-home equipment options; T1 may include private workplace charging. Public access and connector compatibility are unresolved.",
+  "scenarios": {
+    "reduced_test": {
+      "description": "Reduced average output for testing; not measured charging powers.",
+      "average_to_rated_power_fraction": {
+        "SOCKET_PORTABLE": [
+          1.0,
+          1.0
+        ],
+        "AC": [
+          0.7,
+          0.95
+        ],
+        "DC": [
+          0.6,
+          0.9
+        ]
+      }
+    },
+    "rated_ceiling_test": {
+      "description": "Rated output throughout a session: a sensitivity setting, not an observed profile or a guaranteed upper bound on aggregate hourly peaks.",
+      "average_to_rated_power_fraction": {
+        "SOCKET_PORTABLE": [
+          1.0,
+          1.0
+        ],
+        "AC": [
+          1.0,
+          1.0
+        ],
+        "DC": [
+          1.0,
+          1.0
+        ]
+      }
+    }
+  },
+  "rating_options": [
+    {
+      "rating_id": "TEST_SOCKET_PORTABLE_2",
+      "charger_code": "SOCKET_PORTABLE",
+      "rated_output_kw": 2.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "Previous engine-test power setting; not verified equipment."
+    },
+    {
+      "rating_id": "TEST_AC_7",
+      "charger_code": "AC",
+      "rated_output_kw": 7.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "Previous engine-test power setting; not verified equipment."
+    },
+    {
+      "rating_id": "TEST_AC_22",
+      "charger_code": "AC",
+      "rated_output_kw": 22.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "Additional engineering test option; not verified equipment."
+    },
+    {
+      "rating_id": "TEST_DC_20",
+      "charger_code": "DC",
+      "rated_output_kw": 20.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "User-reported charger example; unverified test option."
+    },
+    {
+      "rating_id": "TEST_DC_30",
+      "charger_code": "DC",
+      "rated_output_kw": 30.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "User-reported charger example; unverified test option."
+    },
+    {
+      "rating_id": "TEST_DC_40",
+      "charger_code": "DC",
+      "rated_output_kw": 40.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "User-reported charger example; unverified test option."
+    },
+    {
+      "rating_id": "TEST_DC_50",
+      "charger_code": "DC",
+      "rated_output_kw": 50.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "Previous engine-test power setting; not verified equipment."
+    },
+    {
+      "rating_id": "TEST_DC_90",
+      "charger_code": "DC",
+      "rated_output_kw": 90.0,
+      "contexts": [
+        "T1",
+        "T3",
+        "T4"
+      ],
+      "selection_weight": 1.0,
+      "evidence_status": "development_assumption",
+      "source_reference": "User-reported charger example; unverified test option."
+    }
+  ]
+}
