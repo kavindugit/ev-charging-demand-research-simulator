@@ -1,0 +1,65 @@
+{
+  "schema_version": "readiness_review_v1",
+  "data_origin": "SYNTHETIC",
+  "status": "complete",
+  "owners_reviewed": 170,
+  "owners_ready": 60,
+  "owners_deferred": 110,
+  "owners_with_multiple_detected_issues": 41,
+  "not_evaluable_checks": 143,
+  "first_deferral_counts": {
+    "usual_energy_kwh_unresolved_bounds": 38,
+    "sessions_per_week_unresolved_bounds": 35,
+    "T1_charger_type_unresolved": 9,
+    "home_power_kw_unresolved_bounds": 14,
+    "T3_charger_type_unresolved": 4,
+    "T4_charger_type_unresolved": 6,
+    "T2_charger_type_unresolved": 2,
+    "total_and_context_frequencies_do_not_overlap": 2
+  },
+  "detected_issue_owner_counts": {
+    "usual_energy_kwh_unresolved_bounds": 42,
+    "sessions_per_week_unresolved_bounds": 35,
+    "T1_charger_type_unresolved": 19,
+    "T3_charger_type_unresolved": 14,
+    "home_power_kw_unresolved_bounds": 25,
+    "T4_charger_type_unresolved": 18,
+    "home_equipment_type_conflict": 11,
+    "T2_charger_type_unresolved": 2,
+    "total_and_context_frequencies_do_not_overlap": 2
+  },
+  "input_and_source_sha256": {
+    "owners_features.csv": "bcac35900fbc1eec36e970946aea994c8136b46e1214d0b82fdb56d9a1d3e1bf",
+    "owner_contexts_features.csv": "a6212301a215269880f1519583ea443c1875fec9a747dcf0da37e0bcbfbe3477",
+    "recent_sessions_features.csv": "8575293ac91151f0172b4eaa004f1ab62bd7600b8e004999b24574915516d9a9",
+    "feature_report.json": "67c4c68ec1c44687ad19df6c0de045ca5770e5cd6f270122f4047aa405c484fa",
+    "simulator_parameters.json": "1e281e58e9a6f4a89928e01fe052658b2b4dfc81d9118924969200bac263e1e0",
+    "owner_readiness.csv": "7e6d2299ca5f30784aecde526e053f1de0e075e7feea9641d09ea699298d1f1f",
+    "review_source": "367ea99f606226077183279182bf3d857b12459564a2b7b9451a434db7271eea",
+    "builder_source": "13ebd56e4342394738dfc4613022c09fc651607c028edd916dea2d01d621bfb1"
+  },
+  "input_and_source_paths": {
+    "owners_features.csv": "E:\\ev-charging-demand-research-simulator\\data\\processed\\synthetic\\features_20260930T105224_893907Z\\owners_features.csv",
+    "owner_contexts_features.csv": "E:\\ev-charging-demand-research-simulator\\data\\processed\\synthetic\\features_20260930T105224_893907Z\\owner_contexts_features.csv",
+    "recent_sessions_features.csv": "E:\\ev-charging-demand-research-simulator\\data\\processed\\synthetic\\features_20260930T105224_893907Z\\recent_sessions_features.csv",
+    "feature_report.json": "E:\\ev-charging-demand-research-simulator\\data\\processed\\synthetic\\features_20260930T105224_893907Z\\feature_report.json",
+    "simulator_parameters.json": "E:\\ev-charging-demand-research-simulator\\data\\processed\\synthetic\\parameters_20260930T165222_125506Z\\simulator_parameters.json",
+    "owner_readiness.csv": "E:\\ev-charging-demand-research-simulator\\data\\processed\\synthetic\\parameters_20260930T165222_125506Z\\owner_readiness.csv",
+    "review_source": "E:\\ev-charging-demand-research-simulator\\src\\ev_demand\\parameters\\review_parameter_readiness.py",
+    "builder_source": "E:\\ev-charging-demand-research-simulator\\src\\ev_demand\\parameters\\build_simulator_parameters.py"
+  },
+  "original_readiness_reproduced": true,
+  "owner_eligibility_changed": false,
+  "empirical_validation": false,
+  "limitations": [
+    "Only checks on available encoded fields; conditional checks may remain not_evaluable.",
+    "Issue categories overlap; their owner counts must not be summed as distinct owners.",
+    "Behaviour rules and raw survey answers are not independently re-audited here.",
+    "No imputation, parameter fitting or owner promotion was performed."
+  ],
+  "output_sha256": {
+    "issue_summary.csv": "6ac2547b9ecdb35e3359169ba7a4012035883302501e94591fcbb2f0969832ce",
+    "owner_readiness_review.csv": "14b2f838fac69bc07a329f2a715bb4371a08a4f97743fd3408981219b6e382ef",
+    "readiness_checks.csv": "69178d8f676eaf0e5b4e5fda9433e7d6dab477821b04d50c7dd3a602ed628618"
+  }
+}

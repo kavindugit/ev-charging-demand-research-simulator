@@ -1,0 +1,10 @@
+﻿reason,owners_with_detected_issue,owners_with_first_deferral,next_action
+usual_energy_kwh_unresolved_bounds,42,38,Review usual-energy answer and encoding; unknown or open bounds need evidence or a separate assumption scenario.
+sessions_per_week_unresolved_bounds,35,35,"Review frequency answer, units and bounds; open upper bounds need clarification or a separate bounded scenario."
+home_power_kw_unresolved_bounds,25,14,Review reported home power and equipment; public charger ratings cannot supply missing home power.
+T1_charger_type_unresolved,19,9,Review charger type and equipment answer; mixed or unknown types need clarification or an explicit mixture scenario.
+T4_charger_type_unresolved,18,6,Review charger type and equipment answer; mixed or unknown types need clarification or an explicit mixture scenario.
+T3_charger_type_unresolved,14,4,Review charger type and equipment answer; mixed or unknown types need clarification or an explicit mixture scenario.
+home_equipment_type_conflict,11,0,Review charger type and equipment answer; mixed or unknown types need clarification or an explicit mixture scenario.
+T2_charger_type_unresolved,2,2,Review charger type and equipment answer; mixed or unknown types need clarification or an explicit mixture scenario.
+total_and_context_frequencies_do_not_overlap,2,2,Review total versus context frequency answers and unit conversion; do not silently force agreement.
