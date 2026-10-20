@@ -1,0 +1,13 @@
+﻿energy_case,power_case,generator,peak_of_mean_profile_kw,peak_hours
+bounded_uniform_test,reduced_test,poisson_control,43.47555298205112,[21]
+conditional_gamma_test,reduced_test,poisson_control,43.02508844264329,[21]
+conditional_lognormal_test,reduced_test,poisson_control,42.83153782159573,[21]
+bounded_uniform_test,reduced_test,availability_aware,59.034136164555825,[21]
+conditional_gamma_test,reduced_test,availability_aware,58.13646729953682,[21]
+conditional_lognormal_test,reduced_test,availability_aware,57.69618722773076,[21]
+bounded_uniform_test,rated_ceiling_test,poisson_control,43.851579811259626,[21]
+conditional_gamma_test,rated_ceiling_test,poisson_control,43.33012053522186,[21]
+conditional_lognormal_test,rated_ceiling_test,poisson_control,43.12600391368292,[21]
+bounded_uniform_test,rated_ceiling_test,availability_aware,59.27724239618405,[21]
+conditional_gamma_test,rated_ceiling_test,availability_aware,58.27413718585919,[21]
+conditional_lognormal_test,rated_ceiling_test,availability_aware,57.864697262604516,[21]

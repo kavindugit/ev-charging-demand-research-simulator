@@ -1,0 +1,307 @@
+{
+  "schema_version": "paired_availability_power_comparison_v1",
+  "status": "complete",
+  "data_origin": "SYNTHETIC",
+  "behaviour_input_origin": "SYNTHETIC",
+  "output_origin": "SIMULATED",
+  "reduced_pilot": "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z",
+  "rated_pilot": "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z",
+  "replicates": 10,
+  "owners_simulated": 60,
+  "energy_case": "conditional_lognormal_test",
+  "cohort": "common_energy_cases",
+  "study_days": 28,
+  "warmup_days": 7,
+  "paired_owner_parameter_selections": 600,
+  "matched_control_candidates_including_warmup": 13262,
+  "common_availability_serial_events_checked": 13224,
+  "availability_candidate_pairing": false,
+  "context_summary": [
+    {
+      "generator": "poisson_control",
+      "context": "T1",
+      "replicates": 10,
+      "pooled_target_events": 2736.870515597666,
+      "reduced_completions_to_target": 0.8169915190568349,
+      "rated_completions_to_target": 0.8250298971513118,
+      "reduced_mean_daily_energy_kwh": 182.75261867689062,
+      "rated_mean_daily_energy_kwh": 184.9639242449704,
+      "mean_daily_energy_difference_kwh": 2.211305568079774,
+      "paired_daily_energy_mcse_kwh": 0.8000577180429065,
+      "mean_completion_difference": 2.2,
+      "paired_completion_difference_mcse": 0.8406346808612327
+    },
+    {
+      "generator": "poisson_control",
+      "context": "T2",
+      "replicates": 10,
+      "pooled_target_events": 6723.858395855178,
+      "reduced_completions_to_target": 0.7434719331807402,
+      "rated_completions_to_target": 0.7443642779695149,
+      "reduced_mean_daily_energy_kwh": 473.46229785227246,
+      "rated_mean_daily_energy_kwh": 474.01956068179913,
+      "mean_daily_energy_difference_kwh": 0.5572628295266611,
+      "paired_daily_energy_mcse_kwh": 0.1638957753619565,
+      "mean_completion_difference": 0.6,
+      "paired_completion_difference_mcse": 0.16329931618554522
+    },
+    {
+      "generator": "poisson_control",
+      "context": "T3",
+      "replicates": 10,
+      "pooled_target_events": 509.61646384869607,
+      "reduced_completions_to_target": 0.8339604980387397,
+      "rated_completions_to_target": 0.8378850180295103,
+      "reduced_mean_daily_energy_kwh": 35.59131699954348,
+      "rated_mean_daily_energy_kwh": 35.898158635923515,
+      "mean_daily_energy_difference_kwh": 0.3068416363800296,
+      "paired_daily_energy_mcse_kwh": 0.17906808207594418,
+      "mean_completion_difference": 0.2,
+      "paired_completion_difference_mcse": 0.13333333333333333
+    },
+    {
+      "generator": "poisson_control",
+      "context": "T4",
+      "replicates": 10,
+      "pooled_target_events": 637.9098062020824,
+      "reduced_completions_to_target": 0.9452746989266012,
+      "rated_completions_to_target": 0.9546804173238808,
+      "reduced_mean_daily_energy_kwh": 59.59773508028279,
+      "rated_mean_daily_energy_kwh": 60.31766704118987,
+      "mean_daily_energy_difference_kwh": 0.7199319609070798,
+      "paired_daily_energy_mcse_kwh": 0.33402837745922337,
+      "mean_completion_difference": 0.6,
+      "paired_completion_difference_mcse": 0.26666666666666666
+    },
+    {
+      "generator": "poisson_control",
+      "context": "TOTAL",
+      "replicates": 10,
+      "pooled_target_events": 10608.255181503622,
+      "reduced_completions_to_target": 0.7789216849164065,
+      "rated_completions_to_target": 0.782315268440186,
+      "reduced_mean_daily_energy_kwh": 751.4039686089893,
+      "rated_mean_daily_energy_kwh": 755.1993106038829,
+      "mean_daily_energy_difference_kwh": 3.795341994893556,
+      "paired_daily_energy_mcse_kwh": 0.8265886873394754,
+      "mean_completion_difference": 3.6,
+      "paired_completion_difference_mcse": 0.8459051693633013
+    },
+    {
+      "generator": "availability_aware",
+      "context": "T1",
+      "replicates": 10,
+      "pooled_target_events": 2736.870515597666,
+      "reduced_completions_to_target": 1.0073549275669471,
+      "rated_completions_to_target": 1.0066241659219948,
+      "reduced_mean_daily_energy_kwh": 229.4519377322112,
+      "rated_mean_daily_energy_kwh": 229.57203538236112,
+      "mean_daily_energy_difference_kwh": 0.12009765014991274,
+      "paired_daily_energy_mcse_kwh": 0.6675414293026374,
+      "mean_completion_difference": -0.2,
+      "paired_completion_difference_mcse": 0.5333333333333333
+    },
+    {
+      "generator": "availability_aware",
+      "context": "T2",
+      "replicates": 10,
+      "pooled_target_events": 6723.858395855178,
+      "reduced_completions_to_target": 1.0041853356343984,
+      "rated_completions_to_target": 1.0050776804231731,
+      "reduced_mean_daily_energy_kwh": 664.1357174169843,
+      "rated_mean_daily_energy_kwh": 665.038134760537,
+      "mean_daily_energy_difference_kwh": 0.9024173435526108,
+      "paired_daily_energy_mcse_kwh": 0.4649217458410507,
+      "mean_completion_difference": 0.6,
+      "paired_completion_difference_mcse": 0.3711842908553348
+    },
+    {
+      "generator": "availability_aware",
+      "context": "T3",
+      "replicates": 10,
+      "pooled_target_events": 509.61646384869607,
+      "reduced_completions_to_target": 1.0144884176141846,
+      "rated_completions_to_target": 1.018412937604955,
+      "reduced_mean_daily_energy_kwh": 43.65258863653689,
+      "rated_mean_daily_energy_kwh": 43.742459361680716,
+      "mean_daily_energy_difference_kwh": 0.08987072514382355,
+      "paired_daily_energy_mcse_kwh": 0.0821020012478437,
+      "mean_completion_difference": 0.2,
+      "paired_completion_difference_mcse": 0.13333333333333333
+    },
+    {
+      "generator": "availability_aware",
+      "context": "T4",
+      "replicates": 10,
+      "pooled_target_events": 637.9098062020824,
+      "reduced_completions_to_target": 0.9139223042690025,
+      "rated_completions_to_target": 0.9076518253374828,
+      "reduced_mean_daily_energy_kwh": 58.1933113473075,
+      "rated_mean_daily_energy_kwh": 57.73835421785737,
+      "mean_daily_energy_difference_kwh": -0.4549571294501241,
+      "paired_daily_energy_mcse_kwh": 0.33938902497863893,
+      "mean_completion_difference": -0.4,
+      "paired_completion_difference_mcse": 0.26666666666666666
+    },
+    {
+      "generator": "availability_aware",
+      "context": "TOTAL",
+      "replicates": 10,
+      "pooled_target_events": 10608.255181503622,
+      "reduced_completions_to_target": 1.000070211216042,
+      "rated_completions_to_target": 1.0002587436340298,
+      "reduced_mean_daily_energy_kwh": 995.4335551330399,
+      "rated_mean_daily_energy_kwh": 996.0909837224361,
+      "mean_daily_energy_difference_kwh": 0.6574285893962042,
+      "paired_daily_energy_mcse_kwh": 1.1254531612495384,
+      "mean_completion_difference": 0.2,
+      "paired_completion_difference_mcse": 0.916515138991168
+    }
+  ],
+  "ensemble_mean_peaks": {
+    "poisson_control": {
+      "reduced": {
+        "peak_of_mean_profile_kw": 42.83153782159573,
+        "peak_hours": [
+          21
+        ]
+      },
+      "rated": {
+        "peak_of_mean_profile_kw": 43.12600391368292,
+        "peak_hours": [
+          21
+        ]
+      }
+    },
+    "availability_aware": {
+      "reduced": {
+        "peak_of_mean_profile_kw": 57.69618722773076,
+        "peak_hours": [
+          21
+        ]
+      },
+      "rated": {
+        "peak_of_mean_profile_kw": 57.864697262604516,
+        "peak_hours": [
+          21
+        ]
+      }
+    }
+  },
+  "calibration_status_counts": {
+    "reduced": {
+      "proxy_target_matched": 594,
+      "zero_idle_proxy_below_target_review": 6
+    },
+    "rated": {
+      "proxy_target_matched": 594,
+      "zero_idle_proxy_below_target_review": 6
+    }
+  },
+  "verification_selections_outside_band": {
+    "reduced": 8,
+    "rated": 8
+  },
+  "new_random_draws": 0,
+  "new_demand_simulations": 0,
+  "empirical_validation": false,
+  "policy": [
+    "Positive differences mean rated minus reduced. Compare both generators separately.",
+    "All original selected owner parameters match. Expected weekly occupation may change with public power and is not an unchanged latent draw.",
+    "Poisson control candidates are paired by ID, start time, energy, rating and power-independent attributes, including rejected and warm-up candidates.",
+    "Availability runs are paired on owner selections and common serial event attributes, not identical calendar candidates. Each power case calibrates its own idle gap; this comparison includes that policy response.",
+    "A negative energy difference is allowed. Fixed session energy, changing timing, carry-in/out and finite-study counts do not require rated power to increase daily kWh.",
+    "MCSE uses paired whole-cohort replicate differences, not owners or hours treated as independent samples. It measures conditional simulation sampling error, not input-fit uncertainty or empirical accuracy.",
+    "Mean-profile peaks and tied hours are reported separately for each case. Peak of the ensemble mean is not mean daily peak demand.",
+    "All calibration review selections remain included. No generator, owner exclusion or power case is selected automatically."
+  ],
+  "checks": {
+    "source_hashes_verified": true,
+    "original_owner_draws_paired": true,
+    "expected_hours_difference_allowed": true,
+    "poisson_candidate_attributes_paired": true,
+    "availability_common_serial_attributes_checked": true,
+    "no_owner_overlaps": true,
+    "session_boundary_and_hourly_energy_checked": true,
+    "full_source_grids_checked": true,
+    "paired_mean_profiles_conserve_energy": true,
+    "input_files_unchanged": true
+  },
+  "input_sha256": {
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/availability_generator_report.json": "2b65fbf522d1b1d115e96e647845f0384a35f54fa6f60e7b032ee4e3c69c6dfa",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/control_rejected_sessions.csv": "1a09059a2b55c8a111df6b250ac56672b0993112d17c30345049f34ecaa77740",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/generator_summary.csv": "d0c6ec8b4e67ba06b160294adf51b769493e6339c82f78623d91a4d35a663b4c",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/mean_profile_24h.csv": "2c61ace2692f949f8dd4c8f1470131e3de1d9dda8d6db38e1e3917be24900e3a",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/owner_calibration.csv": "009ebf41323505834502e5ee35152733725b625fbb237875c02518493c1cab99",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/owner_generator_diagnostics.csv": "da4ccfccb7c10829fff0f6b07b1f17171d552b5e760322342d277f60e6f67c45",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/replicate_comparison.csv": "fe6852bf33a52a9eb6cf853105f25706824615be67b75090d3fa029a05870060",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/replicate_profiles.csv": "1794f7b83a7be14a12d4851152525d90cf105859479ee643e483164131ca7d71",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/selected_owner_parameters.csv": "99aa67fadf1d8c6f73deb6857530f9b02a72bb81f438a6cd4107efb8190ebe4d",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T045820_640160Z/sessions.csv": "133b02c3861b35753b6b72c6a70e479104f415b801cd6d6e6ab1eb4608491efe",
+    "data/processed/synthetic/window_screened_parameters_20261018T143723_795339Z/window_screen_sensitivity.json": "d6eb2b410ab4cd522b9b6681bc9c7de1614d5a1624643b7e7030b60524bce9a4",
+    "data/processed/synthetic/window_screened_parameters_20261018T143723_795339Z/screened_parameter_draws.csv": "5dd1ebaaf13b98decd8fefebda8cf380d9ff767a7780150cfb76c92b1ea35960",
+    "data/processed/synthetic/window_screened_parameters_20261018T143723_795339Z/window_capacity_assessments.csv": "1afdd2501d1106847a0d21d11bca335b9864e9d94aed7c0ea03ab69f84bee2e9",
+    "data/processed/synthetic/window_screened_parameters_20261018T143723_795339Z/window_parameter_distribution_changes.csv": "27348c024e43e8607f4bdd76e62a03c4b6970d935638ee127dd601cb145f431b",
+    "data/processed/synthetic/window_screened_parameters_20261018T143723_795339Z/window_screen_block_audit.csv": "6376cade369cc31a012b6ed564e7df5605ef1f7f87e278c87cd5808fe40beab1",
+    "data/processed/synthetic/window_screened_parameters_20261018T143723_795339Z/window_screen_group_summary.csv": "35880e13618e63fd9f03b915289979c260fa9e8420f8c03c2536e60e71dd1a94",
+    "data/processed/synthetic/window_screened_parameters_20261018T143723_795339Z/window_screen_owner_audit.csv": "3af95c67f1acee1867a74b394142fa15835edc08244aa0f7c315f32968910ebf",
+    "data/processed/synthetic/time_screened_parameters_20261018T110239_093828Z/time_screen_sensitivity.json": "ce4a7fa39c3334e559c1d937919536c75d1e93afbfd0eae44d943b8c67676d82",
+    "data/processed/synthetic/time_screened_parameters_20261018T110239_093828Z/parameter_distribution_changes.csv": "fba029b1b5c58737dd7f3b2db85e89a60a9c0eee52a4267ed2ede97cafc618b8",
+    "data/processed/synthetic/time_screened_parameters_20261018T110239_093828Z/screened_parameter_draws.csv": "60da715dc43af3290212df78b8a6110ddd923f62a4b14cfb81e4c827546e7d0f",
+    "data/processed/synthetic/time_screened_parameters_20261018T110239_093828Z/time_screen_block_audit.csv": "b590148e7f84711e4fee70df6101f80a50e0bd432b0cacc35455fbb1946d05fc",
+    "data/processed/synthetic/time_screened_parameters_20261018T110239_093828Z/time_screen_group_summary.csv": "e04992405304307573a8bebf6300513ffa305e7d9c25a7800ab7256bd4b18c60",
+    "data/processed/synthetic/time_screened_parameters_20261018T110239_093828Z/time_screen_owner_audit.csv": "fd52b2b429d937448997dbaf9887559a9ed020fae265a940a1438241230563d5",
+    "data/processed/synthetic/start_window_capacity_20261018T115808_972274Z/start_window_capacity_report.json": "a718290b3a4d1784b8735f2b07fff4599ceffb32813b6e74fc2f86a9bc175e9e",
+    "data/processed/synthetic/start_window_capacity_20261018T115808_972274Z/capacity_summary.csv": "ee5a10e9bd4d8b6d8b10772c4ba93371b780d7d00e48efff0c313ccbb33b6a72",
+    "data/processed/synthetic/start_window_capacity_20261018T115808_972274Z/context_capacity_audit.csv": "e80d9500ef624c5b788688e3203eb100e37b19c42d0d1894b1ae56c96cdfeaae",
+    "data/processed/synthetic/start_window_capacity_20261018T115808_972274Z/owner_capacity_review.csv": "35cbbb1806091964b937a2ebca6caa8cf69300f7ce4ff4d2234990b2fe5fb8f9",
+    "data/processed/synthetic/start_window_capacity_20261018T115808_972274Z/owner_parameter_capacity_audit.csv": "b20d88e70b970688d877ed8425b74d73fbc1a4589e6f638c65a655ee2816c34a",
+    "data/processed/synthetic/behaviour_population_model_20261018T100655_764852Z/behaviour_population_model.json": "04f290c6df51b5c75169f4195fbf4a2b30f5c7e8be6154ab85794d30b2c21e4f",
+    "data/processed/synthetic/behaviour_population_model_20261018T100655_764852Z/joint_owner_parameter_test_draws.csv": "592a16311a72ccfe6a49439e1a39b830dd575086f67a47ceadbd5ae0a6f3ee25",
+    "data/processed/synthetic/behaviour_population_model_20261018T100655_764852Z/population_case_summary.csv": "82ea8af8049862e8ef17001a51682df0e355cdde9d64b8ab7fcf0e4917e06b37",
+    "data/processed/synthetic/behaviour_population_model_20261018T100655_764852Z/population_context_audit.csv": "13dba7dbbb0c4dad73767d740ad65af9f3663b7cac2ac7af8ee14ac144f6ecf1",
+    "data/processed/synthetic/behaviour_population_model_20261018T100655_764852Z/population_owner_case_audit.csv": "cd29fd5395a026049dccd8473a0aa6ae23da7e9c54fb88756d8c13444bf3a0c6",
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "src/ev_demand/parameters/build_simulator_parameters.py": "13ebd56e4342394738dfc4613022c09fc651607c028edd916dea2d01d621bfb1",
+    "src/ev_demand/parameters/build_population_evidence.py": "abe913bfee5d21b9e3204d396b0f927d324a4b506e1c7e6eaa67c036a57f03d3",
+    "src/ev_demand/parameters/build_time_screened_sensitivity.py": "96758d43c2bb20681df967c43a8c6c1579b6cc47d97c958cb913e91d6f6ec53f",
+    "data/processed/synthetic/owner_time_budget_20261018T103435_256521Z/owner_time_budget_report.json": "f848ac4781cdd83b37eb92dedeb9c93c91c1a8f6f6000ff1c71b5abdc0bb8352",
+    "data/processed/synthetic/owner_time_budget_20261018T103435_256521Z/owner_time_budget_draws.csv": "f2afae6cec7bf8e53a99f07e6f257a53372479d2458b050131d736a609f382b9",
+    "data/processed/synthetic/owner_time_budget_20261018T103435_256521Z/time_budget_case_summary.csv": "f48040b1c58c170200c37b5b78d76abd4fc2d48a163adb74fbbbc60f2859639d",
+    "data/processed/synthetic/owner_time_budget_20261018T103435_256521Z/time_budget_owner_summary.csv": "9ea6606747ac043a674e53c507e0e4a95437256aca2c782dc48e2c73047413f7",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/joint_parameter_pilot_report.json": "97708ecbe81ef0761f30e8fd5518c236a42fe0f20c15ac32062eb39e7f679600",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/frequency_summary.csv": "adf340b13c061dd06f81bc17b84f75a3bb5ef7814a50cb2cbcf1f0cd92d0b122",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/mean_profile_24h.csv": "b5db674dc91d24db98d7a1ceba747b2458e1a099aea749c683cc6e3662ec7b12",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/owner_frequency_diagnostics.csv": "448d1c6a04e078bfd15cee9f027edbcbe1988b856f7a0b2af0d010c1de53940a",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/rejected_sessions.csv": "451c931d593389a160b69e334f0ee1aa9be0a1adbac1b0274828072818803df8",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/replicate_profiles.csv": "5b1026bf47269c5a906ca9da55c11438d277be8014b900fd1c50bf8a72b49619",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/replicate_summaries.csv": "089395d9b2f4dfae4cfbd778de01028ff87bc609dd7c79745027d7d63f796d24",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/selected_owner_parameters.csv": "b919f163b984034650bfd4d7c2f583017675617bd6a38e8865b59c2c01fe6640",
+    "data/simulated/synthetic/joint_parameter_pilot_20261018T111602_408918Z/sessions.csv": "d1977d4b77b73f1ed1bdeb614bd6dd8a605c5808c13028cef568a7820dc5b890",
+    "src/ev_demand/parameters/assess_owner_time_budget.py": "5aa15b0f6c149245c82760e02a87a09c178caaa6b1d51fa10ba6896cd8cea830",
+    "src/ev_demand/parameters/build_public_power_layer.py": "96a92d41bde4ca391f2d474321d4c0a46830a2c1277c5719614b5eaca51b5d92",
+    "src/ev_demand/simulation/run_session_simulator.py": "91bd6879292783ca2211ab376aa439cc0a98652ffdbc83f30999a58ae5b5bc76",
+    "src/ev_demand/simulation/run_joint_parameter_pilot.py": "d880d4ae1b97fe1fde2c3630b6b28c05ab03732a0bf7a9aad9e07a208d1aea7b",
+    "src/ev_demand/simulation/assess_start_window_capacity.py": "2ddcaa8cdb5ab0ced787280c0c43c4a50fb4384c29616a112c867675317205b6",
+    "src/ev_demand/parameters/build_window_screened_sensitivity.py": "e8579cf69620cb51a50d8ff7fcdfea570dcdcd436b3d5cdf367266b9084c81ff",
+    "src/ev_demand/simulation/run_availability_generator_pilot.py": "afeb7a114636174796067ea5ac8960d770de1019eedfb1b7bc5939ceba1109ab",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/availability_generator_report.json": "989ef3b7190a295baf5c23dcd2e8705249e5edcb0a39bc73cd57ba138dbd2527",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/control_rejected_sessions.csv": "0be965e9e5366da9b09fdd05a4c588835810f0f9d2f586ff202406939839898a",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/generator_summary.csv": "74a89825507f204110fd894024e880b42ea48ab5583b27ac138cc0a03bc17fcb",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/mean_profile_24h.csv": "0002fe6a54bc976af6432b2a502fe8394fcaae8f03b3b9b59d1606d39e8b3b37",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/owner_calibration.csv": "5ebb13d4e6658d8fa77a2b87f481e921f45c2406bfabcadc80e5a4659a22cfff",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/owner_generator_diagnostics.csv": "4eb10e71a95dfa3bd2867abb49e50884940946efbb34eb365dceceb8a66018d4",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/replicate_comparison.csv": "6086bfbdf47ff465091df904d456cfaff5aa64cd8bf9c04319d6053a4635489e",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/replicate_profiles.csv": "b6a8d6947f51fa24e3437fc436a58a17cf25c283e73ea4e0c884b46473c7467d",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/selected_owner_parameters.csv": "658af98e110dbb8f15bc5af727211bdef0bf5e8c628ee62b0071cd155f66cc9c",
+    "data/simulated/synthetic/availability_generator_pilot_20261020T060025_705733Z/sessions.csv": "66cc28d750f882fbd7fd809828ee3fcad64be07c2354973b3e198e34b64331d8",
+    "src/ev_demand/simulation/compare_availability_power_pilots.py": "a94ef6526e1b0cb1e197ddc13451115202a8bdd4fc3fdd0e67a4961bbc3cc473"
+  },
+  "output_sha256": {
+    "context_power_summary.csv": "9c465f836ec02533a32c4b7d92b81ed4f524e93f0e1008aa5a945faf17d2139a",
+    "mean_profile_comparison.csv": "e1bdf7c22d8f7e9e42cc9ca7675042c34c9aa19b5b60ebf67413ed3070dfd495",
+    "owner_calibration_comparison.csv": "9cf67d2a98c7d8121788e2a7423e970713950632f9f1304c3b6cc5b9d1b95961",
+    "paired_hourly_profiles.csv": "d0a69cabe455ab6f6c668968327bf7a47c4bcbcc1a79387429c8ed076666e705",
+    "paired_replicate_metrics.csv": "d080d7189575550b9a878d7c43bb158baa9185713dbaa3e5f84450815e90769d"
+  }
+}
