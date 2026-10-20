@@ -1,0 +1,38 @@
+{
+  "schema_version": "pp1_offline_dashboard_v1",
+  "data_origin": "SYNTHETIC",
+  "status": "complete",
+  "created_utc": "2026-10-16T11:25:49.956641+00:00",
+  "bundle_folder": "outputs/synthetic/pp1_demo_20261016T105039_522996Z",
+  "settings": {
+    "study_days": 28,
+    "warmup_days": 7,
+    "replicates_per_case": 100,
+    "owners_simulated": 60,
+    "owners_retained": 170,
+    "owners_deferred": 110,
+    "base_seed": 20261007,
+    "scenarios": {
+      "reduced": "reduced_test",
+      "rated": "rated_ceiling_test"
+    }
+  },
+  "input_sha256": {
+    "demo_bundle.json": "2648349b53cbb8a76912b374eb0366f1559ccb0b663b9ad5ccd0730cf7dc5385",
+    "demo_bundle_report.json": "18a457855d5ccd3c9003029906027110fd0a79b3e8874f21e240906f4aaf10f5"
+  },
+  "source_sha256": {
+    "src/ev_demand/demo/build_pp1_dashboard.py": "3f1cc5c2f830a14552accffbe94d2af40c59942c772d57b6b1cc77a271fe6f4a"
+  },
+  "output_sha256": {
+    "pp1_dashboard.html": "f7c775e19db6d397879db33cbe797a57c07d9e1dbce93fa8f6b85555ca9a56d5"
+  },
+  "checks": {
+    "bundle_hash_matches": true,
+    "packaging_checks_passed": true,
+    "source_bundle_unchanged": true
+  },
+  "empirical_validation": false,
+  "national_forecast_ready": false,
+  "ml_model_trained": false
+}
