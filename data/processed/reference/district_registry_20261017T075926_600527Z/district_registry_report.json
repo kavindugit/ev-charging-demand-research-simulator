@@ -1,0 +1,65 @@
+{
+  "schema_version": "district_registry_v1",
+  "status": "complete",
+  "registry_origin": "PUBLIC_REFERENCE",
+  "districts": 25,
+  "provinces": 9,
+  "source_records_checked": 14008,
+  "alias_keys": 30,
+  "coding_scheme": "Project IDs DCS-<province code><district-within-province code>; not ISO codes",
+  "source": {
+    "source_id": "DCS_ADMINISTRATIVE_DIVISION_CODES",
+    "page_url": "https://www.statistics.gov.lk/qlink/AdminDivCode",
+    "download_url": "https://www.statistics.gov.lk/qlink/AdminDivCodes_Excel",
+    "final_url": "https://www.statistics.gov.lk/qlink/AdminDivCodes_Excel",
+    "acquisition": "downloaded_from_official_endpoint",
+    "retrieved_utc": "2026-10-17T07:59:26.600527+00:00",
+    "source_reference_date": null,
+    "reference_date_note": "Workbook reference date not established; retrieval date is recorded separately.",
+    "workbook_sheet": "GNDList",
+    "snapshot": "data/raw/public/district_registry_sources/20261017T075926_600527Z/dcs_administrative_division_codes.xlsx",
+    "sha256": "c4d40c4478b306eebaba4aba3a0bf9be30d5f589d4d05440040be14524f363e0"
+  },
+  "owner_audit": {
+    "performed": true,
+    "owners": 170,
+    "matched": 170,
+    "unmatched": 0,
+    "match_status_counts": {
+      "matched_canonical": 166,
+      "matched_alias": 4
+    },
+    "input_origins": {
+      "SYNTHETIC": 170
+    },
+    "unmatched_answers": {}
+  },
+  "checks": {
+    "district_code_name_pairs_match": true,
+    "province_pairs_match": true,
+    "gnd_prefixes_confirm_codes": true,
+    "alias_keys_unambiguous": true,
+    "input_hashes_unchanged": true
+  },
+  "input_sha256": {
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "src/ev_demand/geography/build_district_registry.py": "e2c2e0c72b9ef49a440220a93f1bbe02e42fae72682d16174f6a0a2129452695",
+    "data/processed/synthetic/features_20260930T105224_893907Z/owners_features.csv": "bcac35900fbc1eec36e970946aea994c8136b46e1214d0b82fdb56d9a1d3e1bf",
+    "data/raw/public/district_registry_sources/20261017T075926_600527Z/dcs_administrative_division_codes.xlsx": "c4d40c4478b306eebaba4aba3a0bf9be30d5f589d4d05440040be14524f363e0"
+  },
+  "output_sha256": {
+    "district_aliases.csv": "fdd3d58f673d43852a4dc0352118e792f2caabfd7480627a6d3846d5f18d9305",
+    "district_registry.csv": "c51729b49f6afba7b97881f08faf5b7868ef371661d86b627d1be58d6e96e075",
+    "owner_home_district_matches.csv": "dc3b1ed88cac5fc528676f1b2536b027027a65f24ad5f964541581c55bc55b20"
+  },
+  "geometry_included": false,
+  "fleet_counts_included": false,
+  "district_demand_ready": false,
+  "interpretation": [
+    "Only administrative identity fields are extracted from the official workbook.",
+    "Spelling variants and name normalization are declared project matching rules; no fuzzy matching.",
+    "Numeric/ISO codes and city names are not automatically interpreted as district-name answers.",
+    "Owner matches identify residence, not charging locations or national fleet shares.",
+    "Unmatched answers are retained; no owner readiness or simulator parameters are changed."
+  ]
+}

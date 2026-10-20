@@ -1,0 +1,75 @@
+{
+  "schema_version": "research_source_inventory_v1",
+  "status": "complete",
+  "created_utc": "2026-10-17T08:06:27.287464+00:00",
+  "output_origin": "DERIVED_INVENTORY",
+  "registry_folder": "data/processed/reference/district_registry_20261017T075926_600527Z",
+  "districts": 25,
+  "provinces": 9,
+  "source_groups": 7,
+  "verified_source_groups": 1,
+  "unregistered_source_groups": 6,
+  "district_input_coverage_rows": 175,
+  "registry_source": {
+    "source_id": "DCS_ADMINISTRATIVE_DIVISION_CODES",
+    "page_url": "https://www.statistics.gov.lk/qlink/AdminDivCode",
+    "download_url": "https://www.statistics.gov.lk/qlink/AdminDivCodes_Excel",
+    "final_url": "https://www.statistics.gov.lk/qlink/AdminDivCodes_Excel",
+    "acquisition": "downloaded_from_official_endpoint",
+    "retrieved_utc": "2026-10-17T07:59:26.600527+00:00",
+    "source_reference_date": null,
+    "reference_date_note": "Workbook reference date not established; retrieval date is recorded separately.",
+    "workbook_sheet": "GNDList",
+    "snapshot": "data/raw/public/district_registry_sources/20261017T075926_600527Z/dcs_administrative_division_codes.xlsx",
+    "sha256": "c4d40c4478b306eebaba4aba3a0bf9be30d5f589d4d05440040be14524f363e0"
+  },
+  "upstream_owner_residence_audit": {
+    "performed": true,
+    "owners": 170,
+    "matched": 170,
+    "unmatched": 0,
+    "match_status_counts": {
+      "matched_canonical": 166,
+      "matched_alias": 4
+    },
+    "input_origins": {
+      "SYNTHETIC": 170
+    },
+    "unmatched_answers": {}
+  },
+  "district_demand_ready": false,
+  "new_sources_downloaded": 0,
+  "checks": {
+    "upstream_export_hashes_match": true,
+    "raw_snapshot_hash_matches": true,
+    "registry_reproduced_from_snapshot": true,
+    "owner_audit_summary_matches": true,
+    "unique_district_requirement_pairs": true,
+    "input_hashes_unchanged": true
+  },
+  "input_sha256": {
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "src/ev_demand/geography/build_district_registry.py": "e2c2e0c72b9ef49a440220a93f1bbe02e42fae72682d16174f6a0a2129452695",
+    "src/ev_demand/geography/build_source_inventory.py": "66add569ac6e8678043e7a3b2343af56d69a62e3513da205fd154a6c46997a92",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/district_registry_report.json": "026d80f2a87041bd792636757ca28c13d666e117a9ce46928c524f395652f9ed",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/district_aliases.csv": "fdd3d58f673d43852a4dc0352118e792f2caabfd7480627a6d3846d5f18d9305",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/district_registry.csv": "c51729b49f6afba7b97881f08faf5b7868ef371661d86b627d1be58d6e96e075",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/owner_home_district_matches.csv": "dc3b1ed88cac5fc528676f1b2536b027027a65f24ad5f964541581c55bc55b20",
+    "data/raw/public/district_registry_sources/20261017T075926_600527Z/dcs_administrative_division_codes.xlsx": "c4d40c4478b306eebaba4aba3a0bf9be30d5f589d4d05440040be14524f363e0"
+  },
+  "output_sha256": {
+    "district_input_coverage.csv": "5559e0cf2961f56d7b4a5925e297250acd42e0c0c6736cebeab19b0576dcb307",
+    "source_inventory.csv": "f3740b017f5a246b1e2705703d87568190e7c77ae0c82511efed88572a4fa909"
+  },
+  "interpretation": [
+    "Scope: district identity and spatial/fleet input requirements; not a full project data audit.",
+    "Only the supplied registry is registered as verified evidence in this inventory.",
+    "not_registered does not prove a file is absent elsewhere in the project.",
+    "Source URLs are discovery leads; no additional datasets are downloaded or assessed here.",
+    "Missing numeric inputs remain unspecified; no zero values, fleet shares or demand curves are invented.",
+    "Registry PUBLIC_REFERENCE origin is separate from owner behavioral-data origins.",
+    "Workbook reference date remains unknown; snapshot retrieval time is recorded separately.",
+    "Next: behavioral population specification, then acquire/process the pending spatial and fleet inputs.",
+    "Behavioral parameters, owner eligibility, fleet scenarios and simulations are unchanged."
+  ]
+}

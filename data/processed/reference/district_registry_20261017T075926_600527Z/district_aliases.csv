@@ -1,0 +1,31 @@
+﻿alias,normalized_alias,district_id,district_name,alias_kind
+Colombo,colombo,DCS-11,Colombo,canonical
+Gampaha,gampaha,DCS-12,Gampaha,canonical
+Kalutara,kalutara,DCS-13,Kalutara,canonical
+Kandy,kandy,DCS-21,Kandy,canonical
+Matale,matale,DCS-22,Matale,canonical
+Nuwara Eliya,nuwara eliya,DCS-23,Nuwara Eliya,canonical
+NuwaraEliya,nuwaraeliya,DCS-23,Nuwara Eliya,declared_spelling_variant
+Galle,galle,DCS-31,Galle,canonical
+Matara,matara,DCS-32,Matara,canonical
+Hambantota,hambantota,DCS-33,Hambantota,canonical
+Hambanthota,hambanthota,DCS-33,Hambantota,declared_spelling_variant
+Jaffna,jaffna,DCS-41,Jaffna,canonical
+Mannar,mannar,DCS-42,Mannar,canonical
+Vavuniya,vavuniya,DCS-43,Vavuniya,canonical
+Mullaitivu,mullaitivu,DCS-44,Mullaitivu,canonical
+Kilinochchi,kilinochchi,DCS-45,Kilinochchi,canonical
+Batticaloa,batticaloa,DCS-51,Batticaloa,canonical
+Ampara,ampara,DCS-52,Ampara,canonical
+Trincomalee,trincomalee,DCS-53,Trincomalee,canonical
+Kurunegala,kurunegala,DCS-61,Kurunegala,canonical
+Puttalam,puttalam,DCS-62,Puttalam,canonical
+Anuradhapura,anuradhapura,DCS-71,Anuradhapura,canonical
+Polonnaruwa,polonnaruwa,DCS-72,Polonnaruwa,canonical
+Badulla,badulla,DCS-81,Badulla,canonical
+Moneragala,moneragala,DCS-82,Moneragala,canonical
+Monaragala,monaragala,DCS-82,Moneragala,declared_spelling_variant
+Ratnapura,ratnapura,DCS-91,Ratnapura,canonical
+Rathnapura,rathnapura,DCS-91,Ratnapura,declared_spelling_variant
+Ratnapure,ratnapure,DCS-91,Ratnapura,declared_spelling_variant
+Kegalle,kegalle,DCS-92,Kegalle,canonical
