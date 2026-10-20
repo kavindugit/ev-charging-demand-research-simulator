@@ -1,0 +1,121 @@
+{
+  "schema_version": "usual_energy_candidate_fits_v1",
+  "status": "candidates_for_review",
+  "data_origin": "SYNTHETIC",
+  "parameter_id": "usual_energy_kwh",
+  "target": "Between-owner distribution of reported usual session energy; one contribution per owner",
+  "conditioning_group": "Pooled retained owners with informative usual-energy bounds",
+  "owners_retained": 170,
+  "owners_used": 144,
+  "owners_excluded": 26,
+  "included_likelihood_types": {
+    "interval_censored": 128,
+    "right_censored": 16
+  },
+  "exclusion_reasons": {
+    "unresolved": 26
+  },
+  "method": "Two-parameter positive continuous interval/censored maximum likelihood; location fixed at zero",
+  "lowest_aic_candidate": "gamma",
+  "candidates": [
+    {
+      "family": "lognormal",
+      "n_owners_used": 144,
+      "n_free_parameters": 2,
+      "shape": 0.8912077716893984,
+      "scale_kwh": 23.620566565981967,
+      "fixed_location_kwh": 0.0,
+      "mu_log_kwh": 3.1621177971869576,
+      "log_likelihood": -238.93713291467043,
+      "aic": 481.87426582934086,
+      "bic": 487.81389242849286,
+      "mean_kwh": 35.136604255139254,
+      "std_kwh": 38.69469729967198,
+      "p05_kwh": 5.453248365880286,
+      "median_kwh": 23.620566565981967,
+      "p95_kwh": 102.31170991382514,
+      "successful_starts": 3,
+      "agreeing_starts": 3,
+      "selected_start": 1,
+      "delta_aic": 13.771225936373753
+    },
+    {
+      "family": "gamma",
+      "n_owners_used": 144,
+      "n_free_parameters": 2,
+      "shape": 1.6960030958418875,
+      "scale_kwh": 18.516584763022855,
+      "fixed_location_kwh": 0.0,
+      "mu_log_kwh": "",
+      "log_likelihood": -232.05151994648355,
+      "aic": 468.1030398929671,
+      "bic": 474.0426664921191,
+      "mean_kwh": 31.404185082505485,
+      "std_kwh": 24.114274921586816,
+      "p05_kwh": 4.459639117324004,
+      "median_kwh": 25.493705621968644,
+      "p95_kwh": 78.54769078191732,
+      "successful_starts": 3,
+      "agreeing_starts": 3,
+      "selected_start": 1,
+      "delta_aic": 0.0
+    }
+  ],
+  "electrical_boundary": "Reported kWh; meter-versus-battery boundary unresolved",
+  "software": {
+    "python": "3.12.0",
+    "numpy": "2.5.3",
+    "scipy": "1.17.0"
+  },
+  "assumptions": [
+    "One owner-level usual-energy report is treated as a coarsened observation of a positive latent usual energy.",
+    "These are marginal candidate fits; reporting intervals/censoring are assumed usable for this likelihood.",
+    "Unresolved reports are excluded only from this fit; their owners remain in the evidence package.",
+    "Missingness may be informative; fits do not identify the full population distribution without additional assumptions.",
+    "Continuous interval endpoints have zero probability mass; exact positive points use probability densities.",
+    "Lognormal shape is sigma and scale is exp(mu); Gamma shape is alpha and scale is theta in kWh.",
+    "No midpoint substitution, imputation or energy-tail cap is applied.",
+    "AIC/BIC are relative candidate diagnostics on the same owner evidence, not empirical validation.",
+    "Fitted percentiles describe the candidate distribution, not confidence intervals or session-day extremes.",
+    "Within-owner session variation, vehicle/battery compatibility and joint dependencies require separate modelling.",
+    "No conversion losses are applied; the energy measurement boundary remains unresolved."
+  ],
+  "optimizer": {
+    "method": "Nelder-Mead",
+    "starts_per_family": 3,
+    "agreement_tolerance_nll": 1e-06,
+    "absolute_log_parameter_guard": 30.0,
+    "note": "Numerical shape/scale guard; boundary solutions rejected; not an energy cap"
+  },
+  "model_selected_for_simulation": false,
+  "parameter_uncertainty_estimated": false,
+  "owner_eligibility_changed": false,
+  "new_simulations": 0,
+  "district_demand_ready": false,
+  "checks": {
+    "evidence_hashes_match": true,
+    "energy_owner_links_match": true,
+    "likelihoods_finite_and_reproduced": true,
+    "multiple_optimizer_starts_agree": true,
+    "owner_accounting_complete": true,
+    "input_hashes_unchanged": true
+  },
+  "input_sha256": {
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "src/ev_demand/parameters/build_simulator_parameters.py": "13ebd56e4342394738dfc4613022c09fc651607c028edd916dea2d01d621bfb1",
+    "src/ev_demand/parameters/build_population_evidence.py": "abe913bfee5d21b9e3204d396b0f927d324a4b506e1c7e6eaa67c036a57f03d3",
+    "src/ev_demand/parameters/fit_usual_energy_candidates.py": "78056eab02ef5370bd3863f16b62f06594c4be43dc428e218ef4f495d9dc3e60",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/behaviour_population_spec.json": "aef801331e550633ecc723e0af0449938d49359b43b236cceea2a5656df89f38",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/categorical_answer_counts.csv": "ea4021eef50266a356e906d782c96429ba1c0769d892b99f850b26b257379e37",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/context_windows.csv": "1ac1c61cd45727e4f3867d5049b06ee2570eadcd72de91dcfae5f9f1e953db02",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/linked_owner_evidence.jsonl": "d9899929382e9c68d3c8b8919b5b41d4c2e579904fb6e0e3b51e2aca5569ea0c",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/numeric_coverage.csv": "c6cf7e5b151c8b64f995bed7f8ff92342944ae085e95fbc471983e793424a363",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/numeric_evidence.csv": "5af9d376a165559932d1a9d0901a23841f7da814b0f8243e2c387a3580ab1fea"
+  },
+  "output_sha256": {
+    "energy_candidate_fits.csv": "e88ab7db5d532a6a84d000f6b631fd24f6356bcd1f067899257d1ae59bb4221f",
+    "energy_evidence_audit.csv": "bd87c4cb15a2ffac2bfae0eb7865ab06649a315cbc3c7c148efee129f159d435",
+    "likelihood_group_checks.csv": "b096fb92bebc03fdba6036472dd49901c18519d273e027a4d0abb2d1d67c8966",
+    "optimizer_attempts.csv": "c8148ae79be1ad10ec42b2c2a82353da8c29cd3c75ce280100f7826e888d4ee5"
+  }
+}

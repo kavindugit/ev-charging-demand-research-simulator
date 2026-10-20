@@ -1,0 +1,11 @@
+﻿cohort,energy_case,power_scenario,owners,parameter_draws,best_case_exceeded_draws,expected_exceeded_draws,expected_no_spare_time_draws,best_case_exceeded_percent,expected_exceeded_percent,owners_with_any_best_case_exceeded,owners_with_any_expected_exceeded,median_expected_busy_fraction,maximum_expected_weekly_hours
+common_energy_cases,bounded_uniform_test,rated_ceiling_test,60,6000,125,125,125,2.0833333333333335,2.0833333333333335,8,8,0.12177271949540779,375.49424357293753
+common_energy_cases,bounded_uniform_test,reduced_test,60,6000,125,125,125,2.0833333333333335,2.0833333333333335,8,8,0.12954677893719505,375.6181031057357
+common_energy_cases,conditional_gamma_test,rated_ceiling_test,60,6000,114,114,114,1.9,1.9,8,8,0.11841073682889192,371.8865066767943
+common_energy_cases,conditional_gamma_test,reduced_test,60,6000,114,114,114,1.9,1.9,8,8,0.1261101474179235,372.00917617109235
+common_energy_cases,conditional_lognormal_test,rated_ceiling_test,60,6000,114,114,114,1.9,1.9,8,8,0.11729946753913156,372.1454283633001
+common_energy_cases,conditional_lognormal_test,reduced_test,60,6000,114,114,114,1.9,1.9,8,8,0.1242751738311838,372.26818326481725
+open_upper_extension,conditional_gamma_test,rated_ceiling_test,6,600,12,13,13,2.0,2.1666666666666665,3,3,0.3672964157694983,265.3574468177271
+open_upper_extension,conditional_gamma_test,reduced_test,6,600,12,16,16,2.0,2.6666666666666665,3,3,0.37890170486347563,265.3574468177271
+open_upper_extension,conditional_lognormal_test,rated_ceiling_test,6,600,53,57,57,8.833333333333334,9.5,4,5,0.4199122065364781,627.1146320549249
+open_upper_extension,conditional_lognormal_test,reduced_test,6,600,53,57,57,8.833333333333334,9.5,4,5,0.4421453194425499,627.1146320549249

@@ -1,0 +1,5 @@
+﻿legacy_context,charging_context,n_retained_owners,n_use_category,n_reported_nonuse,n_unresolved_use,n_invalid_frequency,n_conflict_review,n_valid_windows,n_unresolved_windows,n_invalid_windows,n_resolved_charger_reports,n_other_or_missing_charger_reports,valid_window_share_among_use_reports,n_use_reports_with_cross_field_flags
+T1,WORKPLACE_ROUTINE,170,125,45,0,0,0,125,0,0,106,19,1.0,0
+T2,HOME,170,140,30,0,0,0,140,0,0,138,2,1.0,0
+T3,DESTINATION,170,89,81,0,0,0,89,0,0,75,14,1.0,0
+T4,EN_ROUTE,170,95,75,0,0,0,95,0,0,77,18,1.0,0

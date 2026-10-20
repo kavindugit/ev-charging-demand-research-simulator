@@ -1,0 +1,141 @@
+{
+  "schema_version": "weekly_frequency_count_candidates_v1",
+  "status": "candidates_for_review",
+  "data_origin": "SYNTHETIC",
+  "parameter_id": "sessions_per_week",
+  "owners_retained": 170,
+  "owners_used": 147,
+  "owners_excluded": 23,
+  "exclusion_reasons": {
+    "unresolved": 23
+  },
+  "target": "Across-owner distribution of grouped reported usual-week charging counts, under a declared count interpretation",
+  "reviewed_count_bins": [
+    {
+      "label": "0-1",
+      "lower": 0,
+      "upper": 1
+    },
+    {
+      "label": "2-3",
+      "lower": 2,
+      "upper": 3
+    },
+    {
+      "label": "4-5",
+      "lower": 4,
+      "upper": 5
+    },
+    {
+      "label": "6-7",
+      "lower": 6,
+      "upper": 7
+    },
+    {
+      "label": "8+",
+      "lower": 8,
+      "upper": null
+    }
+  ],
+  "candidates": [
+    {
+      "family": "poisson",
+      "fit_status": "interior_candidate",
+      "n_owners_used": 147,
+      "mean_usual_week_count": 4.711213794276723,
+      "variance_usual_week_count": 4.711213794276723,
+      "dispersion_alpha": 0.0,
+      "size_r": "",
+      "success_probability": "",
+      "n_family_parameters": 1,
+      "log_likelihood": -198.13968677577034,
+      "aic": 398.2793735515407,
+      "bic": 401.26980613831944,
+      "separately_ranked": true,
+      "binned_deviance": 6.37162520570107,
+      "binned_total_variation": 0.07000521345438011,
+      "max_share_error_percentage_points": 7.000521345438027,
+      "delta_aic": 0.0
+    },
+    {
+      "family": "negative_binomial",
+      "fit_status": "poisson_limit_at_numeric_resolution",
+      "n_owners_used": 147,
+      "mean_usual_week_count": 4.711213794276723,
+      "variance_usual_week_count": 4.711213794276723,
+      "dispersion_alpha": 0.0,
+      "size_r": "",
+      "success_probability": "",
+      "n_family_parameters": 2,
+      "log_likelihood": -198.13968677577034,
+      "aic": null,
+      "bic": null,
+      "separately_ranked": false,
+      "binned_deviance": 6.37162520570107,
+      "binned_total_variation": 0.07000521345438011,
+      "max_share_error_percentage_points": 7.000521345438027,
+      "delta_aic": null
+    }
+  ],
+  "lowest_aic_ranked_candidate": "poisson",
+  "assumptions": [
+    "One usual-frequency answer per owner is treated as a grouped nonnegative integer count for a representative week.",
+    "This is a reporting-model assumption, not an observed calendar-week count series or a fitted distribution of continuous long-run owner rates.",
+    "1 time or less covers counts 0 and 1; more than 7 covers 8 and above, with no upper tail cap.",
+    "Known response options with no informative reports have zero observed counts; unresolved owner answers remain excluded, not assigned zero.",
+    "Category probabilities are fitted directly; no category midpoint or exact count is assigned to an owner.",
+    "Negative-binomial variance is mu+alpha*mu^2; alpha=0 is the nested Poisson limit, not an independently identified NB candidate.",
+    "At the Poisson limit, separate NB AIC/BIC ranking is omitted; the mean and likelihood are recorded as equivalent to Poisson.",
+    "AIC and in-sample category residuals do not establish model adequacy, empirical validation or a complete population model.",
+    "Missingness may be informative; the fitted cohort is conditional on owners supplying an informative usual-frequency answer.",
+    "Across-owner report variation does not identify within-owner weekly variation, daily arrival counts or serial dependence.",
+    "Continuous-rate reporting, completed-versus-attempted frequency and accepted-session reproduction remain simulator-integration review items."
+  ],
+  "numerical_controls": {
+    "log_mean_guard": 15.0,
+    "alpha_guard": 1000.0,
+    "poisson_limit_nll_tolerance": 1e-06,
+    "note": "Parameter search guards, not limits on possible weekly counts"
+  },
+  "software": {
+    "numpy": "2.5.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  },
+  "model_selected_for_simulation": false,
+  "parameter_uncertainty_estimated": false,
+  "goodness_of_fit_test_performed": false,
+  "owner_eligibility_changed": false,
+  "new_simulations": 0,
+  "district_demand_ready": false,
+  "checks": {
+    "evidence_hashes_match": true,
+    "owner_links_match": true,
+    "integer_boundaries_respected": true,
+    "count_probabilities_sum_to_one": true,
+    "likelihoods_reproduced": true,
+    "optimiser_search_checked": true,
+    "owner_accounting_complete": true,
+    "input_hashes_unchanged": true
+  },
+  "input_sha256": {
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "src/ev_demand/parameters/build_simulator_parameters.py": "13ebd56e4342394738dfc4613022c09fc651607c028edd916dea2d01d621bfb1",
+    "src/ev_demand/parameters/build_population_evidence.py": "abe913bfee5d21b9e3204d396b0f927d324a4b506e1c7e6eaa67c036a57f03d3",
+    "src/ev_demand/parameters/fit_weekly_frequency_candidates.py": "e675e764087ea65ff4e63026dd2add95dd22394bed6e2070be97cf3a834a7a5f",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/behaviour_population_spec.json": "aef801331e550633ecc723e0af0449938d49359b43b236cceea2a5656df89f38",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/categorical_answer_counts.csv": "ea4021eef50266a356e906d782c96429ba1c0769d892b99f850b26b257379e37",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/context_windows.csv": "1ac1c61cd45727e4f3867d5049b06ee2570eadcd72de91dcfae5f9f1e953db02",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/linked_owner_evidence.jsonl": "d9899929382e9c68d3c8b8919b5b41d4c2e579904fb6e0e3b51e2aca5569ea0c",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/numeric_coverage.csv": "c6cf7e5b151c8b64f995bed7f8ff92342944ae085e95fbc471983e793424a363",
+    "data/processed/synthetic/population_evidence_20261017T081420_473953Z/numeric_evidence.csv": "5af9d376a165559932d1a9d0901a23841f7da814b0f8243e2c387a3580ab1fea"
+  },
+  "output_sha256": {
+    "weekly_frequency_bin_comparison.csv": "e800cbd93a963ad5ecdbb181d1f8cf2e13d371e1b7f553b68b3ced84a0eb9b0b",
+    "weekly_frequency_candidate_fits.csv": "0fda24ccfb6edafceb165c4a1d29fe4d24d1bace7208d60c44f3ffffce02eebd",
+    "weekly_frequency_candidates.png": "7b9b898d4f894dfb5648e0df4ad67dc72792a3a941d796d60427146034db083b",
+    "weekly_frequency_candidates.svg": "733aa20786dac9800d2f8c658f3e826aa7f68f56eee4d8ff788c0f176f966d05",
+    "weekly_frequency_evidence_audit.csv": "5ddb682bc5c4daa50e1a7494a79b150fcebd1ff770fff7430d43a776b60895e7",
+    "weekly_frequency_optimizer_attempts.csv": "f964aef9a2d87d25709a8b0e36fc53cf289b91cbf545ddbb2e09ff7cc52259db"
+  }
+}

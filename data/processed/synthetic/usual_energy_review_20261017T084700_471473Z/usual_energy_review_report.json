@@ -1,0 +1,82 @@
+{
+  "schema_version": "usual_energy_review_v1",
+  "status": "diagnostics_ready",
+  "data_origin": "SYNTHETIC",
+  "owners_retained": 170,
+  "owners_used": 144,
+  "owners_excluded": 26,
+  "partition_review": {
+    "complete_nonoverlapping_partition": true,
+    "reasons": []
+  },
+  "candidate_diagnostics": [
+    {
+      "family": "lognormal",
+      "n_informative_owners": 144,
+      "category_diagnostics_available": true,
+      "aic": 481.87426582934086,
+      "mean_kwh": 35.136604255139254,
+      "binned_deviance": 36.0218049345562,
+      "binned_total_variation": 0.1510442451768476,
+      "max_absolute_share_error_percentage_points": 11.27842321722651,
+      "minimum_expected_owner_count": 5.865838491281308
+    },
+    {
+      "family": "gamma",
+      "n_informative_owners": 144,
+      "category_diagnostics_available": true,
+      "aic": 468.1030398929671,
+      "mean_kwh": 31.404185082505485,
+      "binned_deviance": 22.25057899818235,
+      "binned_total_variation": 0.10710292566309104,
+      "max_absolute_share_error_percentage_points": 9.064960210770382,
+      "minimum_expected_owner_count": 8.586333358574537
+    }
+  ],
+  "software": {
+    "numpy": "2.5.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  },
+  "checks": {
+    "source_export_hashes_match": true,
+    "inclusion_accounting_reproduced": true,
+    "candidate_tables_match": true,
+    "candidate_likelihoods_and_information_criteria_reproduced": true,
+    "input_hashes_unchanged": true
+  },
+  "interpretation": [
+    "The same informative owner reports are used for fitting and these in-sample diagnostics.",
+    "Category expectations and residuals are computed only for a complete non-overlapping interval partition of positive support.",
+    "Gaps or overlapping intervals require review; no missing bins are filled and no probabilities are renormalised.",
+    "Deviance and total variation describe binned mismatch; no goodness-of-fit p-value or pass/fail threshold is supplied.",
+    "Excluded and unresolved reports remain outside the informative denominator; no missingness correction is applied.",
+    "CDF dots use cumulative reported bin counts at known edges; no category midpoints are treated as observations.",
+    "Smooth curves between edges and beyond observed finite bounds are parametric model assumptions.",
+    "CDF display ends at the larger fitted 99th percentile or observed edge; fitted distributions are not truncated.",
+    "These are owner-level usual-energy candidates, not within-owner session variation or empirical Sri Lankan demand validation."
+  ],
+  "model_selected_for_simulation": false,
+  "goodness_of_fit_test_performed": false,
+  "parameter_uncertainty_estimated": false,
+  "new_simulations": 0,
+  "district_demand_ready": false,
+  "input_sha256": {
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "src/ev_demand/parameters/build_simulator_parameters.py": "13ebd56e4342394738dfc4613022c09fc651607c028edd916dea2d01d621bfb1",
+    "src/ev_demand/parameters/build_population_evidence.py": "abe913bfee5d21b9e3204d396b0f927d324a4b506e1c7e6eaa67c036a57f03d3",
+    "src/ev_demand/parameters/fit_usual_energy_candidates.py": "78056eab02ef5370bd3863f16b62f06594c4be43dc428e218ef4f495d9dc3e60",
+    "src/ev_demand/parameters/review_usual_energy_candidates.py": "947cd7b72792ff2bfc17336a436867f42bd8237b156223bebdb57a3f7ec56d3a",
+    "data/processed/synthetic/usual_energy_candidates_20261017T083046_266604Z/usual_energy_fit_report.json": "dd6c1729efc2bc38194829193c0cc34a5b5a88a697ce083e9fa7b78ef252e158",
+    "data/processed/synthetic/usual_energy_candidates_20261017T083046_266604Z/energy_candidate_fits.csv": "e88ab7db5d532a6a84d000f6b631fd24f6356bcd1f067899257d1ae59bb4221f",
+    "data/processed/synthetic/usual_energy_candidates_20261017T083046_266604Z/energy_evidence_audit.csv": "bd87c4cb15a2ffac2bfae0eb7865ab06649a315cbc3c7c148efee129f159d435",
+    "data/processed/synthetic/usual_energy_candidates_20261017T083046_266604Z/likelihood_group_checks.csv": "b096fb92bebc03fdba6036472dd49901c18519d273e027a4d0abb2d1d67c8966",
+    "data/processed/synthetic/usual_energy_candidates_20261017T083046_266604Z/optimizer_attempts.csv": "c8148ae79be1ad10ec42b2c2a82353da8c29cd3c75ce280100f7826e888d4ee5"
+  },
+  "output_sha256": {
+    "energy_fit_diagnostics.csv": "24258bc2bfc1ad230d80d99de182f4ff77766babbf5574395586db3c4506ba50",
+    "energy_interval_comparison.csv": "59edf837bb1e50f4fb6400a5024aca294dbcd74f8ea5b9fe4a7381536965dce8",
+    "usual_energy_candidate_review.png": "e0fc9bb5f896a20148a36296b48b43011be0b64b3fa05c75ba6d0e4445a439a6",
+    "usual_energy_candidate_review.svg": "7bdc2c2f1addd304756e6fe7517112fdf426e568d6094fa319810c36ed667c24"
+  }
+}

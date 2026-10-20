@@ -1,0 +1,6 @@
+﻿context,owner_parameter_selections,active_owner_parameter_selections,selections_with_capacity_bound_failure,failure_percent_of_active,owners_with_any_failure
+T1,600,420,0,0.0,0
+T2,600,560,17,3.0357142857142856,9
+T3,600,300,0,0.0,0
+T4,600,320,0,0.0,0
+ANY_CONTEXT,600,600,17,2.8333333333333335,9

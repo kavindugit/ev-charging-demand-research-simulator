@@ -1,0 +1,681 @@
+﻿owner_id,legacy_context,charging_context,raw_answer,raw_min,raw_max,raw_boundary,reported_period,evidence_kind,joint_status,projected_weekly_min,projected_weekly_max,upper_tightened_by_joint_constraints
+SYN-SUR-001,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-001,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-001,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-001,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-002,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-002,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-002,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-002,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-003,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-003,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.3100616016427105,2.0,False
+SYN-SUR-003,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-003,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-004,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-004,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-004,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-004,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-005,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-005,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.080082135523614,2.0,False
+SYN-SUR-005,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-005,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-006,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-006,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.080082135523614,4.770020533880904,True
+SYN-SUR-006,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-006,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-007,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.080082135523614,4.770020533880904,True
+SYN-SUR-007,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-007,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-007,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-008,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,5.0,,False
+SYN-SUR-008,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-008,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,unbounded_joint_region,1.0,2.0,False
+SYN-SUR-008,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-009,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-009,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.0,True
+SYN-SUR-009,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-009,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-010,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-010,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-010,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-010,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-011,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-011,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.3100616016427105,4.770020533880904,True
+SYN-SUR-011,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-011,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-012,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-012,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.0,True
+SYN-SUR-012,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-012,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-013,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.080082135523614,2.0,False
+SYN-SUR-013,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.080082135523614,2.0,False
+SYN-SUR-013,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-013,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-014,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.3100616016427105,2.0,False
+SYN-SUR-014,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.3100616016427105,2.0,False
+SYN-SUR-014,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-014,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-015,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-015,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,6.0,7.0,True
+SYN-SUR-015,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-015,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-016,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-016,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-016,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-016,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-017,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-017,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-017,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-017,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-018,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-018,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-018,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-018,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-019,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,6.31006160164271,,False
+SYN-SUR-019,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-019,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-019,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-020,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-020,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-020,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-020,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-021,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-021,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-021,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-021,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-022,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-022,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-022,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-022,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-023,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.770020533880904,True
+SYN-SUR-023,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-023,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-023,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-024,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,4.770020533880904,,False
+SYN-SUR-024,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-024,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-024,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,unbounded_joint_region,1.0,2.0,False
+SYN-SUR-025,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-025,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,2.0,2.0,False
+SYN-SUR-025,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-025,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-026,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.080082135523614,2.0,False
+SYN-SUR-026,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-026,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-026,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-027,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.3100616016427105,5.770020533880904,True
+SYN-SUR-027,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-027,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-027,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-028,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-028,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.0,True
+SYN-SUR-028,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-028,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-029,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-029,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.540041067761807,2.0,False
+SYN-SUR-029,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-029,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-030,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.0,True
+SYN-SUR-030,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.0,True
+SYN-SUR-030,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.0,True
+SYN-SUR-030,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-031,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-031,T2,HOME,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-031,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-031,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-032,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-032,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-032,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-032,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-033,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-033,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.7700205338809036,True
+SYN-SUR-033,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-033,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809036,True
+SYN-SUR-034,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-034,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,2.0,2.0,False
+SYN-SUR-034,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-034,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-035,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-035,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.3901437371663246,6.540041067761807,True
+SYN-SUR-035,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-035,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-036,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-036,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-036,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-036,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-037,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-037,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.3100616016427105,4.770020533880904,True
+SYN-SUR-037,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-037,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-038,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-038,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-038,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-038,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-039,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.7700205338809036,True
+SYN-SUR-039,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-039,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-039,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809036,True
+SYN-SUR-040,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-040,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.540041067761807,True
+SYN-SUR-040,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-040,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-041,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-041,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-041,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-041,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-042,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,4.770020533880904,,False
+SYN-SUR-042,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-042,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-042,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,unbounded_joint_region,1.0,2.0,False
+SYN-SUR-043,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-043,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-043,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-043,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-044,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-044,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-044,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-044,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-045,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-045,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.540041067761807,7.0,True
+SYN-SUR-045,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-045,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-046,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-046,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.7700205338809036,5.0,True
+SYN-SUR-046,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-046,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-047,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.7700205338809036,True
+SYN-SUR-047,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809036,True
+SYN-SUR-047,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-047,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-048,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-048,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.850102669404517,6.770020533880904,True
+SYN-SUR-048,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-048,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-049,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-049,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-049,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-049,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-050,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-050,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.31006160164271,6.770020533880904,True
+SYN-SUR-050,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-050,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-051,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.080082135523614,4.770020533880904,True
+SYN-SUR-051,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-051,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-051,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-052,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-052,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-052,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-052,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-053,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-053,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.7700205338809034,2.0,False
+SYN-SUR-053,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-053,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-054,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-054,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,6.0,7.0,True
+SYN-SUR-054,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-054,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-055,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-055,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.31006160164271,7.0,True
+SYN-SUR-055,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-055,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-056,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809036,True
+SYN-SUR-056,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.7700205338809036,True
+SYN-SUR-056,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-056,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-057,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-057,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-057,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-057,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,unbounded_joint_region,1.0,2.0,False
+SYN-SUR-058,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-058,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-058,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-058,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-059,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.7700205338809036,2.0,False
+SYN-SUR-059,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-059,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.7700205338809036,2.0,False
+SYN-SUR-059,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-060,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-060,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,6.0,7.0,True
+SYN-SUR-060,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-060,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-061,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-061,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.540041067761807,5.0,True
+SYN-SUR-061,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-061,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-062,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-062,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.080082135523614,4.770020533880904,True
+SYN-SUR-062,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-062,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-063,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-063,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-063,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-063,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-064,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-064,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-064,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-064,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-065,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-065,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-065,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-065,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-066,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.3100616016427105,4.770020533880904,True
+SYN-SUR-066,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-066,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-066,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-067,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-067,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-067,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-067,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-068,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-068,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,6.0,7.0,True
+SYN-SUR-068,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-068,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-069,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-069,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.7700205338809034,2.0,False
+SYN-SUR-069,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-069,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-070,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-070,T2,HOME,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-070,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-070,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-071,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-071,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-071,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-071,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-072,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-072,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-072,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-072,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-073,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-073,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-073,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-073,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-074,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-074,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.540041067761807,True
+SYN-SUR-074,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-074,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-075,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-075,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-075,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-075,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-076,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-076,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.0,True
+SYN-SUR-076,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-076,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-077,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,5.0,True
+SYN-SUR-077,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-077,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-077,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-078,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-078,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-078,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-078,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-079,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-079,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.0,True
+SYN-SUR-079,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-079,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-080,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-080,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-080,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-080,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-081,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-081,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.540041067761807,True
+SYN-SUR-081,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-081,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-082,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-082,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-082,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-082,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-083,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.540041067761807,5.0,True
+SYN-SUR-083,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-083,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-083,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-084,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.0,True
+SYN-SUR-084,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.0,True
+SYN-SUR-084,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-084,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.0,True
+SYN-SUR-085,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-085,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.080082135523614,4.770020533880904,True
+SYN-SUR-085,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-085,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-086,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-086,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-086,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-086,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-087,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-087,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,6.0,7.0,True
+SYN-SUR-087,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-087,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-088,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-088,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.3901437371663246,6.540041067761807,True
+SYN-SUR-088,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-088,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-089,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.540041067761807,True
+SYN-SUR-089,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-089,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-089,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.540041067761807,True
+SYN-SUR-090,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-090,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.080082135523614,2.0,False
+SYN-SUR-090,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-090,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-091,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-091,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-091,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-091,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-092,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,6.31006160164271,,False
+SYN-SUR-092,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-092,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-092,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-093,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-093,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-093,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-093,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-094,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-094,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-094,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-094,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-095,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-095,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-095,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-095,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-096,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-096,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-096,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-096,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-097,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-097,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.620123203285421,6.540041067761807,True
+SYN-SUR-097,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-097,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-098,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-098,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.540041067761807,True
+SYN-SUR-098,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-098,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-099,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-099,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-099,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-099,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-100,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.0,True
+SYN-SUR-100,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-100,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-100,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-101,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.6201232032854209,0.6899383983572895,False
+SYN-SUR-101,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.6201232032854209,0.6899383983572895,False
+SYN-SUR-101,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-101,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.6201232032854209,0.6899383983572895,False
+SYN-SUR-102,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-102,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.3100616016427105,2.0,False
+SYN-SUR-102,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-102,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-103,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-103,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-103,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-103,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-104,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.9301848049281314,2.0,False
+SYN-SUR-104,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.6201232032854209,0.6899383983572895,False
+SYN-SUR-104,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.6201232032854209,0.6899383983572895,False
+SYN-SUR-104,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.6201232032854209,0.6899383983572895,False
+SYN-SUR-105,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,5.0,True
+SYN-SUR-105,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-105,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-105,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-106,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-106,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-106,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-106,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-107,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-107,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.540041067761807,True
+SYN-SUR-107,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-107,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-108,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-108,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-108,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-108,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-109,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.080082135523614,2.0,False
+SYN-SUR-109,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-109,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-109,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-110,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,4.31006160164271,,False
+SYN-SUR-110,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-110,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-110,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,unbounded_joint_region,1.0,2.0,False
+SYN-SUR-111,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-111,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.770020533880904,7.0,True
+SYN-SUR-111,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-111,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-112,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,7.0,,False
+SYN-SUR-112,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-112,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-112,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-113,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.770020533880904,True
+SYN-SUR-113,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-113,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-113,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-114,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-114,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.620123203285421,6.540041067761807,True
+SYN-SUR-114,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-114,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-115,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-115,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.31006160164271,True
+SYN-SUR-115,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-115,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-116,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-116,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-116,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-116,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-117,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-117,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,2.0,2.0,False
+SYN-SUR-117,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-117,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-118,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-118,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-118,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-118,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-119,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-119,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-119,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-119,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-120,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.770020533880904,True
+SYN-SUR-120,T2,HOME,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-120,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-120,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-121,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-121,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.3100616016427105,2.0,False
+SYN-SUR-121,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-121,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-122,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-122,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-122,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-122,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-123,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-123,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,2.0,2.0,False
+SYN-SUR-123,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-123,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-124,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-124,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-124,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-124,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-125,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-125,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-125,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-125,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-126,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-126,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.080082135523614,6.770020533880904,True
+SYN-SUR-126,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-126,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-127,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-127,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.540041067761807,True
+SYN-SUR-127,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-127,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-128,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.0,True
+SYN-SUR-128,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-128,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-128,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-129,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.080082135523614,2.0,False
+SYN-SUR-129,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-129,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-129,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-130,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-130,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.770020533880904,True
+SYN-SUR-130,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-130,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-131,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.7700205338809036,6.0,True
+SYN-SUR-131,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-131,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-131,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-132,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-132,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-132,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-132,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-133,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-133,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-133,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-133,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-134,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.0,True
+SYN-SUR-134,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.0,True
+SYN-SUR-134,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.0,True
+SYN-SUR-134,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-135,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,4.770020533880904,,False
+SYN-SUR-135,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-135,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-135,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,unbounded_joint_region,1.0,2.0,False
+SYN-SUR-136,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-136,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-136,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-136,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-137,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.31006160164271,6.770020533880904,True
+SYN-SUR-137,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-137,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-137,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-138,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-138,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.620123203285421,6.540041067761807,True
+SYN-SUR-138,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-138,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-139,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,5.0,,False
+SYN-SUR-139,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-139,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-139,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,unbounded_joint_region,1.0,2.0,False
+SYN-SUR-140,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-140,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.31006160164271,7.0,True
+SYN-SUR-140,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-140,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-141,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-141,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.540041067761807,7.0,True
+SYN-SUR-141,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-141,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-142,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-142,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,7.0,,False
+SYN-SUR-142,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-142,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-143,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-143,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.540041067761807,7.0,True
+SYN-SUR-143,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-143,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-144,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-144,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.540041067761807,True
+SYN-SUR-144,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-144,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-145,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-145,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.850102669404517,6.770020533880904,True
+SYN-SUR-145,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-145,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-146,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.7700205338809036,6.0,True
+SYN-SUR-146,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-146,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-146,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-147,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-147,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.080082135523614,6.770020533880904,True
+SYN-SUR-147,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-147,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-148,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-148,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-148,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-148,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-149,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-149,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-149,T3,DESTINATION,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-149,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-150,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,5.620123203285421,,False
+SYN-SUR-150,T2,HOME,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-150,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-150,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-151,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,3.7700205338809036,True
+SYN-SUR-151,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809036,True
+SYN-SUR-151,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-151,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-152,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-152,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,7.0,,False
+SYN-SUR-152,T3,DESTINATION,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-152,T4,EN_ROUTE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-153,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-153,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-153,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-153,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-154,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-154,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,2.0,2.0,False
+SYN-SUR-154,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-154,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-155,T1,WORKPLACE_ROUTINE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-155,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.080082135523614,4.770020533880904,True
+SYN-SUR-155,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-155,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-156,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-156,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.0,True
+SYN-SUR-156,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-156,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-157,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-157,T2,HOME,Less than once a month,0,1,open,month,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-157,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-157,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,empty_closed_envelope,,,False
+SYN-SUR-158,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-158,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,5.540041067761807,7.0,True
+SYN-SUR-158,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-158,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-159,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.0,4.0,True
+SYN-SUR-159,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-159,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-159,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-160,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-160,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,3.080082135523614,4.770020533880904,True
+SYN-SUR-160,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,bounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-160,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-161,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-161,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,2.0,2.0,False
+SYN-SUR-161,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-161,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-162,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-162,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-162,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-162,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-163,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,unbounded_joint_region,0.0,0.0,False
+SYN-SUR-163,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-163,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-163,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-164,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-164,T2,HOME,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,1.7700205338809034,True
+SYN-SUR-164,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-164,T4,EN_ROUTE,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-165,T1,WORKPLACE_ROUTINE,1–3 times a month,1,3,closed,month,finite_interval,unbounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-165,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,unbounded_joint_region,3.0,,False
+SYN-SUR-165,T3,DESTINATION,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-165,T4,EN_ROUTE,Less than once a month,0,1,open,month,finite_interval,unbounded_joint_region,0.0,0.2299794661190965,False
+SYN-SUR-166,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-166,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-166,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-166,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-167,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-167,T2,HOME,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-167,T3,DESTINATION,1–3 times a month,1,3,closed,month,finite_interval,bounded_joint_region,0.2299794661190965,0.6899383983572895,False
+SYN-SUR-167,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-168,T1,WORKPLACE_ROUTINE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-168,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-168,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-168,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-169,T1,WORKPLACE_ROUTINE,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,6.0,True
+SYN-SUR-169,T2,HOME,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-169,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-169,T4,EN_ROUTE,1–2 times a week,1,2,closed,week,finite_interval,bounded_joint_region,1.0,2.0,False
+SYN-SUR-170,T1,WORKPLACE_ROUTINE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-170,T2,HOME,3 or more times a week,3,,left_closed,week,lower_bound_only,bounded_joint_region,4.0,5.0,True
+SYN-SUR-170,T3,DESTINATION,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False
+SYN-SUR-170,T4,EN_ROUTE,Never,0,0,closed,week,point,bounded_joint_region,0.0,0.0,False

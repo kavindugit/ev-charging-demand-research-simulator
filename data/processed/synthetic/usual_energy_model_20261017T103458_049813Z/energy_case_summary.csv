@@ -1,0 +1,7 @@
+﻿case,energy_cohort,n_owners,n_owners_with_joint_frequency,n_parameter_draws,mean_sampled_usual_energy_kwh,p05_sampled_usual_energy_kwh,median_sampled_usual_energy_kwh,p95_sampled_usual_energy_kwh,battery_upper_comparisons,draws_above_reported_battery_upper
+bounded_uniform_test,bounded,128,95,12800,25.8230052472024,2.3330891494627917,24.193972950154514,54.5075541121854,10800,0
+bounded_uniform_test,open_upper,0,0,0,,,,,0,0
+conditional_gamma_test,bounded,128,95,12800,25.232310508019488,3.0716949590433558,23.362474602403154,52.740451829219715,10800,0
+conditional_gamma_test,open_upper,16,16,1600,81.47908657757638,61.28161335506705,75.54153707977653,119.15105073198794,300,116
+conditional_lognormal_test,bounded,128,95,12800,25.080296041901974,3.7178241480124066,23.00547204630025,52.80782952308823,10800,0
+conditional_lognormal_test,open_upper,16,16,1600,103.88528976946002,61.99193988560679,86.57379340781183,194.60523426804116,300,171

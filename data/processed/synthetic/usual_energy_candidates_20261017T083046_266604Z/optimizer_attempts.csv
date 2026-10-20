@@ -1,0 +1,7 @@
+﻿family,start_id,initial_shape,initial_scale_kwh,accepted,negative_log_likelihood,iterations,message
+lognormal,1,0.4,40.0,True,238.93713291467043,67,Optimization terminated successfully.
+lognormal,2,0.9,40.0,True,238.93713291467046,57,Optimization terminated successfully.
+lognormal,3,1.5,40.0,True,238.93713291467043,71,Optimization terminated successfully.
+gamma,1,0.8,50.0,True,232.05151994648355,68,Optimization terminated successfully.
+gamma,2,2.0,20.0,True,232.05151994648355,65,Optimization terminated successfully.
+gamma,3,5.0,8.0,True,232.05151994648355,68,Optimization terminated successfully.

@@ -1,0 +1,3 @@
+﻿cohort,source_owners,original_proposal_blocks,prior_admitted_blocks,admitted_blocks,newly_rejected_blocks,admission_percent_of_prior,owners_without_admitted_draws,all_owners_have_admitted_draws
+common_energy_cases,60,6000,5875,5750,125,97.87234042553192,0,True
+open_upper_extension,6,600,543,530,13,97.60589318600368,0,True

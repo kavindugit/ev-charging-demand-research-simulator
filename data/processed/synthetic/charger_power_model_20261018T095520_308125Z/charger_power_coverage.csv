@@ -1,0 +1,5 @@
+﻿legacy_context,charging_context,retained_contexts,use_reports,supported_power_contexts,reported_nonuse_contexts,deferred_contexts
+T1,WORKPLACE_ROUTINE,170,125,106,45,19
+T2,HOME,170,140,115,30,25
+T3,DESTINATION,170,89,75,81,14
+T4,EN_ROUTE,170,95,77,75,18

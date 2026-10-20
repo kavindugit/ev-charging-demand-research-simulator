@@ -1,0 +1,171 @@
+﻿owner_id,data_origin,original_readiness,parameter_id,legacy_context,charging_context,unit,reported_period,raw_answer,raw_min,raw_max,raw_state,raw_boundary,evidence_kind,fit_included,exclusion_reason,likelihood_type
+SYN-SUR-001,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,
+SYN-SUR-002,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-003,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-004,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-005,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-006,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-007,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-008,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-009,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-010,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-011,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-012,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-013,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-014,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-015,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,
+SYN-SUR-016,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-017,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-018,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-019,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-020,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-021,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-022,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-023,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-024,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-025,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-026,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-027,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-028,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-029,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-030,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-031,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-032,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-033,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-034,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-035,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-036,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-037,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-038,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-039,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-040,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-041,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-042,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-043,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-044,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-045,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-046,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-047,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-048,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-049,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-050,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-051,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-052,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-053,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-054,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-055,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-056,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-057,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-058,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,5–9.9 kWh,5,10,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-059,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-060,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-061,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-062,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-063,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-064,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,
+SYN-SUR-065,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-066,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-067,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-068,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-069,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-070,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-071,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-072,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-073,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-074,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-075,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-076,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-077,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-078,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-079,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-080,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-081,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-082,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-083,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-084,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-085,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-086,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-087,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-088,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-089,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-090,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-091,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-092,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-093,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-094,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-095,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,
+SYN-SUR-096,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-097,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-098,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-099,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-100,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-101,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-102,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,5–9.9 kWh,5,10,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-103,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-104,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-105,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-106,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-107,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-108,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-109,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-110,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-111,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-112,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-113,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-114,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,
+SYN-SUR-115,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-116,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-117,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,
+SYN-SUR-118,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-119,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-120,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-121,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-122,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-123,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-124,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-125,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-126,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-127,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-128,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-129,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-130,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-131,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-132,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-133,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-134,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-135,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-136,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-137,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-138,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-139,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-140,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-141,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-142,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-143,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-144,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-145,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-146,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-147,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-148,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-149,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-150,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-151,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-152,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-153,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,
+SYN-SUR-154,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-155,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-156,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-157,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-158,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-159,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-160,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,I do not know,,,unknown,none,unresolved,False,unresolved,
+SYN-SUR-161,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-162,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,Less than 5 kWh,0,5,upper_bounded,open,finite_interval,True,,interval_censored
+SYN-SUR-163,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,20–39.9 kWh,20,40,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-164,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-165,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-166,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-167,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,60 kWh or more,60,,open_upper,left_closed,lower_bound_only,True,,right_censored
+SYN-SUR-168,SYNTHETIC,deferred_for_review,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-169,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,10–19.9 kWh,10,20,reported_range,left_closed_right_open,finite_interval,True,,interval_censored
+SYN-SUR-170,SYNTHETIC,ready_for_bounded_test,usual_energy_kwh,,,kWh,,40–59.9 kWh,40,60,reported_range,left_closed_right_open,finite_interval,True,,interval_censored

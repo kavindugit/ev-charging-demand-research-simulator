@@ -1,0 +1,171 @@
+﻿owner_id,data_origin,original_readiness,parameter_id,legacy_context,charging_context,unit,reported_period,raw_answer,raw_min,raw_max,raw_state,raw_boundary,evidence_kind,fit_included,exclusion_reason,count_bin,integer_min,integer_max
+SYN-SUR-001,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-002,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-003,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-004,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-005,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-006,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-007,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-008,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-009,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-010,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-011,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-012,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-013,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-014,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-015,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-016,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-017,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-018,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-019,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-020,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-021,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-022,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-023,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-024,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-025,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-026,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-027,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-028,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-029,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-030,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-031,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-032,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-033,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-034,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-035,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-036,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-037,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-038,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-039,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-040,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-041,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-042,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-043,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,1 time or less,0,1,reported_range,closed,finite_interval,True,,0-1,0,1
+SYN-SUR-044,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-045,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-046,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-047,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-048,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-049,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-050,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-051,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-052,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-053,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-054,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-055,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-056,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-057,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-058,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-059,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-060,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-061,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-062,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-063,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-064,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-065,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-066,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-067,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-068,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-069,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-070,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-071,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-072,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-073,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-074,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-075,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-076,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-077,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-078,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-079,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-080,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-081,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-082,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-083,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-084,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-085,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-086,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-087,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-088,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-089,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-090,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-091,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-092,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-093,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-094,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-095,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-096,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-097,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-098,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-099,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-100,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-101,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-102,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-103,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-104,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-105,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-106,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,1 time or less,0,1,reported_range,closed,finite_interval,True,,0-1,0,1
+SYN-SUR-107,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-108,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-109,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-110,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-111,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-112,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-113,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-114,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-115,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-116,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,1 time or less,0,1,reported_range,closed,finite_interval,True,,0-1,0,1
+SYN-SUR-117,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-118,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-119,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-120,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-121,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-122,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-123,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-124,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-125,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-126,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-127,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-128,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-129,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-130,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-131,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-132,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-133,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-134,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-135,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-136,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-137,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-138,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-139,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-140,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-141,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-142,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-143,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-144,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-145,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-146,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-147,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-148,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-149,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-150,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-151,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-152,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,More than 7 times,7,,open_upper,left_open,lower_bound_only,True,,8+,8,
+SYN-SUR-153,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-154,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-155,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-156,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-157,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-158,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-159,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-160,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-161,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-162,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-163,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-164,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,2–3 times,2,3,reported_range,closed,finite_interval,True,,2-3,2,3
+SYN-SUR-165,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-166,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-167,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5
+SYN-SUR-168,SYNTHETIC,deferred_for_review,sessions_per_week,,,sessions,week,It varies a lot,,,variable_or_uncertain,none,unresolved,False,unresolved,,,
+SYN-SUR-169,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,6–7 times,6,7,reported_range,closed,finite_interval,True,,6-7,6,7
+SYN-SUR-170,SYNTHETIC,ready_for_bounded_test,sessions_per_week,,,sessions,week,4–5 times,4,5,reported_range,closed,finite_interval,True,,4-5,4,5

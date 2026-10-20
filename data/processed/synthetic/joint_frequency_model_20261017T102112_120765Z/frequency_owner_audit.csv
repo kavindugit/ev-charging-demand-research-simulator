@@ -1,0 +1,171 @@
+﻿owner_id,original_readiness,total_evidence_kind,raw_total_answer,raw_total_min,raw_total_max,raw_total_boundary,joint_status,feasible_total_min,feasible_total_max,parameter_test_allowed,test_draws
+SYN-SUR-001,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-002,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.0,,False,0
+SYN-SUR-003,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.6899383983572895,True,100
+SYN-SUR-004,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-005,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.919917864476386,True,100
+SYN-SUR-006,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-007,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-008,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-009,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,3.0,3.0,True,100
+SYN-SUR-010,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-011,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-012,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-013,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,4.919917864476386,True,100
+SYN-SUR-014,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,4.68993839835729,True,100
+SYN-SUR-015,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-016,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.2299794661190964,,False,0
+SYN-SUR-017,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-018,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-019,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-020,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-021,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-022,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,1.459958932238193,3.379876796714579,False,0
+SYN-SUR-023,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-024,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-025,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.0,True,100
+SYN-SUR-026,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.919917864476386,True,100
+SYN-SUR-027,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-028,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,3.0,3.0,True,100
+SYN-SUR-029,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.459958932238193,True,100
+SYN-SUR-030,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,5.0,5.0,True,100
+SYN-SUR-031,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-032,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-033,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.229979466119096,5.0,True,100
+SYN-SUR-034,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.0,True,100
+SYN-SUR-035,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-036,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.2299794661190964,3.0,True,100
+SYN-SUR-037,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-038,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.0,,False,0
+SYN-SUR-039,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.229979466119096,5.0,True,100
+SYN-SUR-040,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-041,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.2299794661190964,3.0,True,100
+SYN-SUR-042,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-043,ready_for_bounded_test,finite_interval,1 time or less,0,1,closed,bounded_joint_region,0.459958932238193,1.0,True,100
+SYN-SUR-044,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-045,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-046,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-047,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.229979466119096,5.0,True,100
+SYN-SUR-048,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-049,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,1.0,2.2299794661190964,False,0
+SYN-SUR-050,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-051,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-052,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-053,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.2299794661190964,True,100
+SYN-SUR-054,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-055,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-056,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.229979466119096,5.0,True,100
+SYN-SUR-057,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,4.229979466119096,,False,0
+SYN-SUR-058,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-059,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,4.229979466119096,True,100
+SYN-SUR-060,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-061,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-062,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-063,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.2299794661190964,,False,0
+SYN-SUR-064,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,1.459958932238193,3.379876796714579,False,0
+SYN-SUR-065,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-066,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-067,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,1.2299794661190966,2.6899383983572895,False,0
+SYN-SUR-068,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-069,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.2299794661190964,True,100
+SYN-SUR-070,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-071,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-072,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-073,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-074,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-075,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.459958932238193,,False,0
+SYN-SUR-076,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-077,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-078,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-079,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-080,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.6899383983572895,,False,0
+SYN-SUR-081,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-082,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.0,,False,0
+SYN-SUR-083,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-084,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,5.0,5.0,True,100
+SYN-SUR-085,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-086,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.2299794661190964,,False,0
+SYN-SUR-087,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-088,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-089,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.459958932238193,3.0,True,100
+SYN-SUR-090,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.919917864476386,True,100
+SYN-SUR-091,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-092,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-093,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-094,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-095,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-096,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.0,,False,0
+SYN-SUR-097,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-098,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-099,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-100,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-101,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.0698151950718686,True,100
+SYN-SUR-102,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.6899383983572895,True,100
+SYN-SUR-103,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,1.2299794661190966,2.919917864476386,False,0
+SYN-SUR-104,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,4.069815195071868,True,100
+SYN-SUR-105,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-106,ready_for_bounded_test,finite_interval,1 time or less,0,1,closed,bounded_joint_region,0.2299794661190965,0.6899383983572895,True,100
+SYN-SUR-107,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-108,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-109,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.919917864476386,True,100
+SYN-SUR-110,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-111,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-112,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-113,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-114,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-115,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-116,deferred_for_review,finite_interval,1 time or less,0,1,closed,bounded_joint_region,0.2299794661190965,0.6899383983572895,True,100
+SYN-SUR-117,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.0,True,100
+SYN-SUR-118,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.0,,False,0
+SYN-SUR-119,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.0,,False,0
+SYN-SUR-120,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-121,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.6899383983572895,True,100
+SYN-SUR-122,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,1.2299794661190966,2.6899383983572895,False,0
+SYN-SUR-123,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.0,True,100
+SYN-SUR-124,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,1.2299794661190966,2.919917864476386,False,0
+SYN-SUR-125,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-126,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-127,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-128,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-129,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.919917864476386,True,100
+SYN-SUR-130,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-131,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-132,deferred_for_review,finite_interval,4–5 times,4,5,closed,empty_closed_envelope,4.0,3.6098562628336754,False,0
+SYN-SUR-133,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-134,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,7.0,7.0,True,100
+SYN-SUR-135,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-136,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-137,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-138,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-139,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-140,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-141,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-142,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-143,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-144,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-145,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-146,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-147,deferred_for_review,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-148,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.0,,False,0
+SYN-SUR-149,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.2299794661190964,3.0,True,100
+SYN-SUR-150,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-151,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.229979466119096,5.0,True,100
+SYN-SUR-152,deferred_for_review,lower_bound_only,More than 7 times,7,,left_open,unbounded_joint_region,7.0,,False,0
+SYN-SUR-153,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-154,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.0,True,100
+SYN-SUR-155,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-156,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-157,deferred_for_review,finite_interval,4–5 times,4,5,closed,empty_closed_envelope,4.0,3.6098562628336754,False,0
+SYN-SUR-158,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-159,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-160,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-161,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,2.0,True,100
+SYN-SUR-162,ready_for_bounded_test,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.0,3.0,True,100
+SYN-SUR-163,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.459958932238193,,False,0
+SYN-SUR-164,deferred_for_review,finite_interval,2–3 times,2,3,closed,bounded_joint_region,2.2299794661190964,3.0,True,100
+SYN-SUR-165,deferred_for_review,unresolved,It varies a lot,,,none,unbounded_joint_region,3.2299794661190964,,False,0
+SYN-SUR-166,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-167,deferred_for_review,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100
+SYN-SUR-168,deferred_for_review,unresolved,It varies a lot,,,none,bounded_joint_region,2.0,4.0,False,0
+SYN-SUR-169,ready_for_bounded_test,finite_interval,6–7 times,6,7,closed,bounded_joint_region,6.0,7.0,True,100
+SYN-SUR-170,ready_for_bounded_test,finite_interval,4–5 times,4,5,closed,bounded_joint_region,4.0,5.0,True,100

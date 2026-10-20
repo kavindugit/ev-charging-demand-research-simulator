@@ -1,0 +1,105 @@
+﻿parameter_id,legacy_context,charging_context,context_frequency_state,nonuse_conflict,raw_answer,n_owner_records
+away_geography_answer,,,,,Both within and outside my home district,42
+away_geography_answer,,,,,I do not charge away from home,31
+away_geography_answer,,,,,I do not know,2
+away_geography_answer,,,,,It varies a lot,14
+away_geography_answer,,,,,Mostly outside my home district,21
+away_geography_answer,,,,,Mostly within my home district,60
+charger_code,T1,WORKPLACE_ROUTINE,open_upper,False,AC,13
+charger_code,T1,WORKPLACE_ROUTINE,open_upper,False,DC,14
+charger_code,T1,WORKPLACE_ROUTINE,open_upper,False,MIXED,4
+charger_code,T1,WORKPLACE_ROUTINE,open_upper,False,SOCKET_PORTABLE,4
+charger_code,T1,WORKPLACE_ROUTINE,open_upper,False,UNKNOWN,1
+charger_code,T1,WORKPLACE_ROUTINE,reported_range,False,AC,26
+charger_code,T1,WORKPLACE_ROUTINE,reported_range,False,DC,31
+charger_code,T1,WORKPLACE_ROUTINE,reported_range,False,MIXED,9
+charger_code,T1,WORKPLACE_ROUTINE,reported_range,False,SOCKET_PORTABLE,4
+charger_code,T1,WORKPLACE_ROUTINE,reported_range,False,UNKNOWN,2
+charger_code,T1,WORKPLACE_ROUTINE,reported_zero,False,NOT_USED,45
+charger_code,T1,WORKPLACE_ROUTINE,upper_bounded,False,AC,4
+charger_code,T1,WORKPLACE_ROUTINE,upper_bounded,False,DC,8
+charger_code,T1,WORKPLACE_ROUTINE,upper_bounded,False,MIXED,2
+charger_code,T1,WORKPLACE_ROUTINE,upper_bounded,False,SOCKET_PORTABLE,2
+charger_code,T1,WORKPLACE_ROUTINE,upper_bounded,False,UNKNOWN,1
+charger_code,T2,HOME,open_upper,False,AC,37
+charger_code,T2,HOME,open_upper,False,SOCKET_PORTABLE,38
+charger_code,T2,HOME,reported_range,False,AC,27
+charger_code,T2,HOME,reported_range,False,MIXED,2
+charger_code,T2,HOME,reported_range,False,SOCKET_PORTABLE,32
+charger_code,T2,HOME,reported_zero,False,NOT_USED,30
+charger_code,T2,HOME,upper_bounded,False,AC,2
+charger_code,T2,HOME,upper_bounded,False,SOCKET_PORTABLE,2
+charger_code,T3,DESTINATION,reported_range,False,AC,26
+charger_code,T3,DESTINATION,reported_range,False,DC,12
+charger_code,T3,DESTINATION,reported_range,False,MIXED,4
+charger_code,T3,DESTINATION,reported_range,False,SOCKET_PORTABLE,2
+charger_code,T3,DESTINATION,reported_range,False,UNKNOWN,2
+charger_code,T3,DESTINATION,reported_zero,False,NOT_USED,81
+charger_code,T3,DESTINATION,upper_bounded,False,AC,21
+charger_code,T3,DESTINATION,upper_bounded,False,DC,13
+charger_code,T3,DESTINATION,upper_bounded,False,MIXED,6
+charger_code,T3,DESTINATION,upper_bounded,False,SOCKET_PORTABLE,1
+charger_code,T3,DESTINATION,upper_bounded,False,UNKNOWN,2
+charger_code,T4,EN_ROUTE,reported_range,False,AC,3
+charger_code,T4,EN_ROUTE,reported_range,False,DC,50
+charger_code,T4,EN_ROUTE,reported_range,False,MIXED,3
+charger_code,T4,EN_ROUTE,reported_range,False,UNKNOWN,7
+charger_code,T4,EN_ROUTE,reported_zero,False,NOT_USED,75
+charger_code,T4,EN_ROUTE,upper_bounded,False,AC,1
+charger_code,T4,EN_ROUTE,upper_bounded,False,DC,23
+charger_code,T4,EN_ROUTE,upper_bounded,False,MIXED,4
+charger_code,T4,EN_ROUTE,upper_bounded,False,UNKNOWN,4
+home_access_answer,,,,,"No, I cannot charge at home",30
+home_access_answer,,,,,Sometimes / limited access,15
+home_access_answer,,,,,"Yes, I can charge at home",125
+home_equipment_answer,,,,,"Dedicated AC wall charger, around 3–7 kW",48
+home_equipment_answer,,,,,"Dedicated AC wall charger, more than 7 kW",12
+home_equipment_answer,,,,,I do not charge at home,30
+home_equipment_answer,,,,,I do not know,3
+home_equipment_answer,,,,,I know the equipment but not the power level,8
+home_equipment_answer,,,,,Other,2
+home_equipment_answer,,,,,"Standard socket / portable charger, around 1–3 kW",67
+intentional_delay_answer,,,,,I am not sure whether my tariff has an off-peak period,19
+intentional_delay_answer,,,,,I do not charge at home,30
+intentional_delay_answer,,,,,No,73
+intentional_delay_answer,,,,,"Yes, sometimes",11
+intentional_delay_answer,,,,,"Yes, usually",37
+outside_district_answer,,,,,Ampara,4
+outside_district_answer,,,,,Anuradhapura,2
+outside_district_answer,,,,,Badulla,3
+outside_district_answer,,,,,Batticaloa,1
+outside_district_answer,,,,,Colombo,4
+outside_district_answer,,,,,Galle,6
+outside_district_answer,,,,,Gampaha,2
+outside_district_answer,,,,,Jaffna,1
+outside_district_answer,,,,,Kalutara,1
+outside_district_answer,,,,,Kandy,3
+outside_district_answer,,,,,Kegalle,1
+outside_district_answer,,,,,Kilinochchi,4
+outside_district_answer,,,,,Kurunegala,3
+outside_district_answer,,,,,Mannar,2
+outside_district_answer,,,,,Matale,3
+outside_district_answer,,,,,Matara,1
+outside_district_answer,,,,,Monaragala,4
+outside_district_answer,,,,,Mullaitivu,8
+outside_district_answer,,,,,Not applicable,107
+outside_district_answer,,,,,Nuwara Eliya,1
+outside_district_answer,,,,,Polonnaruwa,3
+outside_district_answer,,,,,Puttalam,3
+outside_district_answer,,,,,Ratnapura,1
+outside_district_answer,,,,,Trincomalee,2
+tou_meter_answer,,,,,I do not charge at home,30
+tou_meter_answer,,,,,No,67
+tou_meter_answer,,,,,Not sure,19
+tou_meter_answer,,,,,Yes,54
+vehicle_class_answer,,,,,Car,94
+vehicle_class_answer,,,,,Motorcycle / scooter,12
+vehicle_class_answer,,,,,Other,2
+vehicle_class_answer,,,,,SUV / crossover,49
+vehicle_class_answer,,,,,Three-wheeler,7
+vehicle_class_answer,,,,,Van,6
+vehicle_use_answer,,,,,Company or fleet vehicle,17
+vehicle_use_answer,,,,,Mixed use,30
+vehicle_use_answer,,,,,Private / household travel,77
+vehicle_use_answer,,,,,Ride-hailing / taxi / delivery,24
+vehicle_use_answer,,,,,Work or business travel,22

@@ -1,0 +1,5 @@
+﻿family,start_id,initial_alpha,accepted,final_mu,final_alpha,negative_log_likelihood,message
+poisson,1,,True,4.711213794276723,0.0,198.13968677577034,Solution found.
+negative_binomial,1,0.0,True,4.711213784780827,3.48657689200927e-11,198.13968677816405,Optimization terminated successfully.
+negative_binomial,2,0.1,True,4.711213804840275,1.7261261077881541e-15,198.13968677577023,Optimization terminated successfully.
+negative_binomial,3,1.0,True,4.711213810286158,6.9685384541194905e-15,198.1396867757706,Optimization terminated successfully.

@@ -1,0 +1,16 @@
+﻿cohort,energy_case,parameter,source_owners,owners_with_parameter,owner_cohort_preserved,before_equal_owner_mean,after_equal_owner_mean
+common_energy_cases,bounded_uniform_test,usual_energy_kwh,60,60,True,25.757985635481337,25.681461169490568
+common_energy_cases,bounded_uniform_test,total_weekly_rate,60,60,True,4.401779435807847,4.399903887947501
+common_energy_cases,bounded_uniform_test,home_power_proxy_kw,60,56,True,3.115692224479028,3.13583091453307
+common_energy_cases,conditional_gamma_test,usual_energy_kwh,60,60,True,25.17664709479552,25.101453172901234
+common_energy_cases,conditional_gamma_test,total_weekly_rate,60,60,True,4.401779435807847,4.399903887947501
+common_energy_cases,conditional_gamma_test,home_power_proxy_kw,60,56,True,3.115692224479028,3.13583091453307
+common_energy_cases,conditional_lognormal_test,usual_energy_kwh,60,60,True,25.04216259114604,24.966672072731853
+common_energy_cases,conditional_lognormal_test,total_weekly_rate,60,60,True,4.401779435807847,4.399903887947501
+common_energy_cases,conditional_lognormal_test,home_power_proxy_kw,60,56,True,3.115692224479028,3.13583091453307
+open_upper_extension,conditional_gamma_test,usual_energy_kwh,6,6,True,81.41972616695458,77.77827361400716
+open_upper_extension,conditional_gamma_test,total_weekly_rate,6,6,True,4.923971815923804,4.91747089245606
+open_upper_extension,conditional_gamma_test,home_power_proxy_kw,6,6,True,4.431555595162261,4.524623725212034
+open_upper_extension,conditional_lognormal_test,usual_energy_kwh,6,6,True,103.82844155523962,94.48369216644902
+open_upper_extension,conditional_lognormal_test,total_weekly_rate,6,6,True,4.923971815923804,4.91747089245606
+open_upper_extension,conditional_lognormal_test,home_power_proxy_kw,6,6,True,4.431555595162261,4.524623725212034

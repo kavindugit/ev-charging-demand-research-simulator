@@ -1,0 +1,4 @@
+﻿energy_case,owners_retained,frequency_available,energy_available,timing_available,power_available,all_components_available,component_incomplete,common_all_energy_cases,joined_parameter_test_draws
+bounded_uniform_test,170,133,128,170,107,60,110,60,6000
+conditional_gamma_test,170,133,144,170,107,66,104,60,6600
+conditional_lognormal_test,170,133,144,170,107,66,104,60,6600

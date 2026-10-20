@@ -1,0 +1,681 @@
+﻿owner_id,original_readiness,legacy_context,charging_context,use_status,vehicle_class_answer,charger_code,raw_charger_answer,raw_charger_state,home_equipment_answer,home_power_evidence_kind,home_power_min_kw,home_power_max_kw,sampling_status,deferral_reason,power_model_kind
+SYN-SUR-001,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-001,deferred_for_review,T2,HOME,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-001,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-001,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-002,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-002,deferred_for_review,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-002,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-002,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-003,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-003,deferred_for_review,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-003,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-003,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-004,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-004,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-004,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-004,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-005,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-005,deferred_for_review,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-005,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-005,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-006,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-006,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-006,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-006,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-007,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-007,ready_for_bounded_test,T2,HOME,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-007,ready_for_bounded_test,T3,DESTINATION,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-007,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-008,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-008,deferred_for_review,T2,HOME,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-008,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-008,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-009,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-009,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-009,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-009,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-010,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-010,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-010,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-010,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-011,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-011,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-011,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-011,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-012,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-012,deferred_for_review,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-012,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-012,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-013,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-013,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-013,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-013,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-014,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-014,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-014,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-014,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-015,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-015,deferred_for_review,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-015,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-015,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-016,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-016,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-016,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-016,deferred_for_review,T4,EN_ROUTE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-017,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-017,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-017,deferred_for_review,T3,DESTINATION,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-017,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-018,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-018,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-018,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-018,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-019,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-019,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-019,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-019,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-020,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-020,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-020,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-020,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-021,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-021,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-021,ready_for_bounded_test,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-021,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-022,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-022,deferred_for_review,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-022,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-022,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-023,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-023,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-023,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-023,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-024,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-024,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-024,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-024,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-025,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-025,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-025,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-025,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-026,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-026,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-026,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-026,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-027,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-027,ready_for_bounded_test,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-027,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-027,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-028,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-028,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-028,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-028,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-029,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-029,deferred_for_review,T2,HOME,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-029,deferred_for_review,T3,DESTINATION,use_category,Three-wheeler,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-029,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-030,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Van,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-030,deferred_for_review,T2,HOME,use_category,Van,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-030,deferred_for_review,T3,DESTINATION,use_category,Van,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-030,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-031,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Other,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-031,deferred_for_review,T2,HOME,use_category,Other,AC,AC charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-031,deferred_for_review,T3,DESTINATION,use_category,Other,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-031,deferred_for_review,T4,EN_ROUTE,use_category,Other,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-032,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-032,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-032,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-032,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-033,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-033,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-033,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-033,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-034,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-034,deferred_for_review,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,I do not know,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-034,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-034,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-035,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-035,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-035,ready_for_bounded_test,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-035,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-036,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-036,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-036,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-036,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-037,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-037,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-037,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-037,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-038,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-038,deferred_for_review,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-038,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-038,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-039,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-039,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-039,ready_for_bounded_test,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-039,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-040,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-040,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-040,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-040,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-041,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-041,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-041,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-041,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-042,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-042,deferred_for_review,T2,HOME,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-042,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-042,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-043,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-043,ready_for_bounded_test,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-043,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-043,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-044,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-044,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-044,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-044,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-045,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-045,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-045,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-045,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-046,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-046,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-046,deferred_for_review,T3,DESTINATION,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-046,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-047,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-047,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-047,ready_for_bounded_test,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-047,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-048,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-048,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-048,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-048,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-049,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-049,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-049,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-049,deferred_for_review,T4,EN_ROUTE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-050,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-050,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-050,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-050,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-051,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-051,ready_for_bounded_test,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-051,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-051,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-052,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-052,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-052,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-052,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-053,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-053,deferred_for_review,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-053,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-053,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-054,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-054,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-054,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-054,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-055,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-055,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-055,ready_for_bounded_test,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-055,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-056,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-056,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-056,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-056,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-057,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-057,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-057,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-057,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-058,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-058,ready_for_bounded_test,T2,HOME,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-058,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-058,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-059,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-059,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-059,deferred_for_review,T3,DESTINATION,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-059,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-060,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-060,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-060,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-060,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-061,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-061,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-061,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-061,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-062,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-062,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-062,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-062,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-063,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-063,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-063,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-063,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-064,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-064,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-064,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-064,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-065,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-065,deferred_for_review,T2,HOME,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-065,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-065,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-066,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-066,ready_for_bounded_test,T2,HOME,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-066,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-066,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-067,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-067,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-067,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-067,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-068,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-068,deferred_for_review,T2,HOME,use_category,Van,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-068,deferred_for_review,T3,DESTINATION,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-068,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-069,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-069,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-069,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-069,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-070,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-070,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-070,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-070,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-071,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-071,ready_for_bounded_test,T2,HOME,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-071,ready_for_bounded_test,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-071,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-072,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-072,deferred_for_review,T2,HOME,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-072,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-072,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-073,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-073,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-073,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-073,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-074,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-074,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-074,ready_for_bounded_test,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-074,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-075,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-075,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-075,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-075,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-076,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-076,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-076,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-076,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-077,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-077,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-077,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-077,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-078,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-078,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-078,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-078,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-079,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-079,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-079,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-079,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-080,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-080,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-080,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-080,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-081,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-081,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-081,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-081,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-082,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-082,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-082,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-082,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-083,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Van,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-083,deferred_for_review,T2,HOME,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-083,deferred_for_review,T3,DESTINATION,use_category,Van,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-083,deferred_for_review,T4,EN_ROUTE,use_category,Van,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-084,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Van,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-084,deferred_for_review,T2,HOME,use_category,Van,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-084,deferred_for_review,T3,DESTINATION,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-084,deferred_for_review,T4,EN_ROUTE,use_category,Van,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-085,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-085,deferred_for_review,T2,HOME,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-085,deferred_for_review,T3,DESTINATION,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-085,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-086,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-086,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-086,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-086,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-087,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-087,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-087,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-087,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-088,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-088,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-088,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-088,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-089,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-089,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-089,ready_for_bounded_test,T3,DESTINATION,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-089,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-090,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-090,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-090,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-090,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-091,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-091,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-091,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-091,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-092,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-092,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-092,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-092,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-093,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-093,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-093,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-093,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-094,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-094,ready_for_bounded_test,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-094,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-094,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-095,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-095,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-095,deferred_for_review,T3,DESTINATION,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-095,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-096,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-096,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-096,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-096,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-097,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-097,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-097,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-097,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-098,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-098,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-098,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-098,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-099,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-099,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-099,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-099,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-100,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-100,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-100,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-100,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-101,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-101,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-101,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-101,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-102,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Other,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-102,ready_for_bounded_test,T2,HOME,use_category,Other,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-102,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Other,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-102,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Other,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-103,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-103,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-103,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-103,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-104,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-104,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-104,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-104,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-105,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-105,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-105,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-105,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-106,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-106,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-106,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-106,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-107,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-107,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-107,deferred_for_review,T3,DESTINATION,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-107,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-108,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-108,ready_for_bounded_test,T2,HOME,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-108,ready_for_bounded_test,T3,DESTINATION,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-108,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-109,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-109,deferred_for_review,T2,HOME,use_category,Car,MIXED,I use different types,variable_or_uncertain,Other,unresolved,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-109,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-109,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-110,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-110,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-110,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-110,deferred_for_review,T4,EN_ROUTE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-111,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-111,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-111,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-111,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-112,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-112,deferred_for_review,T2,HOME,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-112,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-112,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-113,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-113,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-113,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-113,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-114,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-114,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-114,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-114,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-115,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-115,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-115,ready_for_bounded_test,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-115,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-116,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-116,deferred_for_review,T2,HOME,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,Other,unresolved,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-116,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-116,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-117,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-117,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-117,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-117,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-118,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-118,deferred_for_review,T2,HOME,use_category,Van,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-118,deferred_for_review,T3,DESTINATION,reported_nonuse,Van,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-118,deferred_for_review,T4,EN_ROUTE,use_category,Van,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-119,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-119,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-119,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-119,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-120,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-120,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-120,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-120,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-121,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-121,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-121,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-121,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-122,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-122,deferred_for_review,T2,HOME,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-122,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-122,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-123,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-123,ready_for_bounded_test,T2,HOME,use_category,Three-wheeler,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-123,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-123,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Three-wheeler,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-124,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-124,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-124,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-124,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-125,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-125,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-125,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-125,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-126,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-126,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-126,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-126,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-127,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-127,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-127,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-127,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-128,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-128,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-128,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-128,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-129,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-129,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-129,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-129,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-130,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-130,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-130,ready_for_bounded_test,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-130,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-131,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-131,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-131,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-131,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-132,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-132,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-132,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-132,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-133,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-133,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-133,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-133,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-134,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-134,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-134,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-134,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-135,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-135,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-135,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-135,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-136,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-136,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,I do not know,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-136,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-136,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-137,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-137,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-137,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-137,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-138,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-138,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-138,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-138,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-139,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-139,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-139,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-139,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-140,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-140,ready_for_bounded_test,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-140,ready_for_bounded_test,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-140,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-141,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-141,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-141,deferred_for_review,T3,DESTINATION,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-141,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-142,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-142,deferred_for_review,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-142,deferred_for_review,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-142,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-143,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-143,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-143,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-143,deferred_for_review,T4,EN_ROUTE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-144,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-144,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-144,ready_for_bounded_test,T3,DESTINATION,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-144,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-145,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-145,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, more than 7 kW",lower_bound_only,7,,deferred,home_power_upper_bound_unresolved,
+SYN-SUR-145,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-145,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-146,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-146,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-146,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-146,deferred_for_review,T4,EN_ROUTE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-147,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-147,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-147,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-147,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-148,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-148,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-148,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-148,deferred_for_review,T4,EN_ROUTE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-149,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-149,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-149,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-149,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-150,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-150,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-150,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-150,deferred_for_review,T4,EN_ROUTE,use_category,Car,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-151,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-151,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-151,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-151,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-152,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-152,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-152,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-152,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-153,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-153,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-153,deferred_for_review,T3,DESTINATION,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-153,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-154,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-154,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,I do not know,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-154,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-154,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-155,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-155,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-155,deferred_for_review,T3,DESTINATION,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-155,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-156,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,UNKNOWN,I do not know,unknown,,,,,deferred,charger_type_unknown,
+SYN-SUR-156,deferred_for_review,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-156,deferred_for_review,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-156,deferred_for_review,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-157,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-157,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-157,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-157,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-158,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-158,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-158,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-158,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-159,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-159,ready_for_bounded_test,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-159,ready_for_bounded_test,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-159,ready_for_bounded_test,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-160,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-160,deferred_for_review,T2,HOME,use_category,SUV / crossover,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-160,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-160,deferred_for_review,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-161,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-161,ready_for_bounded_test,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-161,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-161,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-162,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-162,ready_for_bounded_test,T2,HOME,use_category,Motorcycle / scooter,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-162,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-162,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,Motorcycle / scooter,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-163,deferred_for_review,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-163,deferred_for_review,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-163,deferred_for_review,T3,DESTINATION,use_category,SUV / crossover,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-163,deferred_for_review,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-164,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-164,deferred_for_review,T2,HOME,use_category,Car,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,I know the equipment but not the power level,unresolved,,,deferred,home_power_bounds_unresolved_or_invalid,
+SYN-SUR-164,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-164,deferred_for_review,T4,EN_ROUTE,use_category,Car,MIXED,I use different types,variable_or_uncertain,,,,,deferred,mixed_charger_proportions_unresolved,
+SYN-SUR-165,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-165,deferred_for_review,T2,HOME,use_category,Car,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-165,deferred_for_review,T3,DESTINATION,use_category,Car,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-165,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-166,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-166,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-166,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-166,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-167,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Van,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-167,deferred_for_review,T2,HOME,use_category,Van,AC,AC charger,reported_answer,"Dedicated AC wall charger, around 3–7 kW",finite_interval,3,7,supported_test,,reported_home_uniform
+SYN-SUR-167,deferred_for_review,T3,DESTINATION,use_category,Van,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-167,deferred_for_review,T4,EN_ROUTE,use_category,Van,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-168,deferred_for_review,T1,WORKPLACE_ROUTINE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-168,deferred_for_review,T2,HOME,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-168,deferred_for_review,T3,DESTINATION,reported_nonuse,Car,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-168,deferred_for_review,T4,EN_ROUTE,use_category,Car,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-169,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,use_category,SUV / crossover,AC,AC charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-169,ready_for_bounded_test,T2,HOME,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,I do not charge at home,unresolved,,,reported_nonuse,,
+SYN-SUR-169,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-169,ready_for_bounded_test,T4,EN_ROUTE,use_category,SUV / crossover,DC,DC fast charger,reported_answer,,,,,supported_test,,nonhome_rating_mixture
+SYN-SUR-170,ready_for_bounded_test,T1,WORKPLACE_ROUTINE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-170,ready_for_bounded_test,T2,HOME,use_category,SUV / crossover,SOCKET_PORTABLE,Standard socket / portable charger,reported_answer,"Standard socket / portable charger, around 1–3 kW",finite_interval,1,3,supported_test,,reported_home_uniform
+SYN-SUR-170,ready_for_bounded_test,T3,DESTINATION,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
+SYN-SUR-170,ready_for_bounded_test,T4,EN_ROUTE,reported_nonuse,SUV / crossover,NOT_USED,I do not charge in this situation,not_used,,,,,reported_nonuse,,
