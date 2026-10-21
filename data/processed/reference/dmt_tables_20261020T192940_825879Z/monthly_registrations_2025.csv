@@ -1,0 +1,287 @@
+﻿source_id,pdf_page,source_table,source_row,source_column,metric,vehicle_label,year,period,row_role,raw_cell,reported_value,value_state,unit,geography,data_origin
+monthly_registrations_2025,1,1,3,2,new_registrations,CAR,2025,JAN,vehicle_class,111,111,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,3,new_registrations,CAR,2025,FEB,vehicle_class,92,92,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,4,new_registrations,CAR,2025,MAR,vehicle_class,327,327,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,5,new_registrations,CAR,2025,APR,vehicle_class,"2,510",2510,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,6,new_registrations,CAR,2025,MAY,vehicle_class,"4,502",4502,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,7,new_registrations,CAR,2025,JUN,vehicle_class,"6,183",6183,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,8,new_registrations,CAR,2025,JUL,vehicle_class,"6,810",6810,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,9,new_registrations,CAR,2025,AUG,vehicle_class,"6,359",6359,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,10,new_registrations,CAR,2025,SEP,vehicle_class,"10,221",10221,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,11,new_registrations,CAR,2025,OCT,vehicle_class,"9,202",9202,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,12,new_registrations,CAR,2025,NOV,vehicle_class,"9,020",9020,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,13,new_registrations,CAR,2025,DEC,vehicle_class,"12,710",12710,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,3,14,new_registrations,CAR,2025,TOTAL,vehicle_class,"68,047",68047,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,2,new_registrations,TRACTOR TRAILER/BOWSER,2025,JAN,vehicle_class,371,371,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,3,new_registrations,TRACTOR TRAILER/BOWSER,2025,FEB,vehicle_class,325,325,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,4,new_registrations,TRACTOR TRAILER/BOWSER,2025,MAR,vehicle_class,243,243,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,5,new_registrations,TRACTOR TRAILER/BOWSER,2025,APR,vehicle_class,151,151,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,6,new_registrations,TRACTOR TRAILER/BOWSER,2025,MAY,vehicle_class,162,162,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,7,new_registrations,TRACTOR TRAILER/BOWSER,2025,JUN,vehicle_class,341,341,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,8,new_registrations,TRACTOR TRAILER/BOWSER,2025,JUL,vehicle_class,402,402,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,9,new_registrations,TRACTOR TRAILER/BOWSER,2025,AUG,vehicle_class,243,243,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,10,new_registrations,TRACTOR TRAILER/BOWSER,2025,SEP,vehicle_class,301,301,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,11,new_registrations,TRACTOR TRAILER/BOWSER,2025,OCT,vehicle_class,189,189,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,12,new_registrations,TRACTOR TRAILER/BOWSER,2025,NOV,vehicle_class,127,127,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,13,new_registrations,TRACTOR TRAILER/BOWSER,2025,DEC,vehicle_class,197,197,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,4,14,new_registrations,TRACTOR TRAILER/BOWSER,2025,TOTAL,vehicle_class,"3,052",3052,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,2,new_registrations,DUAL PURPOSE VEHICLE,2025,JAN,vehicle_class,9,9,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,3,new_registrations,DUAL PURPOSE VEHICLE,2025,FEB,vehicle_class,12,12,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,4,new_registrations,DUAL PURPOSE VEHICLE,2025,MAR,vehicle_class,70,70,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,5,new_registrations,DUAL PURPOSE VEHICLE,2025,APR,vehicle_class,165,165,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,6,new_registrations,DUAL PURPOSE VEHICLE,2025,MAY,vehicle_class,305,305,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,7,new_registrations,DUAL PURPOSE VEHICLE,2025,JUN,vehicle_class,290,290,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,8,new_registrations,DUAL PURPOSE VEHICLE,2025,JUL,vehicle_class,412,412,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,9,new_registrations,DUAL PURPOSE VEHICLE,2025,AUG,vehicle_class,403,403,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,10,new_registrations,DUAL PURPOSE VEHICLE,2025,SEP,vehicle_class,490,490,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,11,new_registrations,DUAL PURPOSE VEHICLE,2025,OCT,vehicle_class,382,382,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,12,new_registrations,DUAL PURPOSE VEHICLE,2025,NOV,vehicle_class,334,334,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,13,new_registrations,DUAL PURPOSE VEHICLE,2025,DEC,vehicle_class,391,391,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,5,14,new_registrations,DUAL PURPOSE VEHICLE,2025,TOTAL,vehicle_class,"3,263",3263,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,2,new_registrations,PRIME MOVER,2025,JAN,vehicle_class,27,27,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,3,new_registrations,PRIME MOVER,2025,FEB,vehicle_class,19,19,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,4,new_registrations,PRIME MOVER,2025,MAR,vehicle_class,51,51,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,5,new_registrations,PRIME MOVER,2025,APR,vehicle_class,12,12,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,6,new_registrations,PRIME MOVER,2025,MAY,vehicle_class,30,30,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,7,new_registrations,PRIME MOVER,2025,JUN,vehicle_class,52,52,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,8,new_registrations,PRIME MOVER,2025,JUL,vehicle_class,39,39,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,9,new_registrations,PRIME MOVER,2025,AUG,vehicle_class,46,46,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,10,new_registrations,PRIME MOVER,2025,SEP,vehicle_class,86,86,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,11,new_registrations,PRIME MOVER,2025,OCT,vehicle_class,100,100,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,12,new_registrations,PRIME MOVER,2025,NOV,vehicle_class,55,55,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,13,new_registrations,PRIME MOVER,2025,DEC,vehicle_class,71,71,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,6,14,new_registrations,PRIME MOVER,2025,TOTAL,vehicle_class,588,588,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,2,new_registrations,LAND VEHICLE (Tractor),2025,JAN,vehicle_class,81,81,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,3,new_registrations,LAND VEHICLE (Tractor),2025,FEB,vehicle_class,126,126,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,4,new_registrations,LAND VEHICLE (Tractor),2025,MAR,vehicle_class,409,409,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,5,new_registrations,LAND VEHICLE (Tractor),2025,APR,vehicle_class,485,485,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,6,new_registrations,LAND VEHICLE (Tractor),2025,MAY,vehicle_class,249,249,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,7,new_registrations,LAND VEHICLE (Tractor),2025,JUN,vehicle_class,242,242,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,8,new_registrations,LAND VEHICLE (Tractor),2025,JUL,vehicle_class,302,302,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,9,new_registrations,LAND VEHICLE (Tractor),2025,AUG,vehicle_class,228,228,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,10,new_registrations,LAND VEHICLE (Tractor),2025,SEP,vehicle_class,684,684,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,11,new_registrations,LAND VEHICLE (Tractor),2025,OCT,vehicle_class,"1,050",1050,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,12,new_registrations,LAND VEHICLE (Tractor),2025,NOV,vehicle_class,487,487,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,13,new_registrations,LAND VEHICLE (Tractor),2025,DEC,vehicle_class,358,358,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,7,14,new_registrations,LAND VEHICLE (Tractor),2025,TOTAL,vehicle_class,"4,701",4701,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,2,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,JAN,vehicle_class,76,76,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,3,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,FEB,vehicle_class,48,48,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,4,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,MAR,vehicle_class,58,58,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,5,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,APR,vehicle_class,151,151,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,6,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,MAY,vehicle_class,134,134,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,7,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,JUN,vehicle_class,131,131,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,8,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,JUL,vehicle_class,111,111,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,9,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,AUG,vehicle_class,70,70,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,10,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,SEP,vehicle_class,86,86,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,11,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,OCT,vehicle_class,131,131,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,12,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,NOV,vehicle_class,183,183,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,13,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,DEC,vehicle_class,147,147,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,8,14,new_registrations,LAND VEHICLE SMALL(Hand Tractor),2025,TOTAL,vehicle_class,"1,326",1326,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,2,new_registrations,SPECIAL PURPOSE VEHICLE,2025,JAN,vehicle_class,32,32,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,3,new_registrations,SPECIAL PURPOSE VEHICLE,2025,FEB,vehicle_class,22,22,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,4,new_registrations,SPECIAL PURPOSE VEHICLE,2025,MAR,vehicle_class,40,40,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,5,new_registrations,SPECIAL PURPOSE VEHICLE,2025,APR,vehicle_class,44,44,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,6,new_registrations,SPECIAL PURPOSE VEHICLE,2025,MAY,vehicle_class,18,18,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,7,new_registrations,SPECIAL PURPOSE VEHICLE,2025,JUN,vehicle_class,59,59,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,8,new_registrations,SPECIAL PURPOSE VEHICLE,2025,JUL,vehicle_class,40,40,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,9,new_registrations,SPECIAL PURPOSE VEHICLE,2025,AUG,vehicle_class,31,31,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,10,new_registrations,SPECIAL PURPOSE VEHICLE,2025,SEP,vehicle_class,32,32,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,11,new_registrations,SPECIAL PURPOSE VEHICLE,2025,OCT,vehicle_class,47,47,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,12,new_registrations,SPECIAL PURPOSE VEHICLE,2025,NOV,vehicle_class,39,39,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,13,new_registrations,SPECIAL PURPOSE VEHICLE,2025,DEC,vehicle_class,44,44,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,9,14,new_registrations,SPECIAL PURPOSE VEHICLE,2025,TOTAL,vehicle_class,448,448,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,2,new_registrations,LORRY TRAILER/BOWSER,2025,JAN,vehicle_class,28,28,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,3,new_registrations,LORRY TRAILER/BOWSER,2025,FEB,vehicle_class,22,22,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,4,new_registrations,LORRY TRAILER/BOWSER,2025,MAR,vehicle_class,54,54,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,5,new_registrations,LORRY TRAILER/BOWSER,2025,APR,vehicle_class,4,4,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,6,new_registrations,LORRY TRAILER/BOWSER,2025,MAY,vehicle_class,30,30,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,7,new_registrations,LORRY TRAILER/BOWSER,2025,JUN,vehicle_class,14,14,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,8,new_registrations,LORRY TRAILER/BOWSER,2025,JUL,vehicle_class,41,41,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,9,new_registrations,LORRY TRAILER/BOWSER,2025,AUG,vehicle_class,37,37,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,10,new_registrations,LORRY TRAILER/BOWSER,2025,SEP,vehicle_class,54,54,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,11,new_registrations,LORRY TRAILER/BOWSER,2025,OCT,vehicle_class,71,71,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,12,new_registrations,LORRY TRAILER/BOWSER,2025,NOV,vehicle_class,24,24,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,13,new_registrations,LORRY TRAILER/BOWSER,2025,DEC,vehicle_class,62,62,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,10,14,new_registrations,LORRY TRAILER/BOWSER,2025,TOTAL,vehicle_class,441,441,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,2,new_registrations,THREE WHEELER,2025,JAN,vehicle_class,21,21,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,3,new_registrations,THREE WHEELER,2025,FEB,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,4,new_registrations,THREE WHEELER,2025,MAR,vehicle_class,173,173,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,5,new_registrations,THREE WHEELER,2025,APR,vehicle_class,690,690,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,6,new_registrations,THREE WHEELER,2025,MAY,vehicle_class,781,781,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,7,new_registrations,THREE WHEELER,2025,JUN,vehicle_class,"1,154",1154,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,8,new_registrations,THREE WHEELER,2025,JUL,vehicle_class,473,473,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,9,new_registrations,THREE WHEELER,2025,AUG,vehicle_class,"2,516",2516,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,10,new_registrations,THREE WHEELER,2025,SEP,vehicle_class,"3,011",3011,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,11,new_registrations,THREE WHEELER,2025,OCT,vehicle_class,"2,604",2604,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,12,new_registrations,THREE WHEELER,2025,NOV,vehicle_class,"2,426",2426,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,13,new_registrations,THREE WHEELER,2025,DEC,vehicle_class,"2,993",2993,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,11,14,new_registrations,THREE WHEELER,2025,TOTAL,vehicle_class,"16,843",16843,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,2,new_registrations,QUADRICYCLE,2025,JAN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,3,new_registrations,QUADRICYCLE,2025,FEB,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,4,new_registrations,QUADRICYCLE,2025,MAR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,5,new_registrations,QUADRICYCLE,2025,APR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,6,new_registrations,QUADRICYCLE,2025,MAY,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,7,new_registrations,QUADRICYCLE,2025,JUN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,8,new_registrations,QUADRICYCLE,2025,JUL,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,9,new_registrations,QUADRICYCLE,2025,AUG,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,10,new_registrations,QUADRICYCLE,2025,SEP,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,11,new_registrations,QUADRICYCLE,2025,OCT,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,12,new_registrations,QUADRICYCLE,2025,NOV,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,13,new_registrations,QUADRICYCLE,2025,DEC,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,12,14,new_registrations,QUADRICYCLE,2025,TOTAL,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,2,new_registrations,MOTOR HOME,2025,JAN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,3,new_registrations,MOTOR HOME,2025,FEB,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,4,new_registrations,MOTOR HOME,2025,MAR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,5,new_registrations,MOTOR HOME,2025,APR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,6,new_registrations,MOTOR HOME,2025,MAY,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,7,new_registrations,MOTOR HOME,2025,JUN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,8,new_registrations,MOTOR HOME,2025,JUL,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,9,new_registrations,MOTOR HOME,2025,AUG,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,10,new_registrations,MOTOR HOME,2025,SEP,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,11,new_registrations,MOTOR HOME,2025,OCT,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,12,new_registrations,MOTOR HOME,2025,NOV,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,13,new_registrations,MOTOR HOME,2025,DEC,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,13,14,new_registrations,MOTOR HOME,2025,TOTAL,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,2,new_registrations,MOTOR CYCLE,2025,JAN,vehicle_class,"10,521",10521,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,3,new_registrations,MOTOR CYCLE,2025,FEB,vehicle_class,"11,857",11857,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,4,new_registrations,MOTOR CYCLE,2025,MAR,vehicle_class,"11,614",11614,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,5,new_registrations,MOTOR CYCLE,2025,APR,vehicle_class,"13,126",13126,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,6,new_registrations,MOTOR CYCLE,2025,MAY,vehicle_class,"11,825",11825,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,7,new_registrations,MOTOR CYCLE,2025,JUN,vehicle_class,"13,485",13485,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,8,new_registrations,MOTOR CYCLE,2025,JUL,vehicle_class,"28,023",28023,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,9,new_registrations,MOTOR CYCLE,2025,AUG,vehicle_class,"27,294",27294,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,10,new_registrations,MOTOR CYCLE,2025,SEP,vehicle_class,"32,845",32845,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,11,new_registrations,MOTOR CYCLE,2025,OCT,vehicle_class,"33,003",33003,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,12,new_registrations,MOTOR CYCLE,2025,NOV,vehicle_class,"29,830",29830,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,13,new_registrations,MOTOR CYCLE,2025,DEC,vehicle_class,"31,394",31394,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,14,14,new_registrations,MOTOR CYCLE,2025,TOTAL,vehicle_class,"2 54,817",254817,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,2,new_registrations,MOTOR LORRY (Commercial),2025,JAN,vehicle_class,56,56,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,3,new_registrations,MOTOR LORRY (Commercial),2025,FEB,vehicle_class,82,82,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,4,new_registrations,MOTOR LORRY (Commercial),2025,MAR,vehicle_class,104,104,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,5,new_registrations,MOTOR LORRY (Commercial),2025,APR,vehicle_class,56,56,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,6,new_registrations,MOTOR LORRY (Commercial),2025,MAY,vehicle_class,69,69,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,7,new_registrations,MOTOR LORRY (Commercial),2025,JUN,vehicle_class,121,121,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,8,new_registrations,MOTOR LORRY (Commercial),2025,JUL,vehicle_class,193,193,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,9,new_registrations,MOTOR LORRY (Commercial),2025,AUG,vehicle_class,190,190,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,10,new_registrations,MOTOR LORRY (Commercial),2025,SEP,vehicle_class,299,299,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,11,new_registrations,MOTOR LORRY (Commercial),2025,OCT,vehicle_class,369,369,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,12,new_registrations,MOTOR LORRY (Commercial),2025,NOV,vehicle_class,354,354,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,13,new_registrations,MOTOR LORRY (Commercial),2025,DEC,vehicle_class,376,376,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,15,14,new_registrations,MOTOR LORRY (Commercial),2025,TOTAL,vehicle_class,"2,269",2269,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,2,new_registrations,SINGLE CAB,2025,JAN,vehicle_class,87,87,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,3,new_registrations,SINGLE CAB,2025,FEB,vehicle_class,45,45,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,4,new_registrations,SINGLE CAB,2025,MAR,vehicle_class,107,107,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,5,new_registrations,SINGLE CAB,2025,APR,vehicle_class,111,111,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,6,new_registrations,SINGLE CAB,2025,MAY,vehicle_class,212,212,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,7,new_registrations,SINGLE CAB,2025,JUN,vehicle_class,305,305,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,8,new_registrations,SINGLE CAB,2025,JUL,vehicle_class,473,473,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,9,new_registrations,SINGLE CAB,2025,AUG,vehicle_class,276,276,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,10,new_registrations,SINGLE CAB,2025,SEP,vehicle_class,535,535,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,11,new_registrations,SINGLE CAB,2025,OCT,vehicle_class,491,491,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,12,new_registrations,SINGLE CAB,2025,NOV,vehicle_class,530,530,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,13,new_registrations,SINGLE CAB,2025,DEC,vehicle_class,501,501,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,16,14,new_registrations,SINGLE CAB,2025,TOTAL,vehicle_class,"3,673",3673,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,2,new_registrations,MOTOR TRICYCLE VAN,2025,JAN,vehicle_class,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,3,new_registrations,MOTOR TRICYCLE VAN,2025,FEB,vehicle_class,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,4,new_registrations,MOTOR TRICYCLE VAN,2025,MAR,vehicle_class,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,5,new_registrations,MOTOR TRICYCLE VAN,2025,APR,vehicle_class,7,7,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,6,new_registrations,MOTOR TRICYCLE VAN,2025,MAY,vehicle_class,13,13,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,7,new_registrations,MOTOR TRICYCLE VAN,2025,JUN,vehicle_class,9,9,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,8,new_registrations,MOTOR TRICYCLE VAN,2025,JUL,vehicle_class,50,50,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,9,new_registrations,MOTOR TRICYCLE VAN,2025,AUG,vehicle_class,55,55,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,10,new_registrations,MOTOR TRICYCLE VAN,2025,SEP,vehicle_class,52,52,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,11,new_registrations,MOTOR TRICYCLE VAN,2025,OCT,vehicle_class,93,93,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,12,new_registrations,MOTOR TRICYCLE VAN,2025,NOV,vehicle_class,81,81,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,13,new_registrations,MOTOR TRICYCLE VAN,2025,DEC,vehicle_class,105,105,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,17,14,new_registrations,MOTOR TRICYCLE VAN,2025,TOTAL,vehicle_class,489,489,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,2,new_registrations,COMMERCIAL (Bus),2025,JAN,vehicle_class,35,35,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,3,new_registrations,COMMERCIAL (Bus),2025,FEB,vehicle_class,52,52,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,4,new_registrations,COMMERCIAL (Bus),2025,MAR,vehicle_class,27,27,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,5,new_registrations,COMMERCIAL (Bus),2025,APR,vehicle_class,50,50,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,6,new_registrations,COMMERCIAL (Bus),2025,MAY,vehicle_class,129,129,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,7,new_registrations,COMMERCIAL (Bus),2025,JUN,vehicle_class,179,179,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,8,new_registrations,COMMERCIAL (Bus),2025,JUL,vehicle_class,228,228,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,9,new_registrations,COMMERCIAL (Bus),2025,AUG,vehicle_class,153,153,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,10,new_registrations,COMMERCIAL (Bus),2025,SEP,vehicle_class,258,258,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,11,new_registrations,COMMERCIAL (Bus),2025,OCT,vehicle_class,271,271,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,12,new_registrations,COMMERCIAL (Bus),2025,NOV,vehicle_class,281,281,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,13,new_registrations,COMMERCIAL (Bus),2025,DEC,vehicle_class,433,433,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,18,14,new_registrations,COMMERCIAL (Bus),2025,TOTAL,vehicle_class,"2,096",2096,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,2,new_registrations,AMBULANCE,2025,JAN,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,3,new_registrations,AMBULANCE,2025,FEB,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,4,new_registrations,AMBULANCE,2025,MAR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,5,new_registrations,AMBULANCE,2025,APR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,6,new_registrations,AMBULANCE,2025,MAY,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,7,new_registrations,AMBULANCE,2025,JUN,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,8,new_registrations,AMBULANCE,2025,JUL,vehicle_class,22,22,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,9,new_registrations,AMBULANCE,2025,AUG,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,10,new_registrations,AMBULANCE,2025,SEP,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,11,new_registrations,AMBULANCE,2025,OCT,vehicle_class,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,12,new_registrations,AMBULANCE,2025,NOV,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,13,new_registrations,AMBULANCE,2025,DEC,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,19,14,new_registrations,AMBULANCE,2025,TOTAL,vehicle_class,31,31,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,2,new_registrations,HEARSE,2025,JAN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,3,new_registrations,HEARSE,2025,FEB,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,4,new_registrations,HEARSE,2025,MAR,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,5,new_registrations,HEARSE,2025,APR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,6,new_registrations,HEARSE,2025,MAY,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,7,new_registrations,HEARSE,2025,JUN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,8,new_registrations,HEARSE,2025,JUL,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,9,new_registrations,HEARSE,2025,AUG,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,10,new_registrations,HEARSE,2025,SEP,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,11,new_registrations,HEARSE,2025,OCT,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,12,new_registrations,HEARSE,2025,NOV,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,13,new_registrations,HEARSE,2025,DEC,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,20,14,new_registrations,HEARSE,2025,TOTAL,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,2,new_registrations,NON AGRICULTURAL TRACTOR,2025,JAN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,3,new_registrations,NON AGRICULTURAL TRACTOR,2025,FEB,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,4,new_registrations,NON AGRICULTURAL TRACTOR,2025,MAR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,5,new_registrations,NON AGRICULTURAL TRACTOR,2025,APR,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,6,new_registrations,NON AGRICULTURAL TRACTOR,2025,MAY,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,7,new_registrations,NON AGRICULTURAL TRACTOR,2025,JUN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,8,new_registrations,NON AGRICULTURAL TRACTOR,2025,JUL,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,9,new_registrations,NON AGRICULTURAL TRACTOR,2025,AUG,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,10,new_registrations,NON AGRICULTURAL TRACTOR,2025,SEP,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,11,new_registrations,NON AGRICULTURAL TRACTOR,2025,OCT,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,12,new_registrations,NON AGRICULTURAL TRACTOR,2025,NOV,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,13,new_registrations,NON AGRICULTURAL TRACTOR,2025,DEC,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,21,14,new_registrations,NON AGRICULTURAL TRACTOR,2025,TOTAL,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,2,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,JAN,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,3,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,FEB,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,4,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,MAR,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,5,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,APR,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,6,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,MAY,vehicle_class,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,7,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,JUN,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,8,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,JUL,vehicle_class,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,9,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,AUG,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,10,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,SEP,vehicle_class,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,11,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,OCT,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,12,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,NOV,vehicle_class,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,13,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,DEC,vehicle_class,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,22,14,new_registrations,OTHER SPECIAL PURPOSE VEHICLE,2025,TOTAL,vehicle_class,14,14,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,2,new_registrations,TOTAL,2025,JAN,reported_total,"11,464",11464,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,3,new_registrations,TOTAL,2025,FEB,reported_total,"12,712",12712,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,4,new_registrations,TOTAL,2025,MAR,reported_total,"13,287",13287,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,5,new_registrations,TOTAL,2025,APR,reported_total,"17,563",17563,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,6,new_registrations,TOTAL,2025,MAY,reported_total,"18,463",18463,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,7,new_registrations,TOTAL,2025,JUN,reported_total,"22,567",22567,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,8,new_registrations,TOTAL,2025,JUL,reported_total,"37,622",37622,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,9,new_registrations,TOTAL,2025,AUG,reported_total,"37,903",37903,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,10,new_registrations,TOTAL,2025,SEP,reported_total,"4 8,957",48957,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,11,new_registrations,TOTAL,2025,OCT,reported_total,"48,006",48006,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,12,new_registrations,TOTAL,2025,NOV,reported_total,"4 3,773",43773,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,13,new_registrations,TOTAL,2025,DEC,reported_total,"4 9,783",49783,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,23,14,new_registrations,TOTAL,2025,TOTAL,reported_total,"3 62,100",362100,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,2,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,JAN,overlapping_breakout,7,7,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,3,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,FEB,overlapping_breakout,46,46,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,4,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,MAR,overlapping_breakout,194,194,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,5,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,APR,overlapping_breakout,"1,455",1455,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,6,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,MAY,overlapping_breakout,"2,665",2665,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,7,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,JUN,overlapping_breakout,"3,872",3872,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,8,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,JUL,overlapping_breakout,"4,228",4228,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,9,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,AUG,overlapping_breakout,"3,963",3963,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,10,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,SEP,overlapping_breakout,"6,461",6461,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,11,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,OCT,overlapping_breakout,"6,264",6264,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,12,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,NOV,overlapping_breakout,"6,113",6113,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,13,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,DEC,overlapping_breakout,"9,225",9225,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+monthly_registrations_2025,1,1,24,14,new_registrations,Total No.of Cars less than 1000 CC & Electric,2025,TOTAL,overlapping_breakout,"44,493",44493,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE

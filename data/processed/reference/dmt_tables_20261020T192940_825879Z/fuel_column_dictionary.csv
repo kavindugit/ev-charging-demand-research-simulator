@@ -1,0 +1,43 @@
+﻿source_column,vehicle_group,fuel_code,reported_fuel_category,raw_header_cells_json,classification_status,data_origin
+2,motor_cars,D,Diesel,"[""Motor cars"", null, ""Die.""]",reported_label_only,PUBLIC_REFERENCE
+3,motor_cars,P,Petrol,"[null, null, ""Petrol""]",reported_label_only,PUBLIC_REFERENCE
+4,motor_cars,E,Electric,"[null, null, ""Elec-tric""]",reported_label_only,PUBLIC_REFERENCE
+5,motor_cars,DE,Diesel/Electric,"[null, null, ""Die/\nEle""]",reported_label_only,PUBLIC_REFERENCE
+6,motor_cars,PE,Petrol/Electric,"[null, null, ""Pet/ Ele""]",reported_label_only,PUBLIC_REFERENCE
+7,three_wheelers,D,Diesel,"[""Motor Tricycle\n3 Wheelers Motor Tricycle Van"", null, ""Diesel""]",reported_label_only,PUBLIC_REFERENCE
+8,three_wheelers,P,Petrol,"[null, null, ""Petrol""]",reported_label_only,PUBLIC_REFERENCE
+9,three_wheelers,PE,Petrol/Electric,"[null, null, ""Pet/\nEle""]",reported_label_only,PUBLIC_REFERENCE
+10,three_wheelers,E,Electric,"[null, null, ""Elec-tric""]",reported_label_only,PUBLIC_REFERENCE
+11,motor_tricycle_van,D,Diesel,"[null, null, ""Die.""]",reported_label_only,PUBLIC_REFERENCE
+12,motor_tricycle_van,P,Petrol,"[null, null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+13,motor_tricycle_van,E,Electric,"[null, null, ""Ele""]",reported_label_only,PUBLIC_REFERENCE
+14,quadricycle,P,Petrol,"[""elcycirdauQ"", null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+15,motor_home,D,Diesel,"[""emoh\nrotoM"", null, ""Diesel""]",reported_label_only,PUBLIC_REFERENCE
+16,buses,D,Diesel,"[""Buses"", null, ""Diesel""]",reported_label_only,PUBLIC_REFERENCE
+17,buses,P,Petrol,"[null, null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+18,motor_cycles,P,Petrol,"[""Motor Cycles"", null, ""Petrol""]",reported_label_only,PUBLIC_REFERENCE
+19,motor_cycles,E,Electric,"[null, null, ""Ele""]",reported_label_only,PUBLIC_REFERENCE
+20,motor_cycles,PE,Petrol/Electric,"[null, null, ""Pet/\nEle""]",reported_label_only,PUBLIC_REFERENCE
+21,dual_purpose,D,Diesel,"[""Dual Purpose Vehicles"", null, ""Diesel""]",reported_label_only,PUBLIC_REFERENCE
+22,dual_purpose,P,Petrol,"[null, null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+23,dual_purpose,E,Electric,"[null, null, ""Elec-\ntric""]",reported_label_only,PUBLIC_REFERENCE
+24,dual_purpose,PE,Petrol/Electric,"[null, null, ""Pet/\nElec""]",reported_label_only,PUBLIC_REFERENCE
+25,single_cab,D,Diesel,"[""Single Cab"", null, ""Die.""]",reported_label_only,PUBLIC_REFERENCE
+26,single_cab,P,Petrol,"[null, null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+27,single_cab,E,Electric,"[null, null, ""Elec-\ntric""]",reported_label_only,PUBLIC_REFERENCE
+28,special_purpose,D,Diesel,"[""Special Purpose\nVehicle"", null, ""Die.""]",reported_label_only,PUBLIC_REFERENCE
+29,special_purpose,P,Petrol,"[null, null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+30,special_purpose,E,Electric,"[null, null, ""Elec-\ntric""]",reported_label_only,PUBLIC_REFERENCE
+31,lorry,D,Diesel,"[""Motor Lorry"", ""Lorry"", ""Die.""]",reported_label_only,PUBLIC_REFERENCE
+32,lorry,P,Petrol,"[null, null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+33,lorry,DE,Diesel/Electric,"[null, null, ""Die/\nEle""]",reported_label_only,PUBLIC_REFERENCE
+34,lorry,LPG,LP Gas,"[null, null, ""LP Gas""]",reported_label_only,PUBLIC_REFERENCE
+35,prime_mover,D,Diesel,"[null, ""Prime\nMover"", ""Die.""]",reported_label_only,PUBLIC_REFERENCE
+36,ambulance_and_hearse,D,Diesel,"[null, ""Ambu-lanse and\nHearses"", ""Die.""]",reported_label_only,PUBLIC_REFERENCE
+37,ambulance_and_hearse,P,Petrol,"[null, null, ""Pet.""]",reported_label_only,PUBLIC_REFERENCE
+38,ambulance_and_hearse,PE,Petrol/Electric,"[null, null, ""Pet/\nElec""]",reported_label_only,PUBLIC_REFERENCE
+39,lorry_trailer,NF,Non Fuel,"[null, ""Lorry\nTrailer"", ""Non Fuel""]",reported_label_only,PUBLIC_REFERENCE
+40,hand_tractor,D,Diesel,"[""Land Vehicle Tractors"", ""Hand\nTractor"", ""Diesel""]",reported_label_only,PUBLIC_REFERENCE
+41,tractor,D,Diesel,"[null, ""Tractor"", ""Diesel""]",reported_label_only,PUBLIC_REFERENCE
+42,tractor_trailer,NF,Non Fuel,"[null, ""Tractor\nTrailer"", ""Non Fuel""]",reported_label_only,PUBLIC_REFERENCE
+43,TOTAL,ALL,All reported fuels,"[""Total"", null, null]",reported_label_only,PUBLIC_REFERENCE

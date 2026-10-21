@@ -1,0 +1,547 @@
+﻿source_id,pdf_page,source_table,source_row,source_column,metric,vehicle_group,fuel_code,reported_fuel_category,year,period,column_role,raw_cell,reported_value,value_state,unit,geography,data_origin
+fuel_registrations_2025,1,1,4,2,new_registrations,motor_cars,D,Diesel,2025,January,class_and_fuel,7,7,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,2,new_registrations,motor_cars,D,Diesel,2025,February,class_and_fuel,11,11,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,2,new_registrations,motor_cars,D,Diesel,2025,March,class_and_fuel,16,16,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,2,new_registrations,motor_cars,D,Diesel,2025,April,class_and_fuel,25,25,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,2,new_registrations,motor_cars,D,Diesel,2025,May,class_and_fuel,41,41,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,2,new_registrations,motor_cars,D,Diesel,2025,June,class_and_fuel,30,30,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,2,new_registrations,motor_cars,D,Diesel,2025,July,class_and_fuel,40,40,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,2,new_registrations,motor_cars,D,Diesel,2025,August,class_and_fuel,35,35,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,2,new_registrations,motor_cars,D,Diesel,2025,September,class_and_fuel,32,32,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,2,new_registrations,motor_cars,D,Diesel,2025,October,class_and_fuel,28,28,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,2,new_registrations,motor_cars,D,Diesel,2025,November,class_and_fuel,31,31,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,2,new_registrations,motor_cars,D,Diesel,2025,December,class_and_fuel,23,23,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,2,new_registrations,motor_cars,D,Diesel,2025,TOTAL,class_and_fuel,319,319,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,3,new_registrations,motor_cars,P,Petrol,2025,January,class_and_fuel,94,94,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,3,new_registrations,motor_cars,P,Petrol,2025,February,class_and_fuel,39,39,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,3,new_registrations,motor_cars,P,Petrol,2025,March,class_and_fuel,244,244,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,3,new_registrations,motor_cars,P,Petrol,2025,April,class_and_fuel,"1,382",1382,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,3,new_registrations,motor_cars,P,Petrol,2025,May,class_and_fuel,"2,496",2496,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,3,new_registrations,motor_cars,P,Petrol,2025,June,class_and_fuel,"3,403",3403,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,3,new_registrations,motor_cars,P,Petrol,2025,July,class_and_fuel,"4,346",4346,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,3,new_registrations,motor_cars,P,Petrol,2025,August,class_and_fuel,"3,532",3532,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,3,new_registrations,motor_cars,P,Petrol,2025,September,class_and_fuel,"5,922",5922,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,3,new_registrations,motor_cars,P,Petrol,2025,October,class_and_fuel,"6,125",6125,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,3,new_registrations,motor_cars,P,Petrol,2025,November,class_and_fuel,"6,163",6163,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,3,new_registrations,motor_cars,P,Petrol,2025,December,class_and_fuel,"8,536",8536,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,3,new_registrations,motor_cars,P,Petrol,2025,TOTAL,class_and_fuel,"4 2,282",42282,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,4,new_registrations,motor_cars,E,Electric,2025,January,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,4,new_registrations,motor_cars,E,Electric,2025,February,class_and_fuel,41,41,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,4,new_registrations,motor_cars,E,Electric,2025,March,class_and_fuel,41,41,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,4,new_registrations,motor_cars,E,Electric,2025,April,class_and_fuel,3 07,307,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,4,new_registrations,motor_cars,E,Electric,2025,May,class_and_fuel,5 67,567,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,4,new_registrations,motor_cars,E,Electric,2025,June,class_and_fuel,8 39,839,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,4,new_registrations,motor_cars,E,Electric,2025,July,class_and_fuel,4 66,466,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,4,new_registrations,motor_cars,E,Electric,2025,August,class_and_fuel,9 60,960,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,4,new_registrations,motor_cars,E,Electric,2025,September,class_and_fuel,"1 ,288",1288,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,4,new_registrations,motor_cars,E,Electric,2025,October,class_and_fuel,7 04,704,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,4,new_registrations,motor_cars,E,Electric,2025,November,class_and_fuel,7 45,745,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,4,new_registrations,motor_cars,E,Electric,2025,December,class_and_fuel,"1 ,280",1280,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,4,new_registrations,motor_cars,E,Electric,2025,TOTAL,class_and_fuel,"7 ,239",7239,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,December,class_and_fuel,,,blank,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,5,new_registrations,motor_cars,DE,Diesel/Electric,2025,TOTAL,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,January,class_and_fuel,9,9,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,February,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,March,class_and_fuel,26,26,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,April,class_and_fuel,796,796,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,May,class_and_fuel,"1 ,398",1398,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,June,class_and_fuel,"1 ,911",1911,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,July,class_and_fuel,"1 ,958",1958,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,August,class_and_fuel,"1 ,832",1832,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,September,class_and_fuel,"2 ,979",2979,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,October,class_and_fuel,"2 ,345",2345,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,November,class_and_fuel,"2 ,081",2081,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,December,class_and_fuel,"2 ,871",2871,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,6,new_registrations,motor_cars,PE,Petrol/Electric,2025,TOTAL,class_and_fuel,"1 8,207",18207,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,7,new_registrations,three_wheelers,D,Diesel,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,7,new_registrations,three_wheelers,D,Diesel,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,7,new_registrations,three_wheelers,D,Diesel,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,7,new_registrations,three_wheelers,D,Diesel,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,7,new_registrations,three_wheelers,D,Diesel,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,7,new_registrations,three_wheelers,D,Diesel,2025,June,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,7,new_registrations,three_wheelers,D,Diesel,2025,July,class_and_fuel,67,67,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,7,new_registrations,three_wheelers,D,Diesel,2025,August,class_and_fuel,85,85,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,7,new_registrations,three_wheelers,D,Diesel,2025,September,class_and_fuel,124,124,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,7,new_registrations,three_wheelers,D,Diesel,2025,October,class_and_fuel,102,102,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,7,new_registrations,three_wheelers,D,Diesel,2025,November,class_and_fuel,110,110,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,7,new_registrations,three_wheelers,D,Diesel,2025,December,class_and_fuel,151,151,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,7,new_registrations,three_wheelers,D,Diesel,2025,TOTAL,class_and_fuel,640,640,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,8,new_registrations,three_wheelers,P,Petrol,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,8,new_registrations,three_wheelers,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,8,new_registrations,three_wheelers,P,Petrol,2025,March,class_and_fuel,168,168,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,8,new_registrations,three_wheelers,P,Petrol,2025,April,class_and_fuel,688,688,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,8,new_registrations,three_wheelers,P,Petrol,2025,May,class_and_fuel,771,771,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,8,new_registrations,three_wheelers,P,Petrol,2025,June,class_and_fuel,"1,132",1132,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,8,new_registrations,three_wheelers,P,Petrol,2025,July,class_and_fuel,362,362,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,8,new_registrations,three_wheelers,P,Petrol,2025,August,class_and_fuel,"2,380",2380,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,8,new_registrations,three_wheelers,P,Petrol,2025,September,class_and_fuel,"2,836",2836,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,8,new_registrations,three_wheelers,P,Petrol,2025,October,class_and_fuel,"2,455",2455,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,8,new_registrations,three_wheelers,P,Petrol,2025,November,class_and_fuel,"2,278",2278,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,8,new_registrations,three_wheelers,P,Petrol,2025,December,class_and_fuel,"2,805",2805,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,8,new_registrations,three_wheelers,P,Petrol,2025,TOTAL,class_and_fuel,"1 5,875",15875,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,9,new_registrations,three_wheelers,PE,Petrol/Electric,2025,TOTAL,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,10,new_registrations,three_wheelers,E,Electric,2025,January,class_and_fuel,2 1,21,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,10,new_registrations,three_wheelers,E,Electric,2025,February,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,10,new_registrations,three_wheelers,E,Electric,2025,March,class_and_fuel,5,5,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,10,new_registrations,three_wheelers,E,Electric,2025,April,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,10,new_registrations,three_wheelers,E,Electric,2025,May,class_and_fuel,1 0,10,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,10,new_registrations,three_wheelers,E,Electric,2025,June,class_and_fuel,2 1,21,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,10,new_registrations,three_wheelers,E,Electric,2025,July,class_and_fuel,4 4,44,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,10,new_registrations,three_wheelers,E,Electric,2025,August,class_and_fuel,5 1,51,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,10,new_registrations,three_wheelers,E,Electric,2025,September,class_and_fuel,5 1,51,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,10,new_registrations,three_wheelers,E,Electric,2025,October,class_and_fuel,4 7,47,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,10,new_registrations,three_wheelers,E,Electric,2025,November,class_and_fuel,3 8,38,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,10,new_registrations,three_wheelers,E,Electric,2025,December,class_and_fuel,3 7,37,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,10,new_registrations,three_wheelers,E,Electric,2025,TOTAL,class_and_fuel,3 28,328,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,11,new_registrations,motor_tricycle_van,D,Diesel,2025,January,class_and_fuel,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,11,new_registrations,motor_tricycle_van,D,Diesel,2025,February,class_and_fuel,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,11,new_registrations,motor_tricycle_van,D,Diesel,2025,March,class_and_fuel,7,7,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,11,new_registrations,motor_tricycle_van,D,Diesel,2025,April,class_and_fuel,7,7,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,11,new_registrations,motor_tricycle_van,D,Diesel,2025,May,class_and_fuel,1 3,13,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,11,new_registrations,motor_tricycle_van,D,Diesel,2025,June,class_and_fuel,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,11,new_registrations,motor_tricycle_van,D,Diesel,2025,July,class_and_fuel,5 0,50,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,11,new_registrations,motor_tricycle_van,D,Diesel,2025,August,class_and_fuel,4 9,49,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,11,new_registrations,motor_tricycle_van,D,Diesel,2025,September,class_and_fuel,4 8,48,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,11,new_registrations,motor_tricycle_van,D,Diesel,2025,October,class_and_fuel,8 9,89,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,11,new_registrations,motor_tricycle_van,D,Diesel,2025,November,class_and_fuel,5 7,57,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,11,new_registrations,motor_tricycle_van,D,Diesel,2025,December,class_and_fuel,8 6,86,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,11,new_registrations,motor_tricycle_van,D,Diesel,2025,TOTAL,class_and_fuel,430,430,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,12,new_registrations,motor_tricycle_van,P,Petrol,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,12,new_registrations,motor_tricycle_van,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,12,new_registrations,motor_tricycle_van,P,Petrol,2025,March,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,12,new_registrations,motor_tricycle_van,P,Petrol,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,12,new_registrations,motor_tricycle_van,P,Petrol,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,12,new_registrations,motor_tricycle_van,P,Petrol,2025,June,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,12,new_registrations,motor_tricycle_van,P,Petrol,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,12,new_registrations,motor_tricycle_van,P,Petrol,2025,August,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,12,new_registrations,motor_tricycle_van,P,Petrol,2025,September,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,12,new_registrations,motor_tricycle_van,P,Petrol,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,12,new_registrations,motor_tricycle_van,P,Petrol,2025,November,class_and_fuel,10,10,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,12,new_registrations,motor_tricycle_van,P,Petrol,2025,December,class_and_fuel,,,blank,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,12,new_registrations,motor_tricycle_van,P,Petrol,2025,TOTAL,class_and_fuel,14,14,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,13,new_registrations,motor_tricycle_van,E,Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,13,new_registrations,motor_tricycle_van,E,Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,13,new_registrations,motor_tricycle_van,E,Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,13,new_registrations,motor_tricycle_van,E,Electric,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,13,new_registrations,motor_tricycle_van,E,Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,13,new_registrations,motor_tricycle_van,E,Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,13,new_registrations,motor_tricycle_van,E,Electric,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,13,new_registrations,motor_tricycle_van,E,Electric,2025,August,class_and_fuel,5,5,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,13,new_registrations,motor_tricycle_van,E,Electric,2025,September,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,13,new_registrations,motor_tricycle_van,E,Electric,2025,October,class_and_fuel,4,4,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,13,new_registrations,motor_tricycle_van,E,Electric,2025,November,class_and_fuel,14,14,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,13,new_registrations,motor_tricycle_van,E,Electric,2025,December,class_and_fuel,19,19,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,13,new_registrations,motor_tricycle_van,E,Electric,2025,TOTAL,class_and_fuel,45,45,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,14,new_registrations,quadricycle,P,Petrol,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,14,new_registrations,quadricycle,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,14,new_registrations,quadricycle,P,Petrol,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,14,new_registrations,quadricycle,P,Petrol,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,14,new_registrations,quadricycle,P,Petrol,2025,May,class_and_fuel,,,blank,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,14,new_registrations,quadricycle,P,Petrol,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,14,new_registrations,quadricycle,P,Petrol,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,14,new_registrations,quadricycle,P,Petrol,2025,August,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,14,new_registrations,quadricycle,P,Petrol,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,14,new_registrations,quadricycle,P,Petrol,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,14,new_registrations,quadricycle,P,Petrol,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,14,new_registrations,quadricycle,P,Petrol,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,14,new_registrations,quadricycle,P,Petrol,2025,TOTAL,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,15,new_registrations,motor_home,D,Diesel,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,15,new_registrations,motor_home,D,Diesel,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,15,new_registrations,motor_home,D,Diesel,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,15,new_registrations,motor_home,D,Diesel,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,15,new_registrations,motor_home,D,Diesel,2025,May,class_and_fuel,,,blank,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,15,new_registrations,motor_home,D,Diesel,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,15,new_registrations,motor_home,D,Diesel,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,15,new_registrations,motor_home,D,Diesel,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,15,new_registrations,motor_home,D,Diesel,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,15,new_registrations,motor_home,D,Diesel,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,15,new_registrations,motor_home,D,Diesel,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,15,new_registrations,motor_home,D,Diesel,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,15,new_registrations,motor_home,D,Diesel,2025,TOTAL,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,16,new_registrations,buses,D,Diesel,2025,January,class_and_fuel,35,35,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,16,new_registrations,buses,D,Diesel,2025,February,class_and_fuel,52,52,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,16,new_registrations,buses,D,Diesel,2025,March,class_and_fuel,27,27,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,16,new_registrations,buses,D,Diesel,2025,April,class_and_fuel,50,50,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,16,new_registrations,buses,D,Diesel,2025,May,class_and_fuel,129,129,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,16,new_registrations,buses,D,Diesel,2025,June,class_and_fuel,179,179,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,16,new_registrations,buses,D,Diesel,2025,July,class_and_fuel,228,228,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,16,new_registrations,buses,D,Diesel,2025,August,class_and_fuel,153,153,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,16,new_registrations,buses,D,Diesel,2025,September,class_and_fuel,257,257,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,16,new_registrations,buses,D,Diesel,2025,October,class_and_fuel,270,270,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,16,new_registrations,buses,D,Diesel,2025,November,class_and_fuel,281,281,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,16,new_registrations,buses,D,Diesel,2025,December,class_and_fuel,433,433,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,16,new_registrations,buses,D,Diesel,2025,TOTAL,class_and_fuel,"2 ,094",2094,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,17,new_registrations,buses,P,Petrol,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,17,new_registrations,buses,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,17,new_registrations,buses,P,Petrol,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,17,new_registrations,buses,P,Petrol,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,17,new_registrations,buses,P,Petrol,2025,May,class_and_fuel,,,blank,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,17,new_registrations,buses,P,Petrol,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,17,new_registrations,buses,P,Petrol,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,17,new_registrations,buses,P,Petrol,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,17,new_registrations,buses,P,Petrol,2025,September,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,17,new_registrations,buses,P,Petrol,2025,October,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,17,new_registrations,buses,P,Petrol,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,17,new_registrations,buses,P,Petrol,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,17,new_registrations,buses,P,Petrol,2025,TOTAL,class_and_fuel,,,blank,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,18,new_registrations,motor_cycles,P,Petrol,2025,January,class_and_fuel,"8,819",8819,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,18,new_registrations,motor_cycles,P,Petrol,2025,February,class_and_fuel,"9,788",9788,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,18,new_registrations,motor_cycles,P,Petrol,2025,March,class_and_fuel,"9,070",9070,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,18,new_registrations,motor_cycles,P,Petrol,2025,April,class_and_fuel,"10,791",10791,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,18,new_registrations,motor_cycles,P,Petrol,2025,May,class_and_fuel,"9,701",9701,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,18,new_registrations,motor_cycles,P,Petrol,2025,June,class_and_fuel,"10,821",10821,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,18,new_registrations,motor_cycles,P,Petrol,2025,July,class_and_fuel,"23,915",23915,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,18,new_registrations,motor_cycles,P,Petrol,2025,August,class_and_fuel,"22,707",22707,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,18,new_registrations,motor_cycles,P,Petrol,2025,September,class_and_fuel,"29,263",29263,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,18,new_registrations,motor_cycles,P,Petrol,2025,October,class_and_fuel,"29,430",29430,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,18,new_registrations,motor_cycles,P,Petrol,2025,November,class_and_fuel,"27,311",27311,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,18,new_registrations,motor_cycles,P,Petrol,2025,December,class_and_fuel,"29,145",29145,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,18,new_registrations,motor_cycles,P,Petrol,2025,TOTAL,class_and_fuel,"220,761",220761,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,19,new_registrations,motor_cycles,E,Electric,2025,January,class_and_fuel,"1,702",1702,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,19,new_registrations,motor_cycles,E,Electric,2025,February,class_and_fuel,"2,069",2069,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,19,new_registrations,motor_cycles,E,Electric,2025,March,class_and_fuel,"2,544",2544,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,19,new_registrations,motor_cycles,E,Electric,2025,April,class_and_fuel,"2,335",2335,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,19,new_registrations,motor_cycles,E,Electric,2025,May,class_and_fuel,"2,124",2124,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,19,new_registrations,motor_cycles,E,Electric,2025,June,class_and_fuel,"2,664",2664,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,19,new_registrations,motor_cycles,E,Electric,2025,July,class_and_fuel,"4,108",4108,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,19,new_registrations,motor_cycles,E,Electric,2025,August,class_and_fuel,"4,587",4587,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,19,new_registrations,motor_cycles,E,Electric,2025,September,class_and_fuel,"3,582",3582,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,19,new_registrations,motor_cycles,E,Electric,2025,October,class_and_fuel,"3,573",3573,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,19,new_registrations,motor_cycles,E,Electric,2025,November,class_and_fuel,"2,519",2519,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,19,new_registrations,motor_cycles,E,Electric,2025,December,class_and_fuel,"2,249",2249,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,19,new_registrations,motor_cycles,E,Electric,2025,TOTAL,class_and_fuel,"34,056",34056,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,20,new_registrations,motor_cycles,PE,Petrol/Electric,2025,TOTAL,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,21,new_registrations,dual_purpose,D,Diesel,2025,January,class_and_fuel,9,9,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,21,new_registrations,dual_purpose,D,Diesel,2025,February,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,21,new_registrations,dual_purpose,D,Diesel,2025,March,class_and_fuel,62,62,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,21,new_registrations,dual_purpose,D,Diesel,2025,April,class_and_fuel,149,149,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,21,new_registrations,dual_purpose,D,Diesel,2025,May,class_and_fuel,268,268,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,21,new_registrations,dual_purpose,D,Diesel,2025,June,class_and_fuel,254,254,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,21,new_registrations,dual_purpose,D,Diesel,2025,July,class_and_fuel,360,360,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,21,new_registrations,dual_purpose,D,Diesel,2025,August,class_and_fuel,332,332,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,21,new_registrations,dual_purpose,D,Diesel,2025,September,class_and_fuel,405,405,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,21,new_registrations,dual_purpose,D,Diesel,2025,October,class_and_fuel,330,330,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,21,new_registrations,dual_purpose,D,Diesel,2025,November,class_and_fuel,305,305,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,21,new_registrations,dual_purpose,D,Diesel,2025,December,class_and_fuel,342,342,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,21,new_registrations,dual_purpose,D,Diesel,2025,TOTAL,class_and_fuel,"2,818",2818,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,22,new_registrations,dual_purpose,P,Petrol,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,22,new_registrations,dual_purpose,P,Petrol,2025,February,class_and_fuel,1 0,10,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,22,new_registrations,dual_purpose,P,Petrol,2025,March,class_and_fuel,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,22,new_registrations,dual_purpose,P,Petrol,2025,April,class_and_fuel,1 4,14,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,22,new_registrations,dual_purpose,P,Petrol,2025,May,class_and_fuel,2 9,29,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,22,new_registrations,dual_purpose,P,Petrol,2025,June,class_and_fuel,2 7,27,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,22,new_registrations,dual_purpose,P,Petrol,2025,July,class_and_fuel,3 5,35,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,22,new_registrations,dual_purpose,P,Petrol,2025,August,class_and_fuel,1 8,18,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,22,new_registrations,dual_purpose,P,Petrol,2025,September,class_and_fuel,4 6,46,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,22,new_registrations,dual_purpose,P,Petrol,2025,October,class_and_fuel,2 4,24,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,22,new_registrations,dual_purpose,P,Petrol,2025,November,class_and_fuel,2 0,20,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,22,new_registrations,dual_purpose,P,Petrol,2025,December,class_and_fuel,3 4,34,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,22,new_registrations,dual_purpose,P,Petrol,2025,TOTAL,class_and_fuel,2 65,265,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,23,new_registrations,dual_purpose,E,Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,23,new_registrations,dual_purpose,E,Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,23,new_registrations,dual_purpose,E,Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,23,new_registrations,dual_purpose,E,Electric,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,23,new_registrations,dual_purpose,E,Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,23,new_registrations,dual_purpose,E,Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,23,new_registrations,dual_purpose,E,Electric,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,23,new_registrations,dual_purpose,E,Electric,2025,August,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,23,new_registrations,dual_purpose,E,Electric,2025,September,class_and_fuel,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,23,new_registrations,dual_purpose,E,Electric,2025,October,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,23,new_registrations,dual_purpose,E,Electric,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,23,new_registrations,dual_purpose,E,Electric,2025,December,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,23,new_registrations,dual_purpose,E,Electric,2025,TOTAL,class_and_fuel,17,17,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,April,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,May,class_and_fuel,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,June,class_and_fuel,9,9,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,July,class_and_fuel,17,17,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,August,class_and_fuel,50,50,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,September,class_and_fuel,31,31,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,October,class_and_fuel,25,25,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,November,class_and_fuel,9,9,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,December,class_and_fuel,12,12,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,24,new_registrations,dual_purpose,PE,Petrol/Electric,2025,TOTAL,class_and_fuel,163,163,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,25,new_registrations,single_cab,D,Diesel,2025,January,class_and_fuel,85,85,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,25,new_registrations,single_cab,D,Diesel,2025,February,class_and_fuel,45,45,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,25,new_registrations,single_cab,D,Diesel,2025,March,class_and_fuel,105,105,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,25,new_registrations,single_cab,D,Diesel,2025,April,class_and_fuel,97,97,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,25,new_registrations,single_cab,D,Diesel,2025,May,class_and_fuel,171,171,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,25,new_registrations,single_cab,D,Diesel,2025,June,class_and_fuel,239,239,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,25,new_registrations,single_cab,D,Diesel,2025,July,class_and_fuel,370,370,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,25,new_registrations,single_cab,D,Diesel,2025,August,class_and_fuel,219,219,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,25,new_registrations,single_cab,D,Diesel,2025,September,class_and_fuel,451,451,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,25,new_registrations,single_cab,D,Diesel,2025,October,class_and_fuel,394,394,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,25,new_registrations,single_cab,D,Diesel,2025,November,class_and_fuel,420,420,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,25,new_registrations,single_cab,D,Diesel,2025,December,class_and_fuel,375,375,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,25,new_registrations,single_cab,D,Diesel,2025,TOTAL,class_and_fuel,"2 ,971",2971,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,26,new_registrations,single_cab,P,Petrol,2025,January,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,26,new_registrations,single_cab,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,26,new_registrations,single_cab,P,Petrol,2025,March,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,26,new_registrations,single_cab,P,Petrol,2025,April,class_and_fuel,14,14,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,26,new_registrations,single_cab,P,Petrol,2025,May,class_and_fuel,41,41,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,26,new_registrations,single_cab,P,Petrol,2025,June,class_and_fuel,66,66,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,26,new_registrations,single_cab,P,Petrol,2025,July,class_and_fuel,102,102,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,26,new_registrations,single_cab,P,Petrol,2025,August,class_and_fuel,55,55,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,26,new_registrations,single_cab,P,Petrol,2025,September,class_and_fuel,84,84,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,26,new_registrations,single_cab,P,Petrol,2025,October,class_and_fuel,97,97,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,26,new_registrations,single_cab,P,Petrol,2025,November,class_and_fuel,110,110,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,26,new_registrations,single_cab,P,Petrol,2025,December,class_and_fuel,125,125,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,26,new_registrations,single_cab,P,Petrol,2025,TOTAL,class_and_fuel,698,698,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,27,new_registrations,single_cab,E,Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,27,new_registrations,single_cab,E,Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,27,new_registrations,single_cab,E,Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,27,new_registrations,single_cab,E,Electric,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,27,new_registrations,single_cab,E,Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,27,new_registrations,single_cab,E,Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,27,new_registrations,single_cab,E,Electric,2025,July,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,27,new_registrations,single_cab,E,Electric,2025,August,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,27,new_registrations,single_cab,E,Electric,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,27,new_registrations,single_cab,E,Electric,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,27,new_registrations,single_cab,E,Electric,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,27,new_registrations,single_cab,E,Electric,2025,December,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,27,new_registrations,single_cab,E,Electric,2025,TOTAL,class_and_fuel,4,4,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,28,new_registrations,special_purpose,D,Diesel,2025,January,class_and_fuel,32,32,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,28,new_registrations,special_purpose,D,Diesel,2025,February,class_and_fuel,21,21,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,28,new_registrations,special_purpose,D,Diesel,2025,March,class_and_fuel,38,38,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,28,new_registrations,special_purpose,D,Diesel,2025,April,class_and_fuel,43,43,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,28,new_registrations,special_purpose,D,Diesel,2025,May,class_and_fuel,21,21,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,28,new_registrations,special_purpose,D,Diesel,2025,June,class_and_fuel,59,59,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,28,new_registrations,special_purpose,D,Diesel,2025,July,class_and_fuel,40,40,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,28,new_registrations,special_purpose,D,Diesel,2025,August,class_and_fuel,31,31,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,28,new_registrations,special_purpose,D,Diesel,2025,September,class_and_fuel,34,34,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,28,new_registrations,special_purpose,D,Diesel,2025,October,class_and_fuel,46,46,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,28,new_registrations,special_purpose,D,Diesel,2025,November,class_and_fuel,36,36,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,28,new_registrations,special_purpose,D,Diesel,2025,December,class_and_fuel,40,40,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,28,new_registrations,special_purpose,D,Diesel,2025,TOTAL,class_and_fuel,441,441,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,29,new_registrations,special_purpose,P,Petrol,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,29,new_registrations,special_purpose,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,29,new_registrations,special_purpose,P,Petrol,2025,March,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,29,new_registrations,special_purpose,P,Petrol,2025,April,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,29,new_registrations,special_purpose,P,Petrol,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,29,new_registrations,special_purpose,P,Petrol,2025,June,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,29,new_registrations,special_purpose,P,Petrol,2025,July,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,29,new_registrations,special_purpose,P,Petrol,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,29,new_registrations,special_purpose,P,Petrol,2025,September,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,29,new_registrations,special_purpose,P,Petrol,2025,October,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,29,new_registrations,special_purpose,P,Petrol,2025,November,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,29,new_registrations,special_purpose,P,Petrol,2025,December,class_and_fuel,4,4,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,29,new_registrations,special_purpose,P,Petrol,2025,TOTAL,class_and_fuel,13,13,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,30,new_registrations,special_purpose,E,Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,30,new_registrations,special_purpose,E,Electric,2025,February,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,30,new_registrations,special_purpose,E,Electric,2025,March,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,30,new_registrations,special_purpose,E,Electric,2025,April,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,30,new_registrations,special_purpose,E,Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,30,new_registrations,special_purpose,E,Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,30,new_registrations,special_purpose,E,Electric,2025,July,class_and_fuel,,,blank,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,30,new_registrations,special_purpose,E,Electric,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,30,new_registrations,special_purpose,E,Electric,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,30,new_registrations,special_purpose,E,Electric,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,30,new_registrations,special_purpose,E,Electric,2025,November,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,30,new_registrations,special_purpose,E,Electric,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,30,new_registrations,special_purpose,E,Electric,2025,TOTAL,class_and_fuel,8,8,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,31,new_registrations,lorry,D,Diesel,2025,January,class_and_fuel,55,55,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,31,new_registrations,lorry,D,Diesel,2025,February,class_and_fuel,82,82,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,31,new_registrations,lorry,D,Diesel,2025,March,class_and_fuel,103,103,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,31,new_registrations,lorry,D,Diesel,2025,April,class_and_fuel,55,55,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,31,new_registrations,lorry,D,Diesel,2025,May,class_and_fuel,69,69,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,31,new_registrations,lorry,D,Diesel,2025,June,class_and_fuel,121,121,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,31,new_registrations,lorry,D,Diesel,2025,July,class_and_fuel,193,193,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,31,new_registrations,lorry,D,Diesel,2025,August,class_and_fuel,190,190,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,31,new_registrations,lorry,D,Diesel,2025,September,class_and_fuel,298,298,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,31,new_registrations,lorry,D,Diesel,2025,October,class_and_fuel,369,369,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,31,new_registrations,lorry,D,Diesel,2025,November,class_and_fuel,353,353,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,31,new_registrations,lorry,D,Diesel,2025,December,class_and_fuel,375,375,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,31,new_registrations,lorry,D,Diesel,2025,TOTAL,class_and_fuel,"2,263",2263,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,32,new_registrations,lorry,P,Petrol,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,32,new_registrations,lorry,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,32,new_registrations,lorry,P,Petrol,2025,March,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,32,new_registrations,lorry,P,Petrol,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,32,new_registrations,lorry,P,Petrol,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,32,new_registrations,lorry,P,Petrol,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,32,new_registrations,lorry,P,Petrol,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,32,new_registrations,lorry,P,Petrol,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,32,new_registrations,lorry,P,Petrol,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,32,new_registrations,lorry,P,Petrol,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,32,new_registrations,lorry,P,Petrol,2025,November,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,32,new_registrations,lorry,P,Petrol,2025,December,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,32,new_registrations,lorry,P,Petrol,2025,TOTAL,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,33,new_registrations,lorry,DE,Diesel/Electric,2025,January,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,33,new_registrations,lorry,DE,Diesel/Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,33,new_registrations,lorry,DE,Diesel/Electric,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,33,new_registrations,lorry,DE,Diesel/Electric,2025,April,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,33,new_registrations,lorry,DE,Diesel/Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,33,new_registrations,lorry,DE,Diesel/Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,33,new_registrations,lorry,DE,Diesel/Electric,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,33,new_registrations,lorry,DE,Diesel/Electric,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,33,new_registrations,lorry,DE,Diesel/Electric,2025,September,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,33,new_registrations,lorry,DE,Diesel/Electric,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,33,new_registrations,lorry,DE,Diesel/Electric,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,33,new_registrations,lorry,DE,Diesel/Electric,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,33,new_registrations,lorry,DE,Diesel/Electric,2025,TOTAL,class_and_fuel,3,3,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,34,new_registrations,lorry,LPG,LP Gas,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,34,new_registrations,lorry,LPG,LP Gas,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,34,new_registrations,lorry,LPG,LP Gas,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,34,new_registrations,lorry,LPG,LP Gas,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,34,new_registrations,lorry,LPG,LP Gas,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,34,new_registrations,lorry,LPG,LP Gas,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,34,new_registrations,lorry,LPG,LP Gas,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,34,new_registrations,lorry,LPG,LP Gas,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,34,new_registrations,lorry,LPG,LP Gas,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,34,new_registrations,lorry,LPG,LP Gas,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,34,new_registrations,lorry,LPG,LP Gas,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,34,new_registrations,lorry,LPG,LP Gas,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,34,new_registrations,lorry,LPG,LP Gas,2025,TOTAL,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,35,new_registrations,prime_mover,D,Diesel,2025,January,class_and_fuel,27,27,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,35,new_registrations,prime_mover,D,Diesel,2025,February,class_and_fuel,19,19,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,35,new_registrations,prime_mover,D,Diesel,2025,March,class_and_fuel,51,51,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,35,new_registrations,prime_mover,D,Diesel,2025,April,class_and_fuel,12,12,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,35,new_registrations,prime_mover,D,Diesel,2025,May,class_and_fuel,30,30,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,35,new_registrations,prime_mover,D,Diesel,2025,June,class_and_fuel,52,52,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,35,new_registrations,prime_mover,D,Diesel,2025,July,class_and_fuel,39,39,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,35,new_registrations,prime_mover,D,Diesel,2025,August,class_and_fuel,46,46,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,35,new_registrations,prime_mover,D,Diesel,2025,September,class_and_fuel,86,86,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,35,new_registrations,prime_mover,D,Diesel,2025,October,class_and_fuel,100,100,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,35,new_registrations,prime_mover,D,Diesel,2025,November,class_and_fuel,55,55,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,35,new_registrations,prime_mover,D,Diesel,2025,December,class_and_fuel,71,71,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,35,new_registrations,prime_mover,D,Diesel,2025,TOTAL,class_and_fuel,588,588,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,May,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,June,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,July,class_and_fuel,21,21,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,October,class_and_fuel,2,2,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,November,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,December,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,36,new_registrations,ambulance_and_hearse,D,Diesel,2025,TOTAL,class_and_fuel,27,27,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,January,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,March,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,July,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,August,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,October,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,37,new_registrations,ambulance_and_hearse,P,Petrol,2025,TOTAL,class_and_fuel,4,4,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,January,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,February,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,March,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,April,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,May,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,June,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,July,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,August,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,September,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,October,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,November,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,December,class_and_fuel,-,,reported_dash,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,38,new_registrations,ambulance_and_hearse,PE,Petrol/Electric,2025,TOTAL,class_and_fuel,1,1,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,January,class_and_fuel,28,28,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,February,class_and_fuel,22,22,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,March,class_and_fuel,54,54,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,April,class_and_fuel,4,4,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,May,class_and_fuel,30,30,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,June,class_and_fuel,14,14,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,July,class_and_fuel,41,41,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,August,class_and_fuel,37,37,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,September,class_and_fuel,54,54,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,October,class_and_fuel,71,71,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,November,class_and_fuel,24,24,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,December,class_and_fuel,62,62,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,39,new_registrations,lorry_trailer,NF,Non Fuel,2025,TOTAL,class_and_fuel,441,441,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,40,new_registrations,hand_tractor,D,Diesel,2025,January,class_and_fuel,76,76,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,40,new_registrations,hand_tractor,D,Diesel,2025,February,class_and_fuel,48,48,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,40,new_registrations,hand_tractor,D,Diesel,2025,March,class_and_fuel,58,58,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,40,new_registrations,hand_tractor,D,Diesel,2025,April,class_and_fuel,151,151,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,40,new_registrations,hand_tractor,D,Diesel,2025,May,class_and_fuel,134,134,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,40,new_registrations,hand_tractor,D,Diesel,2025,June,class_and_fuel,131,131,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,40,new_registrations,hand_tractor,D,Diesel,2025,July,class_and_fuel,111,111,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,40,new_registrations,hand_tractor,D,Diesel,2025,August,class_and_fuel,70,70,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,40,new_registrations,hand_tractor,D,Diesel,2025,September,class_and_fuel,86,86,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,40,new_registrations,hand_tractor,D,Diesel,2025,October,class_and_fuel,131,131,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,40,new_registrations,hand_tractor,D,Diesel,2025,November,class_and_fuel,183,183,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,40,new_registrations,hand_tractor,D,Diesel,2025,December,class_and_fuel,147,147,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,40,new_registrations,hand_tractor,D,Diesel,2025,TOTAL,class_and_fuel,"1,326",1326,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,41,new_registrations,tractor,D,Diesel,2025,January,class_and_fuel,81,81,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,41,new_registrations,tractor,D,Diesel,2025,February,class_and_fuel,126,126,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,41,new_registrations,tractor,D,Diesel,2025,March,class_and_fuel,409,409,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,41,new_registrations,tractor,D,Diesel,2025,April,class_and_fuel,485,485,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,41,new_registrations,tractor,D,Diesel,2025,May,class_and_fuel,249,249,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,41,new_registrations,tractor,D,Diesel,2025,June,class_and_fuel,242,242,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,41,new_registrations,tractor,D,Diesel,2025,July,class_and_fuel,302,302,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,41,new_registrations,tractor,D,Diesel,2025,August,class_and_fuel,228,228,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,41,new_registrations,tractor,D,Diesel,2025,September,class_and_fuel,684,684,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,41,new_registrations,tractor,D,Diesel,2025,October,class_and_fuel,"1,050",1050,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,41,new_registrations,tractor,D,Diesel,2025,November,class_and_fuel,487,487,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,41,new_registrations,tractor,D,Diesel,2025,December,class_and_fuel,358,358,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,41,new_registrations,tractor,D,Diesel,2025,TOTAL,class_and_fuel,"4,701",4701,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,January,class_and_fuel,371,371,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,February,class_and_fuel,325,325,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,March,class_and_fuel,243,243,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,April,class_and_fuel,151,151,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,May,class_and_fuel,162,162,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,June,class_and_fuel,341,341,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,July,class_and_fuel,402,402,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,August,class_and_fuel,243,243,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,September,class_and_fuel,301,301,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,October,class_and_fuel,189,189,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,November,class_and_fuel,127,127,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,December,class_and_fuel,197,197,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,42,new_registrations,tractor_trailer,NF,Non Fuel,2025,TOTAL,class_and_fuel,"3,052",3052,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,4,43,new_registrations,TOTAL,ALL,All reported fuels,2025,January,reported_total,"11,464",11464,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,5,43,new_registrations,TOTAL,ALL,All reported fuels,2025,February,reported_total,"12,712",12712,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,6,43,new_registrations,TOTAL,ALL,All reported fuels,2025,March,reported_total,"13,287",13287,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,7,43,new_registrations,TOTAL,ALL,All reported fuels,2025,April,reported_total,"17,563",17563,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,8,43,new_registrations,TOTAL,ALL,All reported fuels,2025,May,reported_total,"18,463",18463,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,9,43,new_registrations,TOTAL,ALL,All reported fuels,2025,June,reported_total,"22,567",22567,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,10,43,new_registrations,TOTAL,ALL,All reported fuels,2025,July,reported_total,"37,622",37622,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,11,43,new_registrations,TOTAL,ALL,All reported fuels,2025,August,reported_total,"37,903",37903,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,12,43,new_registrations,TOTAL,ALL,All reported fuels,2025,September,reported_total,"48,957",48957,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,13,43,new_registrations,TOTAL,ALL,All reported fuels,2025,October,reported_total,"48,006",48006,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,14,43,new_registrations,TOTAL,ALL,All reported fuels,2025,November,reported_total,"43,773",43773,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,15,43,new_registrations,TOTAL,ALL,All reported fuels,2025,December,reported_total,"49,783",49783,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE
+fuel_registrations_2025,1,1,16,43,new_registrations,TOTAL,ALL,All reported fuels,2025,TOTAL,reported_total,"362,100",362100,reported_number,vehicles,Sri Lanka national,PUBLIC_REFERENCE

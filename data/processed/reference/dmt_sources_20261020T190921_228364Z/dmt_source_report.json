@@ -1,0 +1,103 @@
+{
+  "schema": "dmt_source_snapshot_v1",
+  "status": "source_snapshots_inspected",
+  "created_utc": "2026-10-20T19:09:24.824842+00:00",
+  "data_origin": "PUBLIC_REFERENCE",
+  "source_documents": 3,
+  "pdf_pages_read": 3,
+  "raw_source_folder": "data/raw/public/dmt_sources/20261020T190921_228364Z",
+  "official_index_http": {
+    "requested_url": "https://dmt.gov.lk/index.php?Itemid=132&id=16&lang=en&option=com_content&view=article",
+    "final_url": "https://dmt.gov.lk/index.php?Itemid=132&id=16&lang=en&option=com_content&view=article",
+    "bytes": 33298,
+    "retrieved_utc": "2026-10-20T19:09:22.947579+00:00",
+    "content_type": "text/html; charset=utf-8",
+    "etag": null,
+    "last_modified": "Tue, 20 Oct 2026 19:09:24 GMT"
+  },
+  "sources": [
+    {
+      "source_id": "vehicle_population_2014_2025",
+      "http": {
+        "requested_url": "https://dmt.gov.lk/images/2026/Vehicle_Population_2014-2025.pdf",
+        "final_url": "https://dmt.gov.lk/images/2026/Vehicle_Population_2014-2025.pdf",
+        "bytes": 72317,
+        "retrieved_utc": "2026-10-20T19:09:23.862372+00:00",
+        "content_type": "application/pdf",
+        "etag": "\"6992addb-11a7d\"",
+        "last_modified": "Mon, 16 Feb 2026 05:40:43 GMT"
+      },
+      "sha256": "bed6a4b57ff05b8bb299d45e5fd5b260df54b773c672fd19d5e7b8d31714e757"
+    },
+    {
+      "source_id": "monthly_registrations_2025",
+      "http": {
+        "requested_url": "https://dmt.gov.lk/images/2026/Monthly_New_registration_of_Vehicles_2025.pdf",
+        "final_url": "https://dmt.gov.lk/images/2026/Monthly_New_registration_of_Vehicles_2025.pdf",
+        "bytes": 69967,
+        "retrieved_utc": "2026-10-20T19:09:24.318060+00:00",
+        "content_type": "application/pdf",
+        "etag": "\"6992addb-1114f\"",
+        "last_modified": "Mon, 16 Feb 2026 05:40:43 GMT"
+      },
+      "sha256": "c17a23465c1499269827391fbae58fd5e5500797dff537a746195d42a3f0370d"
+    },
+    {
+      "source_id": "fuel_registrations_2025",
+      "http": {
+        "requested_url": "https://dmt.gov.lk/images/2026/New_Registrations_of_Motor_Vehicles_by_Type_of_Fuel_-_2025.pdf",
+        "final_url": "https://dmt.gov.lk/images/2026/New_Registrations_of_Motor_Vehicles_by_Type_of_Fuel_-_2025.pdf",
+        "bytes": 39015,
+        "retrieved_utc": "2026-10-20T19:09:24.736701+00:00",
+        "content_type": "application/pdf",
+        "etag": "\"6992addb-9867\"",
+        "last_modified": "Mon, 16 Feb 2026 05:40:43 GMT"
+      },
+      "sha256": "06529f2e5acf96fceeb0a4449a70b88965e0a12d1a01ad673022be026d9e212d"
+    }
+  ],
+  "software": {
+    "python": "3.12.0",
+    "pypdf": "6.10.0"
+  },
+  "input_sha256": {
+    "src/ev_demand/geography/prepare_dmt_sources.py": "1c6dd0f2aa3ecf40789c40504e75af3dcf6cb275519f9387099050dd05b95d84",
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "data/raw/public/dmt_sources/20261020T190921_228364Z/dmt_statistics_index.html": "66c8b82a6ccc706d7db5c6cc6a3f46e33b0b926b6f2b04ca90b947765ef82023",
+    "data/raw/public/dmt_sources/20261020T190921_228364Z/vehicle_population_2014_2025.pdf": "bed6a4b57ff05b8bb299d45e5fd5b260df54b773c672fd19d5e7b8d31714e757",
+    "data/raw/public/dmt_sources/20261020T190921_228364Z/monthly_registrations_2025.pdf": "c17a23465c1499269827391fbae58fd5e5500797dff537a746195d42a3f0370d",
+    "data/raw/public/dmt_sources/20261020T190921_228364Z/fuel_registrations_2025.pdf": "06529f2e5acf96fceeb0a4449a70b88965e0a12d1a01ad673022be026d9e212d"
+  },
+  "output_sha256": {
+    "dmt_document_page_inventory.csv": "41f2e6601c6a57f04ae9dbb9afde6dc135cf7202e20e2600a2f1696f9c1a7da1",
+    "dmt_extracted_page_text.jsonl": "352124a2e8f7b267c8fddb8228520adcc82163e271fe55031361084c1db8bc69",
+    "dmt_source_manifest.csv": "433157e6a6fcdee06dbcb03ef4cae13f03a176a58d95f3e2ee2fbe6b732dfac3"
+  },
+  "checks": {
+    "official_index_links": true,
+    "pinned_pdf_hashes": true,
+    "expected_page_counts": true,
+    "all_pages_text_inspected": true,
+    "title_and_period_text": true,
+    "inputs_unchanged": true
+  },
+  "numerical_tables_extracted": false,
+  "numerical_consistency_review_complete": false,
+  "fuel_category_definitions_review_complete": false,
+  "national_active_electric_stock_established": false,
+  "district_electric_stock_established": false,
+  "adoption_scenarios_created": false,
+  "district_demand_ready": false,
+  "new_demand_simulations": 0,
+  "interpretation_limits": [
+    "Population tables and registration-flow tables measure different quantities.",
+    "The all-fuel population table does not establish electric vehicle stock.",
+    "New registrations during 2025 are not the active electric fleet at year end.",
+    "Reported electric and mixed-fuel categories must be reviewed separately; mixed fuel does not establish plug-in capability.",
+    "These three national documents do not establish district EV counts, model or battery composition, or retirement rates.",
+    "PDF text reading order is not verified table-column order; no numeric cells are parsed in this step.",
+    "Document names and PDF metadata are not evidence of a publication date.",
+    "SHA256 pins identify the research snapshots; they are not publisher-issued checksums.",
+    "No open-data licence is asserted; the publisher retains its rights."
+  ]
+}
