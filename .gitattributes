@@ -2,3 +2,4 @@
 /src/** -text
 /data/** -text
 /outputs/** -text
+data/raw/public/osm_sources/20261020T124821_702183Z/sri-lanka-261019.osm.pbf filter=lfs diff=lfs merge=lfs -text
