@@ -1,0 +1,26 @@
+﻿district_id,district_name,province_name,reference_year,coverage_status,responding_establishments,annual_occupancy_table19,annual_occupancy_table20,unit,denominator_status,pdf_pages,data_origin
+DCS-11,Colombo,Western,2024,reported,31,53.0,53.0,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,reported,19,52.5,52.5,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,reported,15,50.5,50.5,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,reported,16,48.9,48.9,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,reported,19,37.2,37.2,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,reported,10,46.9,46.9,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,reported,38,44.7,44.7,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,reported,8,46.9,46.9,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,reported,10,51.8,51.8,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,reported,4,43.4,43.4,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,not_listed_in_selected_occupancy_tables,,,,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,reported,1,84.7,84.7,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,not_listed_in_selected_occupancy_tables,,,,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,not_listed_in_selected_occupancy_tables,,,,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,reported,7,57.1,57.1,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,reported,3,31.0,31.0,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,reported,3,43.5,43.5,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,reported,2,7.3,7.3,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,reported,4,41.6,41.6,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,reported,9,27.6,27.6,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,reported,2,30.5,30.5,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,reported,6,44.6,44.6,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,reported,6,16.2,16.2,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,reported,5,20.6,20.6,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,reported,3,10.9,10.9,reported_0_to_100_scale,not_defined_in_selected_tables,42;43,PUBLIC_REFERENCE

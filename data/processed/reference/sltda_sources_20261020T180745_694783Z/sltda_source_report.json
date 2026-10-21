@@ -1,0 +1,169 @@
+{
+  "schema": "sltda_source_snapshot_v1",
+  "status": "source_snapshots_inspected",
+  "created_utc": "2026-10-20T18:07:58.447889+00:00",
+  "data_origin": "PUBLIC_REFERENCE",
+  "report_years": [
+    2024,
+    2025
+  ],
+  "source_documents": 2,
+  "pdf_pages_read": 114,
+  "raw_source_folder": "data/raw/public/sltda_sources/20261020T180745_694783Z",
+  "official_index_http": {
+    "requested_url": "https://www.sltda.gov.lk/en/annual-statistical-report",
+    "final_url": "https://www.sltda.gov.lk/en/annual-statistical-report",
+    "bytes": 50601,
+    "retrieved_utc": "2026-10-20T18:07:46.333594+00:00",
+    "content_type": "text/html; charset=UTF-8",
+    "etag": null,
+    "last_modified": null
+  },
+  "sources": [
+    {
+      "report_year": 2024,
+      "http": {
+        "requested_url": "https://www.sltda.gov.lk/storage/common_media/Year_In_Review_2024_Final_2024_Jan-Dec_updated_20_04_2026.pdf",
+        "final_url": "https://www.sltda.gov.lk/storage/common_media/Year_In_Review_2024_Final_2024_Jan-Dec_updated_20_04_2026.pdf",
+        "bytes": 4235505,
+        "retrieved_utc": "2026-10-20T18:07:48.770303+00:00",
+        "content_type": "application/pdf",
+        "etag": "\"69e5f91c-40a0f1\"",
+        "last_modified": "Mon, 20 Apr 2026 09:59:56 GMT"
+      },
+      "source_sha256": "65fde930d94619d2ffdf5df02a64bb2102a5dd43676fb0c73a77e03f6026c0bf",
+      "expected_pdf_pages": 44,
+      "keyword_pages": {
+        "room": [
+          2,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          39,
+          40
+        ],
+        "bed": [],
+        "occupancy": [
+          2,
+          42,
+          43
+        ],
+        "district": [
+          2,
+          20,
+          21,
+          22,
+          23,
+          24,
+          39,
+          42,
+          43
+        ],
+        "establishment": [
+          2,
+          17,
+          18,
+          21,
+          23,
+          42
+        ]
+      }
+    },
+    {
+      "report_year": 2025,
+      "http": {
+        "requested_url": "https://www.sltda.gov.lk/storage/common_media/Year_in_Review_2025_Final_updated_Report_2026_04_02-1.pdf",
+        "final_url": "https://www.sltda.gov.lk/storage/common_media/Year_in_Review_2025_Final_updated_Report_2026_04_02-1.pdf",
+        "bytes": 4377913,
+        "retrieved_utc": "2026-10-20T18:07:54.745533+00:00",
+        "content_type": "application/pdf",
+        "etag": "\"69d484d8-42cd39\"",
+        "last_modified": "Tue, 07 Apr 2026 04:15:20 GMT"
+      },
+      "source_sha256": "4a0f77c2824a150b353d7f070defa905e09efb1f277d98358ba8eced3cce3727",
+      "expected_pdf_pages": 70,
+      "keyword_pages": {
+        "room": [
+          2,
+          11,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          67,
+          69
+        ],
+        "bed": [],
+        "occupancy": [],
+        "district": [
+          2,
+          28,
+          33,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          67,
+          68
+        ],
+        "establishment": [
+          2,
+          31,
+          32,
+          38,
+          39,
+          40,
+          41
+        ]
+      }
+    }
+  ],
+  "software": {
+    "python": "3.12.0",
+    "pypdf": "6.10.0"
+  },
+  "input_sha256": {
+    "src/ev_demand/geography/prepare_sltda_sources.py": "d82bccb95af6777b4552da885d5b0f49c38091c7ddea8584b420c8c48d6603eb",
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "docs/spatial_source_review_provisional_decisions.md": "2546b7d0d0f808d8cf6e28b1ab5678654e5dc47e87e62df9198cb21545c85340",
+    "data/raw/public/sltda_sources/20261020T180745_694783Z/annual_statistical_report_index.html": "230e5d9058d777556341285bbbdb136a26f1d65079cd9808bacdc2bcedd5cc09",
+    "data/raw/public/sltda_sources/20261020T180745_694783Z/sltda_year_in_review_2024.pdf": "65fde930d94619d2ffdf5df02a64bb2102a5dd43676fb0c73a77e03f6026c0bf",
+    "data/raw/public/sltda_sources/20261020T180745_694783Z/sltda_year_in_review_2025.pdf": "4a0f77c2824a150b353d7f070defa905e09efb1f277d98358ba8eced3cce3727"
+  },
+  "output_sha256": {
+    "sltda_document_page_inventory.csv": "8a45efacb26ee5cad3a7477c882c2d25afaf2cea879c6b180de552a90208638c",
+    "sltda_source_manifest.csv": "8698ec2263e4605f2c029196da2560547a7e15e71e65f8572dbe6ce75fa822ca"
+  },
+  "checks": {
+    "official_index_links": true,
+    "pinned_pdf_hashes": true,
+    "expected_page_counts": true,
+    "all_pages_text_inspected": true,
+    "inputs_unchanged": true
+  },
+  "numerical_tables_extracted": false,
+  "numerical_consistency_review_complete": false,
+  "bed_capacity_established": false,
+  "occupancy_denominator_review_complete": false,
+  "typology_weights_created": false,
+  "district_demand_ready": false,
+  "interpretation_limits": [
+    "Keyword pages are navigation aids; text extraction does not establish table correctness or absence.",
+    "Report years, capacity units and occupancy reporting populations require separate review.",
+    "Rooms are not beds; capacity and occupancy are not vehicle arrivals or charging demand.",
+    "No open-data licence is asserted for the SLTDA reports; publisher rights are retained."
+  ]
+}

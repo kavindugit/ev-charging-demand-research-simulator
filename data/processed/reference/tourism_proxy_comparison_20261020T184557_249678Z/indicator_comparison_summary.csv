@@ -1,0 +1,4 @@
+﻿indicator_id,reference_indicator_id,comparable_districts,largest_absolute_share_difference_pp,largest_gap_district_ids_json,largest_gap_district_names_json,half_l1_share_distance,largest_absolute_rank_difference,status,data_origin
+osm_all_tourism_objects,sltda_rooms_2025,25,10.880584998717426,"[""DCS-11""]","[""Colombo""]",0.17633203640960135,8,defined,PUBLIC_REFERENCE
+osm_accommodation_visitor_objects,sltda_rooms_2025,25,11.154629155767502,"[""DCS-11""]","[""Colombo""]",0.18874914017730063,8,defined,PUBLIC_REFERENCE
+sltda_rooms_2024,sltda_rooms_2025,25,0.9030390796054775,"[""DCS-11""]","[""Colombo""]",0.021214827519538477,2,defined,PUBLIC_REFERENCE

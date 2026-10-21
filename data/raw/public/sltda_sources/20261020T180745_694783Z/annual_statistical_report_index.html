@@ -1,0 +1,1300 @@
+<style>
+    .short-code-text p{
+        width: 100%;
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 1.8;
+        color: #656565;
+        text-align: justify;
+    }
+    .short-code-text li p{
+        margin-bottom: 8px;
+    }
+    .short-code-text h1{
+        color: #3B3B3B;
+        font-size: 35px;
+        font-family: "Archivo Narrow", sans-serif;
+        font-weight: 800 !important;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+        width: 100%;
+    }
+    .short-code-text h2{
+        color: #3B3B3B;
+        text-transform: uppercase;
+        font-weight: 700 !important;
+        font-family: "Archivo Narrow", sans-serif;
+        width: 100%;
+    }
+    .short-code-text table {
+        display: block;
+        width: 100% !important;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    .page-para{
+        display: none;
+    }
+    .register-card-body p{
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 1.8;
+        color: #656565;
+        text-align: justify;
+    }
+    .box-wrap{
+    }
+</style>
+
+
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8472280-2"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'UA-8472280-2');
+</script>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GSZY489W7B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GSZY489W7B');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8472280-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'UA-8472280-1');
+</script>
+
+<!-- Required meta tags -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="user" content="">
+<meta name="user_organisation_type" content="">
+<meta name="csrf" content="XVxdDFJeSZrguL4cJPABDmfXyHOGnl8QzIRoSJDD">
+<meta name="api-base-url" content="https://www.sltda.gov.lk" />
+
+<meta name="description" content=""/>
+
+<!-- Facebook -->
+<meta property="og:title" content=""/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="SLTDA"/>
+<meta property="og:description" content=""/>
+<meta property="og:image" content=""/>
+<meta property="og:url" content=""/>
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="">
+<meta property="twitter:title" content="">
+<meta property="twitter:description" content="">
+<meta property="twitter:image" content="">
+
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+
+<link href="https://www.sltda.gov.lk/css/slick.css" rel="stylesheet">
+<link href="https://www.sltda.gov.lk/css/slick-theme.css" rel="stylesheet">
+
+
+<!-- Bootstrap CSS -->
+<link href="https://www.sltda.gov.lk/css/app.css?id=10" rel="stylesheet">
+<script src="https://www.sltda.gov.lk/js/app.js?id=10"></script>
+
+
+<script src="https://www.sltda.gov.lk/js/slick.js"></script>
+<script src="https://www.sltda.gov.lk/js/anime.min.js"></script>
+ <script src="https://www.sltda.gov.lk/js/jquery.scrolly.js"></script>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:wght@100&display=swap" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Noto Sans Sinhala' rel='stylesheet'>
+
+
+<link rel="icon" href="https://www.sltda.gov.lk/images/favicon-32x32.png" type="image/x-icon">
+<title>SLTDA | Sri Lanka Tourism Development Authority</title>
+
+<title>sltda-website</title>
+
+<style>
+  .navbar-light .navbar-nav .nav-item {
+    padding: 0 10px;
+  }
+  .floating-container {
+    position: fixed;
+    right: 14px;
+    top: 5rem;
+    cursor: pointer
+}
+  .lazyload {
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .lazyloaded {
+    opacity: 1;
+  }
+
+</style>
+
+</head>
+<body>
+<a href="#" id="scroll" style="display: none;"><span></span></a>
+<div id="header">
+    <pre-loader :img="imgUrl"></pre-loader>
+    <div class="row top-bar no-gutters">
+        <div class="col-sm-12">
+            <div class="container-fluid">
+            </div>
+        </div>
+    </div>
+
+    <div class="row no-gutters">
+        <div class="col-sm-12">
+
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="https://www.sltda.gov.lk/en">
+                        <img src="https://www.sltda.gov.lk/images/sltda-logo.png" width="60" alt="">
+                    </a>
+                    <!--Start best web logo-->
+                        <!-- <a href="https://www.vote.bestweb.lk/site/www_sltda_gov_lk/" target="_blank"><img src="https://www.sltda.gov.lk/images/vote4us.png" alt="logo" width="50" height="50" /></a> -->
+                    <!--End best web logo-->
+                    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    
+                    <div class="collapse navbar-collapse search-animate" id="navbarSupportedContent">
+                        <ul class="navbar-nav ml-auto">
+                                                            <li class="nav-item">
+                                    <a class="nav-link" href="https://www.sltda.gov.lk">Home</a>
+                                </li>
+                                                                                                                        <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-link  " href="https://www.sltda.gov.lk/en/about-us" id="navbarDropdown" role="button" data-toggle="" aria-haspopup="true" aria-expanded="false">
+                                        ABOUT US
+                                    </a>
+                                                                    </li>
+                                                                                        <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-link  " href="https://www.sltda.gov.lk/en/statistics" id="navbarDropdown" role="button" data-toggle="" aria-haspopup="true" aria-expanded="false">
+                                        STATISTICS
+                                    </a>
+                                                                    </li>
+                                                                                        <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-link  " href="https://www.sltda.gov.lk/en/sustainable-tourism" id="navbarDropdown" role="button" data-toggle="" aria-haspopup="true" aria-expanded="false">
+                                        Sustainability
+                                    </a>
+                                                                    </li>
+                                                                                        <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-link  " href="https://www.sltda.gov.lk/en/investor-relations-unit" id="navbarDropdown" role="button" data-toggle="" aria-haspopup="true" aria-expanded="false">
+                                        Investments
+                                    </a>
+                                                                    </li>
+                                                                                        <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-link  " href="https://www.sltda.gov.lk/en/download-2" id="navbarDropdown" role="button" data-toggle="" aria-haspopup="true" aria-expanded="false">
+                                        DOWNLOADS
+                                    </a>
+                                                                    </li>
+                                                                                        <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-link  " href="https://www.sltda.gov.lk/en/contact" id="navbarDropdown" role="button" data-toggle="" aria-haspopup="true" aria-expanded="false">
+                                        CONTACT US
+                                    </a>
+                                                                    </li>
+                                                
+                        
+                        
+                        
+                        
+
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <!-- End Level one -->
+
+
+
+                            <li class="nav-item">
+                                <a class="nav-link bordered-nav-link" href="https://www.sltda.gov.lk/en/register-with-us">REGISTER WITH SLTDA</a>
+                            </li>
+
+                        </ul>
+
+
+
+                        <form class="form-inline my-2 my-lg-0" method="GET" action="https://www.sltda.gov.lk/en/search">
+                            <input class="form-control search-input mr-sm-2" type="search" name="search" placeholder="Search" aria-label="Search">
+                            <a class="search-btn" href="#"><img class="tog-icon-search" src="https://www.sltda.gov.lk/images/search-icon.svg" width="22" alt=""/><i class="fas fa-times-circle tog-icon-close"></i></a>
+                        </form>
+
+                        <form class="form-inline my-2 my-lg-0 w-auto" onchange="javascript:location.href = getElementById('exampleFormControlSelect1').value;">
+                            <select class="form-control language" id="exampleFormControlSelect1">
+                                <option value=https://www.sltda.gov.lk/en/annual-statistical-report selected>English</option>
+                                <option value=https://www.sltda.gov.lk/si/annual-statistical-report >සිංහල</option>
+                                <option value=https://www.sltda.gov.lk/ta/annual-statistical-report >தமிழ்</option>
+                            </select>
+                        </form>
+                        
+                    </div>
+                </div>
+            </nav>
+
+        </div>
+    </div>
+</div>
+
+
+<script>
+    const header = new Vue({
+        el: '#header',
+        data(){
+            return{
+                imgUrl: "https://www.sltda.gov.lk/images/sltda-logo.png"
+            }
+        },
+        mounted(){
+
+        }
+    });
+    $(function() {
+        // ------------------------------------------------------- //
+        // Multi Level dropdowns
+        // ------------------------------------------------------ //
+        $("ul.dropdown-menu [data-toggle='dropdown']").on("click", function(event) {
+            event.preventDefault();
+            event.stopPropagation();
+
+            $(this).siblings().toggleClass("show");
+
+
+            if (!$(this).next().hasClass('show')) {
+                $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+            }
+            $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+                $('.dropdown-submenu .show').removeClass("show");
+            });
+
+        });
+        /*$(".dropdown-link").click(function () {
+            var getPageLink = $(this).attr('href');
+            console.log(getPageLink);
+            window.location = getPageLink;
+        });*/
+    });
+
+    $(window).scroll(function(){
+        if ($(window).scrollTop() >= 20) {
+            $('.navbar').addClass('fixed-header');
+            $('.main-slide').addClass('add-margin');
+        }
+        else {
+            $('.navbar').removeClass('fixed-header');
+            $('.main-slide').removeClass('add-margin');
+        }
+    });
+
+    $(document).ready(function () {
+
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 100) {
+                $('#scroll').fadeIn();
+            } else {
+                $('#scroll').fadeOut();
+                /*$('.show-tog-btn').css( "display", "none" );
+                $('.nav-block-outer').removeClass('hide-menu');*/
+            }
+        });
+
+    });
+</script>
+<!-- fuel pop up 04/01/23 -->
+<script>
+    
+    // $(function() {
+    //     $('#basicExampleModal').modal('show');
+    // });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row no-gutters">
+    <div class="col-sm-12 page-hero-img">
+        
+        <!--  -->
+
+        
+        <img src="https://www.sltda.gov.lk/storage/common_media/19e19835f57fb78b5fb429c849b4f81f.jpg" class="" alt="...">
+        <h1>
+            Annual Statistical Report
+        </h1>
+        <h1></h1>
+    </div>
+</div>
+<div class="row no-gutters">
+    <div class="col-sm-12">
+        <div class="container-fluid">
+            <div class="genaral-pad">
+                <div class="left-sidebar d-none d-md-block">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="row no-gutters">
+
+    <div class="col-12 sidebar-block sidebar-links">
+        <ul class="fa-ul">
+            
+                            <li class="nav-item">
+                    <a class="nav-link" href="https://www.sltda.gov.lk/en/tourism-development-levy">
+                        Tourism Development Levy
+                    </a>
+                                    </li>
+                            <li class="nav-item">
+                    <a class="nav-link" href="https://www.sltda.gov.lk/en/tourist-attractions">
+                        Sri Lanka Tourist Attractions
+                    </a>
+                                    </li>
+                            <li class="nav-item">
+                    <a class="nav-link" href="https://www.sltda.gov.lk/en/projects">
+                        PROJECTS
+                    </a>
+                                    </li>
+                            <li class="nav-item">
+                    <a class="nav-link" href="https://www.sltda.gov.lk/en/tourism-news">
+                        Tourism News
+                    </a>
+                                    </li>
+                    </ul>
+    </div>
+
+    <div class="row no-gutters  ">
+
+            </div>
+
+    <br>
+
+    <!-- -----------------------------All the Related Links that matters. Others can be removed as the requirements--------------------- -->
+
+
+    <!-- Related Links for Static Pages
+   This is the newly added one. This is reusable and works well.
+   -->
+
+    
+    <div class="row no-gutters sidebar-help">
+            </div>
+
+    <br>
+
+    <!-- Bulk Related Links for Static Pages -->
+
+    
+    <div class="row no-gutters sidebar-help">
+            </div>
+
+
+    <!-- Bulk Related Links for Dynamic Pages -->
+
+
+
+
+    <div class="row no-gutters sidebar-help">
+            </div>
+
+    <!-- -----------------------------All the Related Links that matters. Others can be removed as the requirements Ends--------------------- -->
+
+
+</div>
+
+<!-- Strategic Plan Modal -->
+<div class="modal fade strategicPlanModal resort-modal" tabindex="-1" role="dialog" aria-labelledby="myExtraLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span data-dismiss="modal" aria-label="Close" class="w-100 text-right modal-close"><i class="fas fa-times"></i></span>
+            </div>
+            <div class="modal-body">
+                <div class="row no-gutters">
+                    <div class="col-md-12">
+                        <h1 class="resort-modal-topic">Sri Lanka Tourism Strategic Plane 2017 - 2020</h1>
+                    </div>
+                    <div class="col-md-12 resort-modal-down-text-back">
+                        <p class="resort-modal-down-text">Download Application <span><img src="https://www.sltda.gov.lk/images/download-icon.png"></span></p>
+                    </div>
+                </div>
+                <div class="row no-gutters">
+                    <div class="col-md-10 offset-md-1">
+                        <div class="row no-gutters">
+                            <div class="col-md-12 resort-pdf-list pt-0">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                        <div class="pdf-img">
+                                            <img src="https://www.sltda.gov.lk/images/pdf-img.svg">
+                                        </div>
+                                        <div class="pdf--img-text">
+                                            <h1 class="resort-modal-down-text text-center">English<br>Application</h1>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                        <div class="pdf-img">
+                                            <img src="https://www.sltda.gov.lk/images/pdf-img.svg">
+                                        </div>
+                                        <div class="pdf--img-text">
+                                            <h1 class="resort-modal-down-text text-center">Sinhala<br>Application</h1>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+                                        <div class="pdf-img">
+                                            <img src="https://www.sltda.gov.lk/images/pdf-img.svg">
+                                        </div>
+                                        <div class="pdf--img-text">
+                                            <h1 class="resort-modal-down-text text-center">Tamil<br>Application</h1>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer"></div>
+        </div>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="genaral-content-wrap-with-help">
+                    <div class="row">
+                            <div class="col-xl-10 offset-xl-1 col-lg-12 offset-lg-0 col-md-12 offset-md-0 register-back-wrap short-code-text">
+
+        <div class="row">
+           <p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://www.sltda.gov.lk/storage/common_media/Year_in_Review_2025_Final_updated_Report_2026_04_02-1.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/Annual_Statistical_Report_2025.png" alt="" class="box__img">
+                                <img src="https://www.sltda.gov.lk/images/newtag.svg" alt="New" style="width: 50px; height: 50px; position: absolute; top: 0; left: 0;">
+
+                            </div>
+                            <div class="box__content">
+                                Year in review 2025
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://www.sltda.gov.lk/storage/common_media/Year_In_Review_2024_Final_2024_Jan-Dec_updated_20_04_2026.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/Annual_Statistical_Report_2024.png" alt="" class="box__img">
+                                <img src="https://www.sltda.gov.lk/images/newtag.svg" alt="New" style="width: 50px; height: 50px; position: absolute; top: 0; left: 0;">
+
+                            </div>
+                            <div class="box__content">
+                                Year in review 2024
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://www.sltda.gov.lk/storage/common_media/Annual_Statistical_Report_2023.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/IndustryReportUpdated_1.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2023
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://www.sltda.gov.lk/storage/common_media/Year-in-Review-2022-Final-Report-2023.12.12.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/2022-review-image.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Year in review 2022
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://www.sltda.gov.lk/storage/common_media/new year in review Update 20213611163389.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/year in review new3710830001.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Year in review 2021
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://www.sltda.gov.lk/storage/common_media/Annual Stastistical Report 2021 -Final 25.4.20223624932970.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/Annual Stastistical Report 2020 new2028752616.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2020
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://srilanka.travel/SLTDA_documents/ASR%202019.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/ASR20191054551852.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2019 New 
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://www.sltda.gov.lk/storage/common_media/Tourist Board Annual Statistical Report 2018_Web784216427.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/AnnualReportUpdated2018updated3923426056.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2018 
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/documents/0f7443899b258fa5bffbabf2ecc54e27.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/ada38aa46da1c2649756c4497e4ac7ab.jpg" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2017
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/documents/d53dc2fc78e00367a10a395dacd1c033.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/8f1d30a7d1ef66f4244c95dcc2a6f584.jpg" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2016
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p><br></p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/documents/87e6120675b19fecce8c986006200ecf.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/4d6c50c876e00ca42db100233ac4b391.jpg" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2015
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/documents/8ce164b492a0b74f2c528b08249c3a4d.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/5150a576662240e6d636e6e373257dda.jpg" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2014
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/documents/826914be6b2f346c08d0e66db21809cb.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/5bd71c026fa1ea60a5e1af5fd8aadea6.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2013
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/documents/d0b10601f0cedd91115f9774a935c6d8.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/d0d39503d2ec2f3a387376e3486fd1dd.png" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2012
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p><br></p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/documents/b7f151699117b5be594b183a083ca46f.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/d0d39503d2ec2f3a387376e3486fd1dd.jpg" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2011
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+
+<p> 
+                <div class="col-md-3 box-wrap box-wrap-pad">
+                    <a target="_blank" href="https://sltda.gov.lk/storage/common_media/ASR 20101541160295.pdf">
+                        <div class="box">
+                            <div class="box__img-wrap">
+                                <img src="https://sltda.gov.lk/storage/common_media/20103305460908.jpg" alt="" class="box__img">
+                            </div>
+                            <div class="box__content">
+                                Annual Statistical Report 2010
+                            </div>
+                        </div>
+                    </a>  
+                </div>
+       </p>
+        </div>
+
+    </div>
+
+    <script>
+        $('p').each(function() {
+            var $this = $(this);
+            if($this.html().replace(/\s|&nbsp;/g, '').length == 0)
+                $this.remove();
+        });
+    </script>
+
+
+                    </div>
+                </div>
+                <div class="right-sidebar d-none d-md-block">
+                    <div class="row">
+                        <div class="col-12">
+                            <br>
+
+<div class="row no-gutters  ">
+        </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+
+    <div class="row top-bar no-gutters">
+        <!-- best web logo -->
+    <!-- <div class="floating-container">
+        <a class="floating-button" href="#">
+            <img src="https://www.sltda.gov.lk/images/bestwebaward.png" width="200px" class="" alt="">
+        </a>
+    </div> -->
+        <div class="col-sm-12">
+            <div class="container-fluid">
+                
+            </div>
+        </div>
+    </div>
+    <div class="row no-gutters footer-body justify-content-center">
+        <div class="container-fluid">
+            <div class="col-sm-12">
+                <div class="row justify-content-center">
+                    <div class="col-md-10 col-xl-9">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-6 foot-body-box">
+                                        <a target="_blank" class="foot-body-link" href="https://www.srilanka.travel/">Sri Lanka Travel</a>
+                                        <a target="_blank" class="foot-body-link" href="http://nationalholidayresorts.lk">National Holiday Resorts</a>
+                                        <a target="_blank" class="foot-body-link" href="https://slithm.edu.lk/">Sri Lanka Institute of Tourism & Hotel Management</a>
+                                        <a target="_blank" class="foot-body-link" href="http://www.tourismawards.lk/">Tourism Awards</a>
+
+
+                                    </div>
+                                    <div class="col-6 foot-body-box">
+                                        <a target="_blank" class="foot-body-link" href="https://www.sltda.gov.lk/careers">Careers</a>
+
+
+                                        <a target="_blank" class="foot-body-link" href="https://www.sltda.gov.lk/tender">Tenders</a>
+                                        <a target="_blank" class="foot-body-link" href="https://www.sltda.gov.lk">Site Map</a>
+
+
+
+                                        <!-- <a target="_blank" class="foot-body-link" href="https://www.sltda.gov.lk/terms-of-use">Site Map</a> -->
+                                        <a target="_blank" class="foot-body-link" href="https://complaints.sltda.gov.lk/">Complaints</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6 foot-body-box">
+                                <h3>Contact Us</h3>
+                                <div class="row">
+                                    <div class="col-6">
+                                        <h5>Address</h5>
+                                        <p>Sri Lanka Tourism Development Authority<br>
+                                        No. 80, Galle road,<br>
+                                        Colombo 03</p>
+                                        <br>
+                                        <h5>Telephone</h5>
+                                        <p><a href="tel:+94 112426800">+94 112 426800</a> 
+                                        </p>
+                                    </div>
+                                    <div class="col-6">
+                                        <h5>Fax</h5>
+                                        <p>+94 112 444165 / 2426984</p>
+                                        <br>
+                                        <h5>Email</h5>
+                                        <p>info@srilanka.travel</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 foot-body-bottom">
+                <div class="row">
+                    <div class="col-md-3 foot-body-bottom-box d-flex">
+                        <div class=""><img src="https://www.sltda.gov.lk/images/lonely-planet.png" width="100" alt=""> </div>
+                        <div class="">Best Travel<br>Destinations</div>
+                    </div>
+                    <div class="col-md-3 foot-body-bottom-box d-flex justify-content-center">
+                        <div class="col-md-12 footer-bottom">
+                            <div class="social-icon-wrap mb-2">
+                                <a class="social-icon-link" target="_blank"
+                                   href="https://www.facebook.com/sltda.gov.lk">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                                
+                                
+                                
+                                
+                                <a class="social-icon-link" target="_blank" href="https://twitter.com/sltda_srilanka">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a class="social-icon-link" target="_blank"
+                                   href="https://www.instagram.com/sltda_srilanka/">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 foot-body-bottom-box d-flex justify-content-center">
+                        <div class="text-right">Tourism <br>Hotline </div>
+                        <div class=""><h2><a href="tel:1912">1912</a></h2></div>
+                    </div>
+
+
+                    <div class="col-md-3 foot-body-bottom-box d-flex justify-content-end">
+                        <div class="text-right">Ambulance Service<br><span>"Suwasariya"</span> for tourists</div>
+                        <div class=""><h2><a href="tel:1990">1990</a></h2></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row no-gutters foot-tag">
+        <div class="col-sm-12">
+            Copyright ©  2026  All Rights Reserved by Sri Lanka Tourism Development Authority. ( ICT Department ) 
+        </div>
+        <div class="col-sm-12">
+            
+            <p> <a href="https://www.sltda.gov.lk/en/privacy-policy"  id="myLink" style="text-decoration: none; color: EED13E;" >Privacy Policy </a> &nbsp;&nbsp; <a href="https://www.sltda.gov.lk/en/terms-conditions"  id="myLink1" style="text-decoration: none; color: EED13E;" >Terms & Conditions </a></p> 
+            </div>
+    </div>
+
+ <!-- cookies ------------------------------------------------------------------------------------------------------>
+ <div id="lh-cookie-bar">
+        <div id='contentcookie'>
+            <p>We use cookies to offer you a better browsing experience, analyze site traffic, personalize content. Read about how we use cookies and how you can control them on our Privacy
+                Policy. If you continue to use this site, you consent to our use of cookies.<a href='https://www.sltda.gov.lk/en/privacy-policy'> Privacy Policy</a></p><button id='Cookie'
+                tabindex=1 onclick='AcceptCookies();'>Got it!
+            </button>
+            <div class='clear'></div>
+        </div>
+    </div>
+</footer>
+
+<script>
+//All the cookie setting stuff
+function SetCookie(cookieName, cookieValue, nDays) {
+    "use strict";
+    var today = new Date();
+    var expire = new Date();
+    if (nDays == null || nDays == 0) nDays = 1;
+    expire.setTime(today.getTime() + 3600000 * 24 * nDays);
+    document.cookie =
+        cookieName +
+        "=" +
+        escape(cookieValue) +
+        ";expires=" +
+        expire.toGMTString() +
+        "; path=/";
+}
+
+function ReadCookie(cookieName) {
+    "use strict";
+    var theCookie = " " + document.cookie;
+    var ind = theCookie.indexOf(" " + cookieName + "=");
+    if (ind == -1) ind = theCookie.indexOf(";" + cookieName + "=");
+    if (ind == -1 || cookieName == "") return "";
+    var ind1 = theCookie.indexOf(";", ind + 1);
+    if (ind1 == -1) ind1 = theCookie.length;
+    return unescape(theCookie.substring(ind + cookieName.length + 2, ind1));
+}
+
+function DeleteCookie(cookieName) {
+    "use strict";
+    var today = new Date();
+    var expire = new Date() - 30;
+    expire.setTime(today.getTime() - 3600000 * 24 * 90);
+    document.cookie =
+        cookieName + "=" + escape(cookieValue) + ";expires=" + expire.toGMTString();
+}
+
+function AcceptCookies() {
+    SetCookie("lhCookies", true, 30);
+    document.querySelector("#lh-cookie-bar").style.display = "none";
+}
+
+let cookie_bar = document.querySelector("#lh-cookie-bar");
+if (cookie_bar) {
+    if (!ReadCookie("lhCookies")) {
+        //If the cookie has not been set
+        cookie_bar.style.display = "block";
+    } else {
+        cookie_bar.style.display = "none";
+    }
+}
+</script>
+<style>
+#lh-cookie-bar {
+    font-family: "Montserrat", sas-serif;
+    background: #000;
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    left: 0px;
+    color: #fff;
+    width: 100%;
+}
+
+#lh-cookie-bar p {
+    text-align:center;
+    width: 85%;
+    float: left;
+    display: inline-block;
+    font-size: 14px !important;
+    line-height: 24px;
+    color: #adadad;
+    margin-bottom:-2rem;
+}
+
+#lh-cookie-bar button {
+    float: left;
+    background: transparent;
+    border: 1px solid #EBCE4E;
+    color: #EBCE4E;
+    padding: 15px 20px;
+    
+    font-size: 16px;
+    margin-top: 5px;
+    border-radius: 4px;
+}
+
+#lh-cookie-bar a {
+    color: #EBCE4E;
+    text-decoration: none;
+}
+
+#contentcookie {
+    padding: 10px 40px;
+    /* width: 80%;
+    margin: auto; */
+}
+
+.clear {
+    clear: both;
+}
+
+@media (max-width: 767px) {
+    #lh-cookie-bar p {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    #cookie-bar button {
+        width: 100%;
+    }
+
+    #lh-cookie-bar a {
+        color: #fff;
+    }
+
+    #contentcookie {
+        padding: 20px 0px;
+        width: 90%;
+        margin: auto;
+    }
+}
+</style>
+<!----------------------------------------------------------------------------->
+
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+<!--<script src="https://kit.fontawesome.com/ee5af581bf.js" crossorigin="anonymous"></script>-->
+
+<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow:400,500,600,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700&display=swap" rel="stylesheet">
+<link href='https://use.fontawesome.com/releases/v5.15.4/css/all.css' rel="stylesheet">
+
+<!---------------------------------------------------------->
+<script>
+  document.getElementById('myLink').addEventListener('mouseover', function() {
+    this.style.color = '#ffff';
+  });
+
+  document.getElementById('myLink').addEventListener('mouseout', function() {
+    this.style.color = '#EED13E';
+  });
+</script>
+
+<script>
+  document.getElementById('myLink1').addEventListener('mouseover', function() {
+    this.style.color = '#ffff';
+  });
+
+  document.getElementById('myLink1').addEventListener('mouseout', function() {
+    this.style.color = '#EED13E';
+  });
+</script>
+    <!----------------------------------------------------------->
+<script>
+    $(document).ready(function () {
+
+        $.fn.addClassInScrollTop = function (data) {
+            try {
+                let currentEle = $(this);
+                currentEle.each(function (index) {
+                    let elementOT = currentEle.eq(index).offset().top;
+                    //console.log(currentEle.eq(index).length);
+
+                    let adjLevel = 0;
+                    if (data.adjestment) {
+                        adjLevel = data.adjestment;
+                    }
+                    addClassOnST();
+                    $(window).bind("scroll", addClassOnST);
+
+                    function addClassOnST() {
+                        let winST = $(window).scrollTop();
+                        if (winST + adjLevel > elementOT) {
+                            if (data.loopElement && !currentEle.eq(index).is(".animated")) {
+                                currentEle.eq(index).addClass(data.addClass);
+                                $(data.childElement).each(function (index) {
+                                    setTimeout(() => {
+                                        $(data.childElement).eq(index).addClass(data.childAddClass);
+                                    }, data.loopDelay * index);
+                                });
+                            } else {
+                                currentEle.eq(index).addClass(data.addClass);
+                            }
+                        } else {
+                            if (data.classRemove) {
+                                if (data.loopElement && currentEle.eq(index).is(".animated")) {
+                                    currentEle.eq(index).removeClass(data.addClass);
+                                    $(data.childElement).each(function (index) {
+                                        setTimeout(() => {
+                                            $(data.childElement).eq(index).removeClass(data.childAddClass);
+                                        }, data.loopDelay * index);
+                                    });
+                                } else {
+                                    currentEle.eq(index).removeClass(data.addClass);
+                                }
+                            }
+                        }
+                    }
+                });
+            } catch (err) {
+                //console.log(err.message);
+            }
+        };
+        $(".info-items-back").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 300,
+            childElement: ".info-items",
+            childAddClass: "animate"
+        });
+
+        $(".link-slider").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 300,
+            childElement: ".link-slide",
+            childAddClass: "animate"
+        });
+
+        $(".welcome-mar").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 300,
+            childElement: ".welcome-img-back",
+            childAddClass: "animate"
+        });
+
+        $(".latest-slider-pad-back").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 300,
+            childElement: ".latest-slider-pad",
+            childAddClass: "animate"
+        });
+
+        $(".register-item-back").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 200,
+            childElement: ".card",
+            childAddClass: "animate"
+        });
+
+        $(".statistics-pad").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 200,
+            childElement: ".statistics-box",
+            childAddClass: "animate"
+        });
+
+        $(".download-box-item").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 200,
+            childElement: ".boutique-item-back",
+            childAddClass: "animate"
+        });
+
+        /*$(".other-portals-slider").addClassInScrollTop({
+            addClass: "animated",
+            adjestment: ($(window).height()*1),
+            classRemove: false,
+            loopElement: true,
+            loopDelay: 300,
+            childElement: ".portal-item",
+            childAddClass: "animate"
+        });*/
+
+        $(".animate-in-right").addClassInScrollTop({
+            addClass: "animate",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false
+        });
+
+        $(".animate-in-left").addClassInScrollTop({
+            addClass: "animate",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false
+        });
+
+        $(".fade-in").addClassInScrollTop({
+            addClass: "animate",
+            adjestment: ($(window).height()*3/4),
+            classRemove: false
+        });
+    });
+    function onPageLoaded(){
+
+        //nav items animation
+        $(".nav-item").each(function (index) {
+
+            setTimeout(()=>{
+                $(this).children("a").addClass("animate");
+            }, 50*index);
+        });
+
+        setTimeout(function () {
+            $(".carousel-caption>h1").addClass("animate")
+        },100);
+
+        setTimeout(function () {
+            $(".carousel-caption>h5").addClass("animate")
+        },1000);
+
+        //load animations
+        setTimeout(function () {
+            $(".welcome-animation").addClass("animate")
+        },0);
+
+        setTimeout(function () {
+            $(".load-text-animation").addClass("animate")
+        },100);
+
+        $(".load-section-animation").each(function (index) {
+
+            setTimeout(()=>{
+                $(this).children(".load-section").addClass("animate");
+            }, 100*index);
+        });
+        //load animations
+
+        //register with us
+        setTimeout(function () {
+            $(".register-card").addClass("animate")
+        },500);
+
+        //addresses telephone
+        $(".tel-box").each(function (index) {
+
+            setTimeout(()=>{
+                $(this).children(".tel-box-inner").addClass("animate");
+            }, 100*index);
+        });
+    }
+    window.addEventListener('load', function () {
+        onPageLoaded();
+    });
+</script>
+</body>
+</html>
+
+
+
+

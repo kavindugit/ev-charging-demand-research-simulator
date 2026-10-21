@@ -1,0 +1,51 @@
+﻿district_id,district_name,province_name,reference_year,source_district_name,registered_room_count,published_room_share_percent,report_year,pdf_page,table_key,unit,data_origin
+DCS-11,Colombo,Western,2024,Colombo,11110,20.0,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,Gampaha,4606,8.3,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,Kalutara,4053,7.3,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,Kandy,4038,7.3,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,Matale,2404,4.3,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,Nuwara Eliya,2553,4.6,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,Galle,8885,16.0,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,Matara,2681,4.8,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,Hambantota,2556,4.6,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,Jaffna,712,1.3,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,Mannar,45,0.08,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,Vavuniya,135,0.2,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,Mullaitivu,63,0.1,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,Kilinochchi,108,0.1,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,Batticaloa,991,1.8,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,Ampara,831,1.4,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,Trincomalee,798,1.4,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,Kurunegala,580,1.0,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,Puttalam,1558,2.8,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,Anuradhapura,1784,3.2,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,Polonnaruwa,640,1.2,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,Badulla,2055,3.7,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,Monaragala,814,1.5,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,Rathnapura,769,1.4,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,Kegalle,686,1.2,2024,20,rooms_2024,rooms,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2025,Colombo,11398,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2025,Gampaha,4865,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2025,Kalutara,4170,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2025,Kandy,4657,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2025,Matale,2561,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2025,Nuwara Eliya,2699,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2025,Galle,10021,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2025,Matara,3081,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2025,Hambantota,2620,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2025,Jaffna,757,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2025,Mannar,54,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2025,Vavuniya,147,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2025,Mullaitivu,52,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2025,Kilinochchi,159,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2025,Batticaloa,1004,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2025,Ampara,846,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2025,Trincomalee,877,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2025,Kurunegala,645,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2025,Puttalam,1669,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2025,Anuradhapura,1830,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2025,Polonnaruwa,779,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2025,Badulla,2208,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2025,Moneragala,951,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2025,Rathnapura,835,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2025,Kegalle,693,,2025,36,rooms_2025,rooms,PUBLIC_REFERENCE

@@ -1,0 +1,301 @@
+﻿district_id,district_name,province_name,reference_year,month,month_name,coverage_status,occupancy_reported,unit,pdf_page,table_key,data_origin
+DCS-11,Colombo,Western,2024,1,January,reported,55.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,2,February,reported,55.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,3,March,reported,56.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,4,April,reported,42.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,5,May,reported,46.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,6,June,reported,47.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,7,July,reported,60.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,8,August,reported,60.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,9,September,reported,49.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,10,October,reported,55.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,11,November,reported,55.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-11,Colombo,Western,2024,12,December,reported,50.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,1,January,reported,72.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,2,February,reported,70.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,3,March,reported,68.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,4,April,reported,54.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,5,May,reported,44.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,6,June,reported,40.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,7,July,reported,53.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,8,August,reported,58.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,9,September,reported,45.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,10,October,reported,43.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,11,November,reported,41.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,2024,12,December,reported,37.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,1,January,reported,73.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,2,February,reported,70.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,3,March,reported,72.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,4,April,reported,53.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,5,May,reported,35.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,6,June,reported,28.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,7,July,reported,37.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,8,August,reported,47.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,9,September,reported,39.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,10,October,reported,38.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,11,November,reported,51.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,2024,12,December,reported,57.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,1,January,reported,60.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,2,February,reported,57.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,3,March,reported,64.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,4,April,reported,49.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,5,May,reported,34.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,6,June,reported,35.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,7,July,reported,50.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,8,August,reported,57.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,9,September,reported,42.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,10,October,reported,42.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,11,November,reported,46.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,2024,12,December,reported,47.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,1,January,reported,40.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,2,February,reported,46.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,3,March,reported,44.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,4,April,reported,35.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,5,May,reported,22.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,6,June,reported,24.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,7,July,reported,42.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,8,August,reported,44.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,9,September,reported,31.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,10,October,reported,34.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,11,November,reported,40.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-22,Matale,Central,2024,12,December,reported,38.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,1,January,reported,53.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,2,February,reported,56.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,3,March,reported,54.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,4,April,reported,58.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,5,May,reported,38.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,6,June,reported,33.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,7,July,reported,48.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,8,August,reported,53.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,9,September,reported,37.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,10,October,reported,36.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,11,November,reported,48.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,2024,12,December,reported,43.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,1,January,reported,68.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,2,February,reported,66.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,3,March,reported,61.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,4,April,reported,47.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,5,May,reported,29.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,6,June,reported,24.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,7,July,reported,33.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,8,August,reported,38.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,9,September,reported,34.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,10,October,reported,38.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,11,November,reported,42.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,2024,12,December,reported,51.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,1,January,reported,65.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,2,February,reported,60.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,3,March,reported,64.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,4,April,reported,53.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,5,May,reported,31.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,6,June,reported,21.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,7,July,reported,38.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,8,August,reported,45.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,9,September,reported,31.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,10,October,reported,39.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,11,November,reported,47.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,2024,12,December,reported,62.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,1,January,reported,61.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,2,February,reported,69.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,3,March,reported,72.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,4,April,reported,53.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,5,May,reported,31.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,6,June,reported,26.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,7,July,reported,45.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,8,August,reported,57.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,9,September,reported,34.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,10,October,reported,48.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,11,November,reported,55.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,2024,12,December,reported,64.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,1,January,reported,58.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,2,February,reported,54.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,3,March,reported,46.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,4,April,reported,38.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,5,May,reported,36.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,6,June,reported,38.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,7,July,reported,52.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,8,August,reported,60.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,9,September,reported,37.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,10,October,reported,30.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,11,November,reported,28.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,2024,12,December,reported,40.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,1,January,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,2,February,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,3,March,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,4,April,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,5,May,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,6,June,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,7,July,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,8,August,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,9,September,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,10,October,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,11,November,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,2024,12,December,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,1,January,reported,75.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,2,February,reported,83.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,3,March,reported,91.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,4,April,reported,91.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,5,May,reported,100.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,6,June,reported,83.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,7,July,reported,100.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,8,August,reported,100.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,9,September,reported,83.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,10,October,reported,75.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,11,November,reported,66.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,2024,12,December,reported,66.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,1,January,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,2,February,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,3,March,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,4,April,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,5,May,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,6,June,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,7,July,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,8,August,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,9,September,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,10,October,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,11,November,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,2024,12,December,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,1,January,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,2,February,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,3,March,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,4,April,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,5,May,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,6,June,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,7,July,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,8,August,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,9,September,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,10,October,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,11,November,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,2024,12,December,not_listed_in_selected_occupancy_tables,,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,1,January,reported,47.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,2,February,reported,54.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,3,March,reported,57.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,4,April,reported,60.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,5,May,reported,56.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,6,June,reported,65.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,7,July,reported,78.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,8,August,reported,89.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,9,September,reported,65.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,10,October,reported,40.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,11,November,reported,27.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,2024,12,December,reported,42.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,1,January,reported,26.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,2,February,reported,22.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,3,March,reported,23.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,4,April,reported,25.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,5,May,reported,30.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,6,June,reported,36.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,7,July,reported,51.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,8,August,reported,60.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,9,September,reported,43.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,10,October,reported,16.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,11,November,reported,10.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,2024,12,December,reported,24.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,1,January,reported,40.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,2,February,reported,43.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,3,March,reported,43.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,4,April,reported,45.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,5,May,reported,38.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,6,June,reported,43.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,7,July,reported,64.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,8,August,reported,72.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,9,September,reported,49.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,10,October,reported,33.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,11,November,reported,25.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,2024,12,December,reported,21.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,1,January,reported,8.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,2,February,reported,8.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,3,March,reported,9.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,4,April,reported,8.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,5,May,reported,8.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,6,June,reported,5.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,7,July,reported,11.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,8,August,reported,4.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,9,September,reported,6.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,10,October,reported,3.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,11,November,reported,8.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,2024,12,December,reported,3.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,1,January,reported,58.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,2,February,reported,55.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,3,March,reported,57.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,4,April,reported,46.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,5,May,reported,30.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,6,June,reported,29.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,7,July,reported,45.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,8,August,reported,39.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,9,September,reported,31.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,10,October,reported,33.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,11,November,reported,44.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,2024,12,December,reported,27.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,1,January,reported,34.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,2,February,reported,32.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,3,March,reported,30.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,4,April,reported,23.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,5,May,reported,17.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,6,June,reported,18.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,7,July,reported,29.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,8,August,reported,38.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,9,September,reported,25.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,10,October,reported,27.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,11,November,reported,27.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,2024,12,December,reported,27.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,1,January,reported,34.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,2,February,reported,43.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,3,March,reported,35.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,4,April,reported,28.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,5,May,reported,16.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,6,June,reported,18.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,7,July,reported,35.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,8,August,reported,50.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,9,September,reported,21.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,10,October,reported,19.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,11,November,reported,25.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,2024,12,December,reported,37.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,1,January,reported,49.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,2,February,reported,54.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,3,March,reported,57.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,4,April,reported,53.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,5,May,reported,29.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,6,June,reported,27.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,7,July,reported,45.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,8,August,reported,57.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,9,September,reported,44.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,10,October,reported,35.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,11,November,reported,47.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,2024,12,December,reported,34.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,1,January,reported,18.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,2,February,reported,18.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,3,March,reported,17.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,4,April,reported,17.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,5,May,reported,10.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,6,June,reported,11.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,7,July,reported,17.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,8,August,reported,21.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,9,September,reported,13.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,10,October,reported,12.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,11,November,reported,17.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,2024,12,December,reported,18.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,1,January,reported,26.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,2,February,reported,23.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,3,March,reported,29.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,4,April,reported,17.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,5,May,reported,12.5,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,6,June,reported,19.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,7,July,reported,15.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,8,August,reported,23.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,9,September,reported,28.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,10,October,reported,16.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,11,November,reported,17.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,2024,12,December,reported,17.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,1,January,reported,9.8,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,2,February,reported,8.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,3,March,reported,9.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,4,April,reported,11.1,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,5,May,reported,9.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,6,June,reported,8.6,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,7,July,reported,9.9,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,8,August,reported,12.3,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,9,September,reported,12.0,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,10,October,reported,12.7,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,11,November,reported,12.2,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,2024,12,December,reported,14.4,reported_0_to_100_scale,42,occupancy_months,PUBLIC_REFERENCE

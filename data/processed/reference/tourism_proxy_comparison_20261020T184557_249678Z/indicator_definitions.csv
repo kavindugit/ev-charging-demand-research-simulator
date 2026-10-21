@@ -1,0 +1,5 @@
+﻿indicator_id,label,unit,source,vintage,scope,districts,total_raw_value,data_origin
+osm_all_tourism_objects,OSM all retained tourism objects,mapped_objects,OpenStreetMap / Geofabrik,2026-10-19T20:21:11Z,All retained assigned categories; original object identities; unresolved duplicates retained,25,7054,PUBLIC_REFERENCE
+osm_accommodation_visitor_objects,OSM accommodation and visitor-site objects,mapped_objects,OpenStreetMap / Geofabrik,2026-10-19T20:21:11Z,Assigned accommodation plus visitor_site categories; category filter only; no deduplication,25,6494,PUBLIC_REFERENCE
+sltda_rooms_2024,SLTDA registered rooms 2024,rooms,SLTDA,2024,Registered room counts in the 2024 district table,25,55455,PUBLIC_REFERENCE
+sltda_rooms_2025,SLTDA registered rooms 2025,rooms,SLTDA,2025,Registered room counts in the 2025 district table; comparison reference,25,59578,PUBLIC_REFERENCE
