@@ -1,0 +1,14 @@
+﻿view_id,scope,district_ids_json,review_id,png,svg,review_state
+DCS-11_landuse,district_landuse,"[""DCS-11""]",,DCS-11_landuse.png,DCS-11_landuse.svg,pending
+DCS-33_landuse,district_landuse,"[""DCS-33""]",,DCS-33_landuse.png,DCS-33_landuse.svg,pending
+DCS-31_landuse,district_landuse,"[""DCS-31""]",,DCS-31_landuse.png,DCS-31_landuse.svg,pending
+DCS-42_landuse,district_landuse,"[""DCS-42""]",,DCS-42_landuse.png,DCS-42_landuse.svg,pending
+DCS-45_landuse,district_landuse,"[""DCS-45""]",,DCS-45_landuse.png,DCS-45_landuse.svg,pending
+SPATIAL-0108,tourism_pair,"[""DCS-31""]",SPATIAL-0108,SPATIAL-0108.png,SPATIAL-0108.svg,pending
+SPATIAL-0117,tourism_pair,"[""DCS-11""]",SPATIAL-0117,SPATIAL-0117.png,SPATIAL-0117.svg,pending
+SPATIAL-0122,tourism_pair,"[""DCS-31""]",SPATIAL-0122,SPATIAL-0122.png,SPATIAL-0122.svg,pending
+SPATIAL-0137,tourism_pair,"[""DCS-31""]",SPATIAL-0137,SPATIAL-0137.png,SPATIAL-0137.svg,pending
+SPATIAL-0142,tourism_pair,"[""DCS-31""]",SPATIAL-0142,SPATIAL-0142.png,SPATIAL-0142.svg,pending
+SPATIAL-0146,tourism_pair,"[""DCS-31""]",SPATIAL-0146,SPATIAL-0146.png,SPATIAL-0146.svg,pending
+SPATIAL-0153,tourism_pair,"[""DCS-31""]",SPATIAL-0153,SPATIAL-0153.png,SPATIAL-0153.svg,pending
+SPATIAL-0154,tourism_pair,"[""DCS-11""]",SPATIAL-0154,SPATIAL-0154.png,SPATIAL-0154.svg,pending

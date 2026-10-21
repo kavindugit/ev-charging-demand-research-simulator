@@ -1,0 +1,9 @@
+﻿review_id,osm_key_a,osm_key_b,name_a,name_b,kind_a,kind_b,geometry_status,geometry_a,geometry_b,equal_geometry,a_covers_b,b_covers_a,area_a_m2,area_b_m2,a_outside_b_m2,b_outside_a_m2,a_relation_roles_for_b_json,b_relation_roles_for_a_json,review_state
+SPATIAL-0108,n/11169206391,w/1205163561,Rimakvin River Edge Resort,Rimakvin River Edge Resort & Banquet,hotel,hotel,available,Point,Polygon,False,False,True,0.0,4457.668237912934,0.0,4457.668237912934,[],[],pending
+SPATIAL-0117,n/2034206016,w/1427033332,Hotel Sansu,,hotel,hotel,available,Point,Polygon,False,False,True,0.0,671.950494509656,0.0,671.950494509656,[],[],pending
+SPATIAL-0122,n/2688612282,w/460388976,Hotel Thai Lanka,Hotel Thai Lanka,hotel,hotel,available,Point,Polygon,False,False,True,0.0,1946.0711802402511,0.0,1946.0711802402511,[],[],pending
+SPATIAL-0137,n/4513519120,w/128541764,The Surf Hotel,Surf,hotel,hotel,available,Point,Polygon,False,False,True,0.0,2725.777235457208,0.0,2725.777235457208,[],[],pending
+SPATIAL-0142,n/5318671921,w/533791741,,Villa Frangipani,hotel,hotel,available,Point,Polygon,False,False,True,0.0,161.92190728755668,0.0,161.92190728755668,[],[],pending
+SPATIAL-0146,n/6945055204,w/475422856,Mandala Beach,Time and tide,hotel,hotel,available,Point,Polygon,False,False,True,0.0,1670.020695174113,0.0,1670.020695174113,[],[],pending
+SPATIAL-0153,r/1735796,r/3522773,Vivanta by Taj,Vivanta by Taj,hotel,hotel,available,MultiPolygon,MultiPolygon,False,False,False,3286.4989152743365,6365.4123036994715,3286.4989152743365,6365.4123036994715,[],[],pending
+SPATIAL-0154,r/5914376,w/394250830,Tintagel Colombo,Hotel Tintagel Colombo,hotel,hotel,available,MultiPolygon,Polygon,False,False,True,901.0897496825783,963.4573747924296,0.0,62.36762510985135,"[""outer""]",[],pending

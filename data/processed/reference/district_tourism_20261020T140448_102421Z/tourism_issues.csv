@@ -1,0 +1,45 @@
+﻿osm_key,issue,detail
+n/917949443,outside_district_layer,[]
+n/2376247217,outside_district_layer,[]
+n/3300402025,tourism_value_requires_review,"{""name"": ""Nawgala Rock"", ""tourism"": ""yes""}"
+n/3492774176,outside_district_layer,[]
+n/4196589210,tourism_value_requires_review,"{""name"": ""A"", ""tourism"": ""yes""}"
+n/4550335189,outside_district_layer,[]
+n/4556165692,outside_district_layer,[]
+n/4556181993,outside_district_layer,[]
+n/4558849898,outside_district_layer,[]
+n/5080980502,tourism_value_requires_review,"{""name"": ""Saari Ella Water fall"", ""tourism"": ""attraction;viewpoint"", ""waterway"": ""waterfall""}"
+n/5137426725,outside_district_layer,[]
+n/5216608185,tourism_value_requires_review,"{""tourism"": ""yes""}"
+n/5444598797,tourism_value_requires_review,"{""addr:housenumber"": ""129"", ""addr:street"": ""Bara Beach"", ""name"": ""Oynise Beach Cabin"", ""phone"": ""+94714296789"", ""tourism"": ""cabin""}"
+n/5474656973,outside_district_layer,[]
+n/5549946421,tourism_value_requires_review,"{""name:en"": ""Pundalu Oya (Dunsinane) Ella Falls"", ""tourism"": ""yes"", ""waterway"": ""waterfall""}"
+n/5669624137,tourism_value_requires_review,"{""tourism"": ""yes""}"
+n/6273572086,outside_district_layer,[]
+n/7462987754,outside_district_layer,[]
+n/7597753515,tourism_value_requires_review,"{""building"": ""yes"", ""name"": ""Inn Seaclusion"", ""tourism"": ""villa""}"
+n/7719360843,outside_district_layer,[]
+n/11133963006,tourism_value_requires_review,"{""name"": ""Knuckles Waterfall"", ""tourism"": ""viewpoint;attraction"", ""waterway"": ""waterfall""}"
+n/11292004022,outside_district_layer,[]
+n/11475829069,outside_district_layer,[]
+n/13514161799,outside_district_layer,[]
+n/13518370722,outside_district_layer,[]
+w/111291497,tourism_value_requires_review,"{""amenity"": ""parking"", ""name"": ""Airport Car Park"", ""parking"": ""surface"", ""tourism"": ""yes""}"
+w/230305602,partial_district_coverage_review,"[""DCS-51""]"
+w/233208038,outside_district_layer,[]
+w/235252689,partial_district_coverage_review,"[""DCS-51""]"
+w/257069711,partial_district_coverage_review,"[""DCS-51""]"
+w/286394450,tourism_value_requires_review,"{""building"": ""yes"", ""name"": ""Embilmeegama Tea Factory"", ""tourism"": ""yes""}"
+w/345071599,line_or_open_way,A line or open way is retained without inventing a point or polygon.
+w/357786016,tourism_value_requires_review,"{""addr:city"": ""Unawatuna"", ""addr:postcode"": ""80600"", ""addr:street"": ""Dewala Rd"", ""ele"": ""315"", ""name"": ""Villa Thawthisa"", ""phone"": ""+94 777 902235"", ""tourism"": ""resort"", ""website"": ""http://www.villathawthisa.com/""}"
+w/393588726,partial_district_coverage_review,"[""DCS-32""]"
+w/460434201,tourism_value_requires_review,"{""addr:city"": ""Hikkaduwa"", ""addr:housenumber"": ""650"", ""addr:postcode"": ""80240"", ""addr:street"": ""Colombo-Galle Road"", ""amenity"": ""restaurant"", ""building"": ""yes"", ""diet:vegan"": ""yes"", ""diet:vegetarian"": ""yes"", ""email"": ""mandalahikkaduwa@gmx.de"", ""internet_access"": ""wlan"", ""name"": ""Steffi´s Mandala"", ""outdoor_seating"": ""yes"", ""phone"": ""+94769731526"", ""source"": ""Bing"", ""tourism"": ""hotel;hostel""}"
+w/573924689,partial_district_coverage_review,"[""DCS-41""]"
+w/732973470,partial_district_coverage_review,"[""DCS-12""]"
+w/816573828,outside_district_layer,[]
+w/940247814,partial_district_coverage_review,"[""DCS-12""]"
+w/1471796699,line_or_open_way,A line or open way is retained without inventing a point or polygon.
+w/1473481122,partial_district_coverage_review,"[""DCS-12""]"
+w/1525800065,partial_district_coverage_review,"[""DCS-12""]"
+r/12503493,unsupported_relation_type,site
+r/20318457,outside_district_layer,[]

@@ -1,0 +1,17 @@
+﻿case_id,district_id,place,issue,raw_value,detail
+minmax__all_objects__primary_trunk,DCS-42,P1_commercial,zero_score_with_positive_raw,5.626048668567091e-05,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__all_objects__primary_trunk,DCS-45,P3_tourism,zero_score_with_positive_raw,12.0,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__all_objects__primary_trunk,DCS-45,P4_road,zero_score_with_positive_raw,135.57644586791199,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__all_objects__primary_trunk,DCS-53,P2_residential,zero_score_with_positive_raw,1.7209271315451684,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__all_objects__with_motorway,DCS-42,P1_commercial,zero_score_with_positive_raw,5.626048668567091e-05,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__all_objects__with_motorway,DCS-45,P3_tourism,zero_score_with_positive_raw,12.0,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__all_objects__with_motorway,DCS-45,P4_road,zero_score_with_positive_raw,135.57644586791199,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__all_objects__with_motorway,DCS-53,P2_residential,zero_score_with_positive_raw,1.7209271315451684,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__primary_trunk,DCS-42,P1_commercial,zero_score_with_positive_raw,5.626048668567091e-05,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__primary_trunk,DCS-45,P3_tourism,zero_score_with_positive_raw,12.0,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__primary_trunk,DCS-45,P4_road,zero_score_with_positive_raw,135.57644586791199,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__primary_trunk,DCS-53,P2_residential,zero_score_with_positive_raw,1.7209271315451684,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__with_motorway,DCS-42,P1_commercial,zero_score_with_positive_raw,5.626048668567091e-05,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__with_motorway,DCS-45,P3_tourism,zero_score_with_positive_raw,12.0,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__with_motorway,DCS-45,P4_road,zero_score_with_positive_raw,135.57644586791199,A reference-relative zero is not evidence of absent activity or zero charging demand.
+minmax__accommodation_visitor__with_motorway,DCS-53,P2_residential,zero_score_with_positive_raw,1.7209271315451684,A reference-relative zero is not evidence of absent activity or zero charging demand.

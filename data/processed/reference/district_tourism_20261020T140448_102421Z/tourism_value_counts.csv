@@ -1,0 +1,72 @@
+﻿tag_origin,tag_value,information_subtype,category,source_objects,valid_points,valid_areas,assigned_objects,objects_with_duplicate_review,data_origin
+tourism,alpine_hut,,accommodation,4,4,0,4,0,PUBLIC_REFERENCE
+tourism,apartment,,accommodation,151,132,19,151,0,PUBLIC_REFERENCE
+tourism,aquarium,,visitor_site,10,6,4,10,0,PUBLIC_REFERENCE
+tourism,artwork,,artwork,359,339,19,357,0,PUBLIC_REFERENCE
+tourism,attraction,,visitor_site,387,328,58,376,6,PUBLIC_REFERENCE
+tourism,attraction;viewpoint,,other_or_unclassified,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,cabin,,other_or_unclassified,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,camp_pitch,,camp_pitch,3,3,0,3,0,PUBLIC_REFERENCE
+tourism,camp_site,,accommodation,88,84,4,88,0,PUBLIC_REFERENCE
+tourism,caravan_site,,accommodation,4,3,1,4,0,PUBLIC_REFERENCE
+tourism,chalet,,accommodation,160,85,75,160,0,PUBLIC_REFERENCE
+tourism,gallery,,visitor_site,15,14,1,15,0,PUBLIC_REFERENCE
+tourism,guest_house,,accommodation,1743,1335,407,1741,23,PUBLIC_REFERENCE
+tourism,hostel,,accommodation,351,249,102,351,4,PUBLIC_REFERENCE
+tourism,hotel,,accommodation,3010,2326,684,3003,63,PUBLIC_REFERENCE
+tourism,hotel,"Address:
+
+
+Montana rest
+No 357 ,
+Stage II ,
+Anuradhapura, 
+Srilanka.
+
+
+E-mail
+
+
+montanaresthouse@gmail.com
+
+
+Telephone
+
+
+025-2220482
+
+077-9443766",accommodation,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,hotel;hostel,,other_or_unclassified,1,0,1,1,0,PUBLIC_REFERENCE
+tourism,information,,information,65,63,2,64,0,PUBLIC_REFERENCE
+tourism,information,"AM: 6h15, 6h30, 9h20, 11h50, 12h40, PM: 1h15, 2h40, 3h30, 5h30, 7h15",information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,"Down the road from Ella until this turnoff. You will walk along some paths with some rice fields and then you will go to the road on the way to Ella's Rock. (watch the trains, there are few, but sometimes it happens)",information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,Governors' Hideaway,information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,Hanthana Hiking Path,information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,Information center,information,1,0,1,1,0,PUBLIC_REFERENCE
+tourism,information,Kandyan lounge,information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,Minneriya National Park,information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,There is no road beyond this point. Kaluganga Reservoir Project - Updated 25 Wed. Dec -2019,information,3,3,0,3,0,PUBLIC_REFERENCE
+tourism,information,Ticket Counter,information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,board,information,40,39,1,40,0,PUBLIC_REFERENCE
+tourism,information,centre,information,2,2,0,2,0,PUBLIC_REFERENCE
+tourism,information,guidepost,information,14,13,1,14,0,PUBLIC_REFERENCE
+tourism,information,map,information,9,9,0,9,0,PUBLIC_REFERENCE
+tourism,information,national_livestoc_development_board,information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,office,information,23,15,8,22,0,PUBLIC_REFERENCE
+tourism,information,route_marker,information,19,19,0,19,0,PUBLIC_REFERENCE
+tourism,information,sign,information,2,2,0,2,0,PUBLIC_REFERENCE
+tourism,information,terminal,information,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,information,yes,information,2,1,1,2,0,PUBLIC_REFERENCE
+tourism,motel,,accommodation,72,48,24,72,2,PUBLIC_REFERENCE
+tourism,museum,,visitor_site,86,41,45,86,2,PUBLIC_REFERENCE
+tourism,museum,Started 1895,visitor_site,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,picnic_site,,visitor_site,12,11,1,12,0,PUBLIC_REFERENCE
+tourism,resort,,other_or_unclassified,1,0,1,1,0,PUBLIC_REFERENCE
+tourism,theme_park,,visitor_site,15,6,9,14,0,PUBLIC_REFERENCE
+tourism,viewpoint,,visitor_site,390,381,9,384,2,PUBLIC_REFERENCE
+tourism,viewpoint,Kaluganga Reservoir Project - Updated 25 Wed. Dec -2019,visitor_site,2,2,0,2,0,PUBLIC_REFERENCE
+tourism,viewpoint;attraction,,other_or_unclassified,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,villa,,other_or_unclassified,1,1,0,1,0,PUBLIC_REFERENCE
+tourism,wilderness_hut,,accommodation,4,3,1,4,0,PUBLIC_REFERENCE
+tourism,yes,,other_or_unclassified,7,5,2,7,0,PUBLIC_REFERENCE
+tourism,zoo,,visitor_site,15,10,5,15,0,PUBLIC_REFERENCE

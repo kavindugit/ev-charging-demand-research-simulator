@@ -1,0 +1,26 @@
+﻿district_id,district_name,province_name,mapped_tourism_objects_raw,mapped_accommodation_objects_raw,mapped_visitor_site_objects_raw,mapped_information_objects_raw,mapped_artwork_objects_raw,mapped_camp_pitch_objects_raw,mapped_other_or_unclassified_objects_raw,legacy_amenity_only_objects_raw,objects_with_duplicate_review,objects_with_tag_review,measurement_complete,measurement_scope,data_origin
+DCS-11,Colombo,Western,582,456,62,7,57,0,0,0,4,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-12,Gampaha,Western,482,383,14,3,81,0,1,0,18,1,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-13,Kalutara,Western,170,151,12,3,3,0,1,0,0,1,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-21,Kandy,Central,631,498,99,21,9,1,3,0,20,3,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-22,Matale,Central,439,347,78,5,8,0,1,0,6,1,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-23,Nuwara Eliya,Central,436,328,81,22,4,0,1,0,0,1,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-31,Galle,Southern,1199,1004,75,28,88,0,4,0,12,4,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-32,Matara,Southern,441,396,31,7,7,0,0,0,4,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-33,Hambantota,Southern,378,350,20,5,3,0,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-41,Jaffna,Northern,167,125,33,1,7,0,1,0,13,1,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-42,Mannar,Northern,30,18,10,1,1,0,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-43,Vavuniya,Northern,22,11,11,0,0,0,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-44,Mullaitivu,Northern,21,13,7,0,1,0,0,0,2,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-45,Kilinochchi,Northern,12,9,3,0,0,0,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-51,Batticaloa,Eastern,116,96,15,3,2,0,0,0,3,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-52,Ampara,Eastern,207,141,26,8,32,0,0,0,2,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-53,Trincomalee,Eastern,161,146,10,3,1,1,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-61,Kurunegala,North Western,107,59,33,10,5,0,0,0,2,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-62,Puttalam,North Western,151,112,12,0,26,0,1,0,2,1,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-71,Anuradhapura,North Central,238,175,46,14,3,0,0,0,6,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-72,Polonnaruwa,North Central,92,64,24,3,1,0,0,0,4,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-81,Badulla,Uva,533,372,117,35,8,1,0,0,3,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-82,Moneragala,Uva,168,141,22,2,3,0,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-91,Ratnapura,Sabaragamuwa,191,134,46,5,6,0,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE
+DCS-92,Kegalle,Sabaragamuwa,80,50,28,1,1,0,0,0,0,0,True,unreviewed_mapped_OSM_object_counts,PUBLIC_REFERENCE

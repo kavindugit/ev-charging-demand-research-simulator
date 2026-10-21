@@ -1,0 +1,9 @@
+﻿case_id,method,tourism_definition,road_scope,districts,defined_compositions,comparable_with_reference,largest_absolute_shift_pp,largest_shift_districts_json,mean_half_l1_weight_difference,dominant_place_changes
+minmax__all_objects__primary_trunk,minmax,all_objects,primary_trunk,25,25,25,0.0,"[""DCS-11"", ""DCS-12"", ""DCS-13"", ""DCS-21"", ""DCS-22"", ""DCS-23"", ""DCS-31"", ""DCS-32"", ""DCS-33"", ""DCS-41"", ""DCS-42"", ""DCS-43"", ""DCS-44"", ""DCS-45"", ""DCS-51"", ""DCS-52"", ""DCS-53"", ""DCS-61"", ""DCS-62"", ""DCS-71"", ""DCS-72"", ""DCS-81"", ""DCS-82"", ""DCS-91"", ""DCS-92""]",0.0,0
+minmax__all_objects__with_motorway,minmax,all_objects,with_motorway,25,25,25,4.302659903218675,"[""DCS-31""]",0.01958996191320842,1
+minmax__accommodation_visitor__primary_trunk,minmax,accommodation_visitor,primary_trunk,25,25,25,1.8259917861241426,"[""DCS-22""]",0.007929231663890712,1
+minmax__accommodation_visitor__with_motorway,minmax,accommodation_visitor,with_motorway,25,25,25,4.302659903218675,"[""DCS-31""]",0.0228529876387169,1
+divide_by_maximum__all_objects__primary_trunk,divide_by_maximum,all_objects,primary_trunk,25,25,25,27.483048625620164,"[""DCS-45""]",0.05383556122986488,0
+divide_by_maximum__all_objects__with_motorway,divide_by_maximum,all_objects,with_motorway,25,25,25,26.062326302897965,"[""DCS-45""]",0.05430017275842224,0
+divide_by_maximum__accommodation_visitor__primary_trunk,divide_by_maximum,accommodation_visitor,primary_trunk,25,25,25,27.617681239545313,"[""DCS-45""]",0.052630447004041195,0
+divide_by_maximum__accommodation_visitor__with_motorway,divide_by_maximum,accommodation_visitor,with_motorway,25,25,25,26.20228083754276,"[""DCS-45""]",0.05458750390846997,0

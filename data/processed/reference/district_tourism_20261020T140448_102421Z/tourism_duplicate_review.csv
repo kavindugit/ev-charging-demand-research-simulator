@@ -1,0 +1,53 @@
+﻿osm_key_a,osm_key_b,name_a,name_b,kind_a,kind_b,district_a,district_b,reasons_json,review_status,automatically_merged
+n/10657169805,w/398328050,Vendol Lake resort,Vendol Lake Resort,hotel,hotel,DCS-21,DCS-21,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/11029625807,w/337482575,,Demala Maha Seya,attraction,attraction,DCS-72,DCS-72,"[""same_kind_node_in_area""]",unreviewed,False
+n/11169206391,w/1205163561,Rimakvin River Edge Resort,Rimakvin River Edge Resort & Banquet,hotel,hotel,DCS-31,DCS-31,"[""same_kind_node_in_area""]",unreviewed,False
+n/11170450783,w/1205309495,Evergreen Hotel Dambulla,,guest_house,guest_house,DCS-22,DCS-22,"[""same_kind_node_in_area""]",unreviewed,False
+n/12558913801,w/275745837,Kumara Pokuna,Bathing Pond,attraction,attraction,DCS-72,DCS-72,"[""same_kind_node_in_area""]",unreviewed,False
+n/12880883767,w/1391576859,Amavi,,hotel,hotel,DCS-21,DCS-21,"[""same_kind_node_in_area""]",unreviewed,False
+n/12880922565,w/1391583172,star hotel usispattuwa,Star hotel Udispattuwa,hotel,hotel,DCS-21,DCS-21,"[""same_kind_node_in_area""]",unreviewed,False
+n/13193567765,w/774678779,Guest House & Park - Panama,,guest_house,guest_house,DCS-52,DCS-52,"[""same_kind_node_in_area""]",unreviewed,False
+n/13521908354,w/1473481140,Corundum Breeze Negombo,Ocean Breeze,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/13727488279,w/1224991930,Wood Gold Ella,Wood Chalets Ella,hotel,hotel,DCS-81,DCS-81,"[""same_kind_node_in_area""]",unreviewed,False
+n/13752182525,w/422282604,The Stables Oceanfront Hotel,The Stables Oceanfront Hotel,hotel,hotel,DCS-32,DCS-32,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/2034206016,w/1427033332,Hotel Sansu,,hotel,hotel,DCS-11,DCS-11,"[""same_kind_node_in_area""]",unreviewed,False
+n/2108452786,w/378619673,The Blue Gum,Blue Gum Hotel,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/2376247231,w/1480884030,Dion Guest House,,guest_house,guest_house,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/2380386266,w/571871740,Kandy Guest House,,guest_house,guest_house,DCS-41,DCS-41,"[""same_kind_node_in_area""]",unreviewed,False
+n/2408227660,w/571871740,Expo Pavilion,,guest_house,guest_house,DCS-41,DCS-41,"[""same_kind_node_in_area""]",unreviewed,False
+n/2688612282,w/460388976,Hotel Thai Lanka,Hotel Thai Lanka,hotel,hotel,DCS-31,DCS-31,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/3130659455,w/1550544957,Naval Club House,,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/3130659458,w/1548617552,Hamilton Beach Villa,,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/3130659462,w/1529737948,Beach Bungalow,,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/3130659463,w/1527552645,Villa Palma,,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/3130659464,w/1548576680,Sea Shine Beach Hotel,,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/3412370558,w/957579584,"Railway Museum, Kadugannawa.",National Railway Museum,museum,museum,DCS-21,DCS-21,"[""same_kind_node_in_area""]",unreviewed,False
+n/3791104535,w/551008282,Trangal,The Trangle Hotel,hotel,hotel,DCS-71,DCS-71,"[""same_kind_node_in_area""]",unreviewed,False
+n/4019388607,w/966309637,Charlton Kandy Rest,Charlton Kandy Rest,guest_house,guest_house,DCS-21,DCS-21,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/4039917780,w/197127380,Cinnamon Citadel,Cinnamon Citadel,hotel,hotel,DCS-21,DCS-21,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/4289829990,w/571630785,New Rest House,New Rest House,guest_house,guest_house,DCS-41,DCS-41,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/4365906200,w/404078214,හැමන්හිල් බලකොටුව,හැමන්හිල් බලකොටුව,hotel,hotel,DCS-41,DCS-41,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area"", ""same_wikidata_entity""]",unreviewed,False
+n/4455984799,w/549927044,The Secret Luxury Governor's Resort,,hotel,hotel,DCS-21,DCS-21,"[""same_kind_node_in_area""]",unreviewed,False
+n/4511724378,w/454629461,Mayakkai Cave,,viewpoint,viewpoint,DCS-41,DCS-41,"[""same_kind_node_in_area""]",unreviewed,False
+n/4513501899,w/399162208,Divyaa Lagoon Resort,Divyaa Lagoon Resort,hotel,hotel,DCS-62,DCS-62,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/4513519120,w/128541764,The Surf Hotel,Surf,hotel,hotel,DCS-31,DCS-31,"[""same_kind_node_in_area""]",unreviewed,False
+n/4545801285,w/1557879615,Hotel Mizuki Plaza,,hotel,hotel,DCS-12,DCS-12,"[""same_kind_node_in_area""]",unreviewed,False
+n/4676600190,w/1424670683,,Wavelength Hotel Mirissa,hotel,hotel,DCS-32,DCS-32,"[""same_kind_node_in_area""]",unreviewed,False
+n/4926373951,w/495829944,Asiri Hotel,,hotel,hotel,DCS-22,DCS-22,"[""same_kind_node_in_area""]",unreviewed,False
+n/4966020401,w/511486791,Saman's Guesthouse,,guest_house,guest_house,DCS-22,DCS-22,"[""same_kind_node_in_area""]",unreviewed,False
+n/5318671921,w/533791741,,Villa Frangipani,hotel,hotel,DCS-31,DCS-31,"[""same_kind_node_in_area""]",unreviewed,False
+n/5484724022,w/571898506,Sky Park View Guest House Jaffna,Sky Park View Guest House,guest_house,guest_house,DCS-41,DCS-41,"[""same_kind_node_in_area""]",unreviewed,False
+n/5494035621,w/581785457,Homefeel guesthouse and tours,Homefeel Guest House & Tours,guest_house,guest_house,DCS-41,DCS-41,"[""same_kind_node_in_area""]",unreviewed,False
+n/5978421739,w/536476246,Freedom palace Hotel,Freedom Palace hotel,hotel,hotel,DCS-71,DCS-71,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/6945055204,w/475422856,Mandala Beach,Time and tide,hotel,hotel,DCS-31,DCS-31,"[""same_kind_node_in_area""]",unreviewed,False
+n/7085300242,w/758656583,Elegant Hotel,Elegant Hotel,hotel,hotel,DCS-21,DCS-21,"[""same_kind_name_and_intersection"", ""same_kind_node_in_area""]",unreviewed,False
+n/7165583985,w/827294844,,,motel,motel,DCS-44,DCS-44,"[""same_kind_node_in_area""]",unreviewed,False
+n/9277976094,w/1005592985,Galaha Tea Bunglow,,guest_house,guest_house,DCS-21,DCS-21,"[""same_kind_node_in_area""]",unreviewed,False
+n/9277976146,w/1005592988,Gethsamane Cottage,,guest_house,guest_house,DCS-21,DCS-21,"[""same_kind_node_in_area""]",unreviewed,False
+n/9278526170,w/1005645820,Dhathusena Hostel,,hostel,hostel,DCS-71,DCS-71,"[""same_kind_node_in_area""]",unreviewed,False
+n/9410655953,w/908851454,Ranon Enineering Staff Accomodation icc-GAL,,hostel,hostel,DCS-61,DCS-61,"[""same_kind_node_in_area""]",unreviewed,False
+r/1735796,r/3522773,Vivanta by Taj,Vivanta by Taj,hotel,hotel,DCS-31,DCS-31,"[""same_kind_name_and_intersection""]",unreviewed,False
+r/5914376,w/394250830,Tintagel Colombo,Hotel Tintagel Colombo,hotel,hotel,DCS-11,DCS-11,"[""same_kind_relation_member_role=outer""]",unreviewed,False
+w/1427156317,w/345071599,,Demodara Nine Arch Bridge,attraction,attraction,DCS-81,,"[""same_wikidata_entity""]",unreviewed,False
+w/386016939,w/488389925,DS quertas,DS quertas,hotel,hotel,DCS-51,DCS-51,"[""same_kind_name_and_intersection""]",unreviewed,False
+w/386016954,w/488389925,DS quertas,DS quertas,hotel,hotel,DCS-51,DCS-51,"[""same_kind_name_and_intersection""]",unreviewed,False

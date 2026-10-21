@@ -1,0 +1,6 @@
+﻿district_id,district_name,selection_reason,selection_metric,metric_value,tied_district_ids_json,selection_type
+DCS-11,Colombo,commercial_maximum,mapped_commercial_retail_km2,1.5410660801543234,"[""DCS-11""]",purposive_source_spot_check
+DCS-33,Hambantota,residential_maximum,mapped_residential_km2,79.177054112823,"[""DCS-33""]",purposive_source_spot_check
+DCS-31,Galle,tourism_maximum,mapped_tourism_objects_raw,1199.0,"[""DCS-31""]",purposive_source_spot_check
+DCS-42,Mannar,commercial_minimum,mapped_commercial_retail_km2,5.626048668567091e-05,"[""DCS-42""]",purposive_source_spot_check
+DCS-45,Kilinochchi,largest_normalization_only_shift,maximum_absolute_shift_pp,27.483048625620164,"[""DCS-45""]",purposive_source_spot_check

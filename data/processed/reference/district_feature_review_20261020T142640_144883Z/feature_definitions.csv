@@ -1,0 +1,23 @@
+﻿layer,feature,unit,description,source_table
+landuse,district_reference_area_km2,km2,Area of the supplied district geometry; a reference denominator,data/processed/reference/district_landuse_20261020T133157_668841Z/district_landuse_features.csv
+landuse,mapped_commercial_retail_km2,km2,Within-class union of mapped commercial and retail areas,data/processed/reference/district_landuse_20261020T133157_668841Z/district_landuse_features.csv
+landuse,mapped_residential_km2,km2,Within-class union of mapped residential areas,data/processed/reference/district_landuse_20261020T133157_668841Z/district_landuse_features.csv
+landuse,commercial_residential_overlap_km2,km2,Area common to the two mapped land-use classes; retained for review,data/processed/reference/district_landuse_20261020T133157_668841Z/district_landuse_features.csv
+landuse,mapped_selected_land_share_percent,percent,Share of the district covered by the union of these two selected classes; not OSM mapping completeness,data/processed/reference/district_landuse_20261020T133157_668841Z/district_landuse_features.csv
+roads,mapped_primary_way_km,km,Mapped highway=primary way length allocated to the district,data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_trunk_way_km,km,Mapped highway=trunk way length allocated to the district,data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_motorway_way_km,km,Mapped highway=motorway way length allocated to the district,data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_primary_link_way_km,km,Mapped highway=primary_link way length allocated to the district,data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_trunk_link_way_km,km,Mapped highway=trunk_link way length allocated to the district,data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_motorway_link_way_km,km,Mapped highway=motorway_link way length allocated to the district,data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_primary_trunk_way_km,km,"Sum of mapped way lengths for: primary, trunk",data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_primary_trunk_motorway_way_km,km,"Sum of mapped way lengths for: primary, trunk, motorway",data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_selected_link_way_km,km,"Sum of mapped way lengths for: primary_link, trunk_link, motorway_link",data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+roads,mapped_selected_way_km,km,"Sum of mapped way lengths for: primary, trunk, motorway, primary_link, trunk_link, motorway_link",data/processed/reference/district_roads_20261020T134801_352312Z/district_road_features.csv
+tourism,mapped_tourism_objects_raw,objects,Unreviewed originally tagged OSM objects assigned unambiguously to a district,data/processed/reference/district_tourism_20261020T140448_102421Z/district_tourism_features.csv
+tourism,mapped_accommodation_objects_raw,objects,Unreviewed assigned OSM objects in the descriptive accommodation category,data/processed/reference/district_tourism_20261020T140448_102421Z/district_tourism_features.csv
+tourism,mapped_visitor_site_objects_raw,objects,Unreviewed assigned OSM objects in the descriptive visitor_site category,data/processed/reference/district_tourism_20261020T140448_102421Z/district_tourism_features.csv
+tourism,mapped_information_objects_raw,objects,Unreviewed assigned OSM objects in the descriptive information category,data/processed/reference/district_tourism_20261020T140448_102421Z/district_tourism_features.csv
+tourism,mapped_artwork_objects_raw,objects,Unreviewed assigned OSM objects in the descriptive artwork category,data/processed/reference/district_tourism_20261020T140448_102421Z/district_tourism_features.csv
+tourism,mapped_camp_pitch_objects_raw,objects,Unreviewed assigned OSM objects in the descriptive camp_pitch category,data/processed/reference/district_tourism_20261020T140448_102421Z/district_tourism_features.csv
+tourism,mapped_other_or_unclassified_objects_raw,objects,Unreviewed assigned OSM objects in the descriptive other_or_unclassified category,data/processed/reference/district_tourism_20261020T140448_102421Z/district_tourism_features.csv
