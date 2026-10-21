@@ -1,0 +1,36 @@
+{
+  "schema_version": "charging_destination_fraction_policy_v1",
+  "evidence_status": "RESEARCH_SENSITIVITY_ASSUMPTION",
+  "allocation_method": "deterministic_fractional_energy_allocation",
+  "baseline_case": "residence_reference",
+  "unresolved_destination_id": "OUTSIDE_UNRESOLVED",
+  "cases": [
+    {
+      "case_id": "lower_outside_fraction_test",
+      "outside_fractions_by_answer": {
+        "I do not charge away from home": 0.0,
+        "Mostly within my home district": 0.1,
+        "Both within and outside my home district": 0.25,
+        "Mostly outside my home district": 0.6
+      }
+    },
+    {
+      "case_id": "higher_outside_fraction_test",
+      "outside_fractions_by_answer": {
+        "I do not charge away from home": 0.0,
+        "Mostly within my home district": 0.4,
+        "Both within and outside my home district": 0.75,
+        "Mostly outside my home district": 0.9
+      }
+    }
+  ],
+  "rationale": [
+    "These values are chosen experimental settings, not survey estimates, fitted parameters, confidence bounds or adoption scenarios.",
+    "Fractions apply only to non-home charging contexts T1, T3 and T4. T2 remains at the reported residence district.",
+    "The same fraction applies across non-home contexts, hours, chargers and session energies within each answer category. These independence assumptions are unverified.",
+    "A named most-common outside district receives the outside fraction in this simplified pilot. This concentration assumption does not establish that all outside charging occurs there.",
+    "If no outside district is named, outside energy remains in OUTSIDE_UNRESOLVED. Not applicable does not force outside charging to zero.",
+    "Fractions divide expected power and energy. Individual sessions are not randomly routed, and fractional allocation rows are not completed-session counts.",
+    "This pilot retains the original 32 study Car owners and their reported residence districts. It does not create or route a national future fleet."
+  ]
+}
