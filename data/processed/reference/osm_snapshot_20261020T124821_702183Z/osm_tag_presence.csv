@@ -1,0 +1,677 @@
+﻿object_type,tag_key,tag_value,object_count
+node,amenity,Agriculture Deparment,1
+node,amenity,Factory,1
+node,amenity,Kovil,1
+node,amenity,Pre school,1
+node,amenity,Private_Bangalow,1
+node,amenity,Temple,1
+node,amenity,animal_breeding,1
+node,amenity,arts_centre,3
+node,amenity,atm,521
+node,amenity,bank,1752
+node,amenity,bar,177
+node,amenity,bar;restraunt,1
+node,amenity,bbq,1
+node,amenity,bench,225
+node,amenity,bicycle_parking,60
+node,amenity,bicycle_rental,18
+node,amenity,bicycle_repair_station,4
+node,amenity,bicycle_wash,1
+node,amenity,boat_rental,14
+node,amenity,bookshop,1
+node,amenity,boud,1
+node,amenity,bureau_de_change,24
+node,amenity,bus stop,1
+node,amenity,bus_stand,1
+node,amenity,bus_station,252
+node,amenity,cafe,793
+node,amenity,car_pooling,1
+node,amenity,car_rental,28
+node,amenity,car_wash,80
+node,amenity,casino,3
+node,amenity,charging_station,66
+node,amenity,childcare,37
+node,amenity,cinema,78
+node,amenity,clinic,113
+node,amenity,clinic;hospital,1
+node,amenity,clock,53
+node,amenity,college,132
+node,amenity,community_centre,94
+node,amenity,compressed_air,1
+node,amenity,conference_centre,2
+node,amenity,courthouse,30
+node,amenity,coworking_space,1
+node,amenity,crematorium,10
+node,amenity,customs,2
+node,amenity,dentist,32
+node,amenity,dive_centre,15
+node,amenity,doctors,116
+node,amenity,dojo,1
+node,amenity,dressing_room,1
+node,amenity,drinking_water,81
+node,amenity,driver_training,1
+node,amenity,driving_school,28
+node,amenity,education,1
+node,amenity,electronics,1
+node,amenity,events_venue,22
+node,amenity,factory,2
+node,amenity,fast_food,425
+node,amenity,ferry_terminal,31
+node,amenity,fire_station,18
+node,amenity,fixme,106
+node,amenity,food center,1
+node,amenity,food_court,44
+node,amenity,fountain,26
+node,amenity,fuel,773
+node,amenity,function hall,1
+node,amenity,gambling,1
+node,amenity,garden,1
+node,amenity,grave_yard,63
+node,amenity,ground,1
+node,amenity,health care center,1
+node,amenity,healthcare,1
+node,amenity,hifi,1
+node,amenity,home,1
+node,amenity,hospital,446
+node,amenity,hunting_stand,2
+node,amenity,ice_cream,46
+node,amenity,industry,1
+node,amenity,internet_cafe,9
+node,amenity,karaoke_box,1
+node,amenity,kindergarten,100
+node,amenity,kitchen,1
+node,amenity,language_school,21
+node,amenity,letter_box,1
+node,amenity,library,124
+node,amenity,library_dropoff,2
+node,amenity,lounge,3
+node,amenity,marketplace,141
+node,amenity,monastery,18
+node,amenity,money_transfer,2
+node,amenity,motorcycle_parking,19
+node,amenity,motorcycle_rental,4
+node,amenity,music_school,7
+node,amenity,nightclub,9
+node,amenity,nursing_home,1
+node,amenity,office,8
+node,amenity,parking,211
+node,amenity,parking_entrance,9
+node,amenity,parking_space,7
+node,amenity,payment_centre,1
+node,amenity,payment_terminal,3
+node,amenity,pharmacy,393
+node,amenity,photo_booth,1
+node,amenity,place_of_worship,4662
+node,amenity,police,352
+node,amenity,police station,1
+node,amenity,post_box,87
+node,amenity,post_office,585
+node,amenity,pre school,1
+node,amenity,prep_school,6
+node,amenity,prison,2
+node,amenity,pub,38
+node,amenity,public_bath,18
+node,amenity,public_bookcase,6
+node,amenity,public_building,10
+node,amenity,ranger_station,1
+node,amenity,recycling,19
+node,amenity,research_institute,4
+node,amenity,reservior,1
+node,amenity,restaurant,2675
+node,amenity,restaurant;bar,1
+node,amenity,restaurant;fast_food,1
+node,amenity,school,2389
+node,amenity,scuba_diving,1
+node,amenity,shelter,95
+node,amenity,shop,2
+node,amenity,shower,20
+node,amenity,smoking_area,4
+node,amenity,smoky hut mpows,1
+node,amenity,social_centre,2
+node,amenity,social_facility,25
+node,amenity,studio,12
+node,amenity,surf_school,4
+node,amenity,taxi,48
+node,amenity,telephone,9
+node,amenity,temple,2
+node,amenity,theatre,16
+node,amenity,theatre;bar,1
+node,amenity,toilets,260
+node,amenity,townhall,49
+node,amenity,university,55
+node,amenity,university_department,1
+node,amenity,vehicle_inspection,8
+node,amenity,vending_machine,10
+node,amenity,veterinary,41
+node,amenity,waste_basket,10
+node,amenity,waste_disposal,9
+node,amenity,waste_transfer_station,1
+node,amenity,water_point,15
+node,amenity,watering_place,12
+node,amenity,watersports,1
+node,amenity,wood yard,1
+node,amenity,yes,1
+node,highway,bus_stop,3494
+node,highway,crossing,5100
+node,highway,elevator,1
+node,highway,give_way,3
+node,highway,living_street,1
+node,highway,milestone,898
+node,highway,mini_roundabout,46
+node,highway,motorway_junction,64
+node,highway,residential,1
+node,highway,rest_area,23
+node,highway,road,1
+node,highway,secondary,1
+node,highway,services,15
+node,highway,speed_camera,4
+node,highway,stop,5
+node,highway,street_lamp,54
+node,highway,toll_gantry,7
+node,highway,traffic_mirror,9
+node,highway,traffic_signals,377
+node,highway,trailhead,2
+node,highway,turning_circle,176
+node,highway,turning_loop,30
+node,highway,yes,1
+node,landuse,aquaculture,1
+node,landuse,cemetery,19
+node,landuse,farm,1
+node,landuse,forest,1
+node,landuse,industrial,5
+node,landuse,military,21
+node,landuse,quarry,2
+node,landuse,reservoir,1956
+node,landuse,residential,13
+node,landuse,residential_area,1
+node,tourism,alpine_hut,4
+node,tourism,apartment,132
+node,tourism,aquarium,6
+node,tourism,artwork,339
+node,tourism,attraction,328
+node,tourism,attraction;viewpoint,1
+node,tourism,cabin,1
+node,tourism,camp_pitch,3
+node,tourism,camp_site,84
+node,tourism,caravan_site,3
+node,tourism,chalet,85
+node,tourism,gallery,14
+node,tourism,guest_house,1335
+node,tourism,hostel,249
+node,tourism,hotel,2327
+node,tourism,information,175
+node,tourism,motel,48
+node,tourism,museum,42
+node,tourism,picnic_site,11
+node,tourism,theme_park,6
+node,tourism,viewpoint,383
+node,tourism,viewpoint;attraction,1
+node,tourism,villa,1
+node,tourism,wilderness_hut,3
+node,tourism,yes,5
+node,tourism,zoo,10
+relation,amenity,bank,1
+relation,amenity,bus_station,3
+relation,amenity,cafe,1
+relation,amenity,college,5
+relation,amenity,community_centre,2
+relation,amenity,courthouse,1
+relation,amenity,food_court,1
+relation,amenity,fountain,2
+relation,amenity,fuel,1
+relation,amenity,hospital,4
+relation,amenity,library,1
+relation,amenity,marketplace,3
+relation,amenity,parking,4
+relation,amenity,place_of_worship,20
+relation,amenity,public_bath,1
+relation,amenity,residential,1
+relation,amenity,school,40
+relation,amenity,townhall,1
+relation,amenity,university,5
+relation,highway,footway,1
+relation,highway,pedestrian,11
+relation,highway,unclassified,1
+relation,landuse,commercial,6
+relation,landuse,construction,2
+relation,landuse,education,1
+relation,landuse,farmland,597
+relation,landuse,farmyard,2
+relation,landuse,forest,164
+relation,landuse,grass,17
+relation,landuse,greenfield,2
+relation,landuse,harbour,1
+relation,landuse,industrial,11
+relation,landuse,meadow,69
+relation,landuse,military,7
+relation,landuse,orchard,158
+relation,landuse,paddy,1
+relation,landuse,quarry,1
+relation,landuse,religious,4
+relation,landuse,reservoir,13
+relation,landuse,residential,144
+relation,landuse,retail,3
+relation,landuse,salt_pond,12
+relation,landuse,village_green,2
+relation,tourism,artwork,1
+relation,tourism,attraction,4
+relation,tourism,guest_house,3
+relation,tourism,hostel,2
+relation,tourism,hotel,11
+relation,tourism,museum,3
+way,amenity,1/12 HOME,1
+way,amenity,1/4,1
+way,amenity,1/6,2
+way,amenity,ANIMAL HUSNANDRY,1
+way,amenity,ANIMALS HUSBANDRY,1
+way,amenity,Administrative,1
+way,amenity,BARADHA MADHA SPORTS CLUB,1
+way,amenity,BRIDWELL DIVISION CDO CENTER,1
+way,amenity,Bekariya,1
+way,amenity,Bus hold,1
+way,amenity,CDC CENTER,1
+way,amenity,CDC CENTER 1,1
+way,amenity,CHALMERS COMMEN LIBRARY,1
+way,amenity,CHALMERS DIVISION COMMON SALOON,1
+way,amenity,CHALMERS MAIN HALL,1
+way,amenity,CHEMICAL STORAGE,1
+way,amenity,CHILD DEVELOPMENT CENTER,1
+way,amenity,CHILD DEVELOPMENT CENTRE,1
+way,amenity,COW SHED,2
+way,amenity,COW SHEET,1
+way,amenity,CROSER SHOP,1
+way,amenity,CRUCH,1
+way,amenity,CRÈCHE,1
+way,amenity,CRÈCHE PLAY GROUND,1
+way,amenity,Chrech and child care centre,1
+way,amenity,Class,1
+way,amenity,DAY CARE CENTER,1
+way,amenity,DEWILLING,4
+way,amenity,DEWLLING,1
+way,amenity,DISPENSARY,1
+way,amenity,DWIIING,1
+way,amenity,Dispensery,1
+way,amenity,Dwelling,2
+way,amenity,Dwlling,2
+way,amenity,ESTATE BANGALOW,1
+way,amenity,ESTATE BUNGALOW,1
+way,amenity,ESTATE COMMON WATER SUPPLY ROOM,1
+way,amenity,ESTATE QUARTERS,1
+way,amenity,ESTATE TOOLS ROOM AND OFFICE,1
+way,amenity,Education,1
+way,amenity,FERTILIZER STORES,1
+way,amenity,Filter water,1
+way,amenity,GENERAL MANAGERS BUNGALOW,1
+way,amenity,GENERAL ROOM,1
+way,amenity,GENERATOR ROOM,1
+way,amenity,GERACH CENTRE,1
+way,amenity,GOAT FARM,1
+way,amenity,GRAMA NILADHARI OFFICE,1
+way,amenity,Home and catering,1
+way,amenity,Home and shop,1
+way,amenity,House garaje,1
+way,amenity,INFORMATION CENTER,1
+way,amenity,Ice pland,1
+way,amenity,KITCHEN,3
+way,amenity,KOBALA CROSER,1
+way,amenity,Katukurunda Chethiyarama Temple,1
+way,amenity,Kovil Madam,1
+way,amenity,LEND USE,1
+way,amenity,LINE SELLLMATE,1
+way,amenity,LINE SETTLEMENT,25
+way,amenity,LINE SETTLMANTE,1
+way,amenity,LINESETTLMATE,2
+way,amenity,LIPIRERY,1
+way,amenity,Line House,1
+way,amenity,MAHESH SHOP,1
+way,amenity,MALARUM MOTTU CRUCH,1
+way,amenity,MECHANIC SHOP,1
+way,amenity,MILK COLLECTING CENTER,1
+way,amenity,MINI COW FARM,17
+way,amenity,MINI GOAT FARM,4
+way,amenity,MINI GROSER SHOP,1
+way,amenity,MUSTER SET OFFICE,1
+way,amenity,MUSTER SHED,1
+way,amenity,MUSTERED SHED,1
+way,amenity,MUTHUSAMY STORES,1
+way,amenity,NON USE HOUSE,1
+way,amenity,NOT STAY WITH HOUSE,1
+way,amenity,Net house,2
+way,amenity,"PETROL , DIESEL ROOM",1
+way,amenity,POWER HOUSE,1
+way,amenity,POWER HOUSE WORKER ROOM,1
+way,amenity,PRE SCHOOL,3
+way,amenity,PRESCHOOL,2
+way,amenity,Pagoda,1
+way,amenity,Pre-school,1
+way,amenity,Publict Ground,1
+way,amenity,RENGARAJ TIMBER WORK,1
+way,amenity,Redi weladasela,1
+way,amenity,Resturent & Bakers,1
+way,amenity,SANMUGA STORES,1
+way,amenity,STAFF QUARTERS,2
+way,amenity,STAFF WALFARE SOCIETY CLUB,1
+way,amenity,STAFF'S QUARTERS,1
+way,amenity,STORAGE COMPLEX,1
+way,amenity,STORE KEEPER OFFICE,1
+way,amenity,School Play Ground,1
+way,amenity,Security Point,1
+way,amenity,"Shop, bank",1
+way,amenity,Sillara kadaya,2
+way,amenity,TEA FACTORY,1
+way,amenity,Temple,3
+way,amenity,Temple Other religious place,2
+way,amenity,Thoga kadaya,1
+way,amenity,WORLD VISION BUILDING,1
+way,amenity,accomodation,1
+way,amenity,aliyawalai gs office,1
+way,amenity,animal_boarding,1
+way,amenity,animal_breeding,15
+way,amenity,animal_shelter,3
+way,amenity,arts_centre,6
+way,amenity,atm,2
+way,amenity,auditorium,1
+way,amenity,baby_hatch,3
+way,amenity,bakery,1
+way,amenity,bank,499
+way,amenity,bar,45
+way,amenity,bench,2
+way,amenity,bicycle_parking,15
+way,amenity,bicycle_repair_station,1
+way,amenity,biergarten,3
+way,amenity,boat_rental,2
+way,amenity,boat_storage,1
+way,amenity,building,2
+way,amenity,bus_station,165
+way,amenity,cafe,142
+way,amenity,canteen,4
+way,amenity,car_rental,2
+way,amenity,car_wash,29
+way,amenity,childcare,14
+way,amenity,children park,1
+way,amenity,church,25
+way,amenity,cinema,31
+way,amenity,cinema;cafe,1
+way,amenity,clinic,228
+way,amenity,clock,6
+way,amenity,co op bank and shop,1
+way,amenity,college,143
+way,amenity,community_centre,414
+way,amenity,community_centre;clinic,1
+way,amenity,community_hall,1
+way,amenity,computer,2
+way,amenity,conference_centre,5
+way,amenity,courthouse,36
+way,amenity,cowshed,5
+way,amenity,crematorium,4
+way,amenity,cultural_centre,1
+way,amenity,customs,1
+way,amenity,dara mauwa,1
+way,amenity,dentist,13
+way,amenity,dispansery,1
+way,amenity,dive_centre,7
+way,amenity,doctors,33
+way,amenity,drinking_water,2
+way,amenity,driver_training,2
+way,amenity,driving_school,4
+way,amenity,events_venue,17
+way,amenity,factory,40
+way,amenity,fashion,2
+way,amenity,fast_food,53
+way,amenity,favliyan,1
+way,amenity,ferry_terminal,4
+way,amenity,fham,1
+way,amenity,fiber_shop,1
+way,amenity,fire_station,15
+way,amenity,food_court,25
+way,amenity,fountain,35
+way,amenity,fuel,188
+way,amenity,gallery,1
+way,amenity,gambling,1
+way,amenity,garages,1
+way,amenity,garaje shop,1
+way,amenity,ginnaliya school hall 1,1
+way,amenity,ginnaliya school hall 2,1
+way,amenity,ginnaliya school hall 3,1
+way,amenity,goverment,1
+way,amenity,government,21
+way,amenity,grage,1
+way,amenity,grave_yard,21
+way,amenity,ground,2
+way,amenity,home,1
+way,amenity,hospital,441
+way,amenity,house,10
+way,amenity,hut,2
+way,amenity,ice_cream,8
+way,amenity,industrial,1
+way,amenity,institute,1
+way,amenity,internet_cafe,2
+way,amenity,kindergarten,213
+way,amenity,kitchen,1
+way,amenity,kovil,1
+way,amenity,landuse,1
+way,amenity,language_school,7
+way,amenity,library,145
+way,amenity,line settlement,9
+way,amenity,line settlements,1
+way,amenity,lowyer_house,1
+way,amenity,marketplace,200
+way,amenity,meditation_centre,1
+way,amenity,milk collecting center,1
+way,amenity,mini goat farm,1
+way,amenity,monastery,12
+way,amenity,motorcycle_parking,12
+way,amenity,music_institute,1
+way,amenity,music_school,1
+way,amenity,net house,1
+way,amenity,nightclub,2
+way,amenity,not,1
+way,amenity,nursing_home,2
+way,amenity,office,289
+way,amenity,other,1
+way,amenity,paddy store,1
+way,amenity,paddy_store,1
+way,amenity,pagoda,2
+way,amenity,parking,910
+way,amenity,parking_entrance,3
+way,amenity,parking_space,23
+way,amenity,pharmacy,104
+way,amenity,place_of_worship,4654
+way,amenity,play ground,2
+way,amenity,police,140
+way,amenity,police_station,3
+way,amenity,post_box,1
+way,amenity,post_depot,2
+way,amenity,post_office,213
+way,amenity,pre school,1
+way,amenity,pre- school,1
+way,amenity,prep_school,1
+way,amenity,prison,17
+way,amenity,private_tutor,1
+way,amenity,protected monument,1
+way,amenity,pub,4
+way,amenity,public_bookcase,2
+way,amenity,public_building,566
+way,amenity,quarters,1
+way,amenity,ranger_station,2
+way,amenity,rasidential,1
+way,amenity,recycling,9
+way,amenity,rent house,1
+way,amenity,research_institute,2
+way,amenity,residential,2
+way,amenity,restaurant,567
+way,amenity,retail,1
+way,amenity,rice mill,1
+way,amenity,road,2
+way,amenity,roof without wall,2
+way,amenity,sanitary_dump_station,2
+way,amenity,school,2628
+way,amenity,school Quaters,3
+way,amenity,school Water Tank,1
+way,amenity,school ground,1
+way,amenity,school play ground,1
+way,amenity,school quaters,1
+way,amenity,security_booth,1
+way,amenity,seva piyasa,1
+way,amenity,shelter,182
+way,amenity,shop,586
+way,amenity,shower,3
+way,amenity,social_centre,1
+way,amenity,social_facility,75
+way,amenity,stadium,1
+way,amenity,stadium_seating,2
+way,amenity,staff quarter,1
+way,amenity,staff_quarters,1
+way,amenity,stage,1
+way,amenity,store,1
+way,amenity,studio,15
+way,amenity,tank,4
+way,amenity,taxi,4
+way,amenity,telephone,1
+way,amenity,temple,7
+way,amenity,theatre,31
+way,amenity,toilets,85
+way,amenity,townhall,71
+way,amenity,training,1
+way,amenity,university,91
+way,amenity,vee midula,1
+way,amenity,vehicle_inspection,5
+way,amenity,veterinary,20
+way,amenity,veterinary_pharmacy,1
+way,amenity,waste_disposal,5
+way,amenity,waste_transfer_station,4
+way,amenity,water tank,1
+way,amenity,water_point,1
+way,amenity,watering_place,17
+way,amenity,wood prodact,1
+way,amenity,wood_stove,1
+way,amenity,workshop,1
+way,amenity,yes,2
+way,highway,bridleway,11
+way,highway,bus_stop,5
+way,highway,busway,8
+way,highway,construction,121
+way,highway,corridor,34
+way,highway,cycleway,164
+way,highway,footway,6638
+way,highway,living_street,18561
+way,highway,motorway,608
+way,highway,motorway_link,300
+way,highway,no,1
+way,highway,path,25332
+way,highway,pedestrian,192
+way,highway,platform,12
+way,highway,primary,6524
+way,highway,primary_link,490
+way,highway,proposed,10
+way,highway,raceway,25
+way,highway,residential,165525
+way,highway,rest_area,7
+way,highway,road,200
+way,highway,secondary,1635
+way,highway,secondary_link,95
+way,highway,service,26488
+way,highway,services,9
+way,highway,steps,740
+way,highway,tertiary,7430
+way,highway,tertiary_link,46
+way,highway,track,42614
+way,highway,trailhead,1
+way,highway,trunk,3504
+way,highway,trunk_link,225
+way,highway,unclassified,32294
+way,landuse,01,1
+way,landuse,Ambatale Water purification,1
+way,landuse,Magistrate court Gangodavila,1
+way,landuse,Open Ground,1
+way,landuse,Tea,1
+way,landuse,Vivasaya pannai,1
+way,landuse,accuaculture,1
+way,landuse,agricultural,1
+way,landuse,agriculture,10
+way,landuse,allotments,3
+way,landuse,aquaculture,148
+way,landuse,banana,2
+way,landuse,barren,1
+way,landuse,barren land,3
+way,landuse,basin,83
+way,landuse,brownfield,661
+way,landuse,cemetery,412
+way,landuse,chena,2
+way,landuse,civic_admin,5
+way,landuse,clearing,1
+way,landuse,coconut,4
+way,landuse,commercial,532
+way,landuse,conservation,2
+way,landuse,construction,142
+way,landuse,container_terminal,1
+way,landuse,cultivation,1
+way,landuse,depot,2
+way,landuse,disused,4
+way,landuse,dock,1
+way,landuse,education,24
+way,landuse,farmland,27019
+way,landuse,farmyard,337
+way,landuse,flowerbed,4
+way,landuse,forest,4996
+way,landuse,garages,43
+way,landuse,grass,693
+way,landuse,greenery,3
+way,landuse,greenfield,389
+way,landuse,greenhouse_horticulture,56
+way,landuse,ground,1
+way,landuse,harbour,9
+way,landuse,industrial,1017
+way,landuse,landfill,39
+way,landuse,meadow,3655
+way,landuse,military,144
+way,landuse,orchard,3841
+way,landuse,paddy,37
+way,landuse,plant_nursery,283
+way,landuse,plantation,1
+way,landuse,playground,2
+way,landuse,public,1
+way,landuse,quarry,242
+way,landuse,radio,1
+way,landuse,railway,10
+way,landuse,recreation_ground,148
+way,landuse,religious,305
+way,landuse,reservoir,1457
+way,landuse,residential,5013
+way,landuse,retail,787
+way,landuse,salt_pond,143
+way,landuse,sand,1
+way,landuse,sand ground,1
+way,landuse,school_ground,1
+way,landuse,tample,1
+way,landuse,tea,3
+way,landuse,temple,1
+way,landuse,village_green,48
+way,landuse,vineyard,8
+way,landuse,water,11
+way,landuse,waterland,1
+way,landuse,waterway,1
+way,landuse,wet_meadow,7
+way,landuse,yes,5
+way,tourism,apartment,19
+way,tourism,aquarium,4
+way,tourism,artwork,19
+way,tourism,attraction,55
+way,tourism,camp_site,4
+way,tourism,caravan_site,1
+way,tourism,chalet,75
+way,tourism,gallery,1
+way,tourism,guest_house,405
+way,tourism,hostel,100
+way,tourism,hotel,673
+way,tourism,hotel;hostel,1
+way,tourism,information,14
+way,tourism,motel,24
+way,tourism,museum,42
+way,tourism,picnic_site,1
+way,tourism,resort,1
+way,tourism,theme_park,9
+way,tourism,viewpoint,9
+way,tourism,wilderness_hut,1
+way,tourism,yes,2
+way,tourism,zoo,5

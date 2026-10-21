@@ -1,0 +1,83 @@
+{
+  "schema_version": "district_geometry_audit_v1",
+  "status": "geometry_checks_passed",
+  "data_origin": "PUBLIC_REFERENCE",
+  "created_utc": "2026-10-20T11:22:53.738610+00:00",
+  "boundary_folder": "data/processed/reference/district_boundaries_20261020T101811_326888Z",
+  "source_boundary_id": "LKA-ADM2-33603344",
+  "boundary_reference_year": "2022",
+  "source_attribution": "Survey Department of Sri Lanka; UN OCHA/HDX COD-AB; geoBoundaries (Runfola et al., 2020).",
+  "source_licence": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "source_licence_url": "https://creativecommons.org/licenses/by/3.0/igo/",
+  "findings": {
+    "districts": 25,
+    "valid_district_geometries": 25,
+    "measurements_completed": 25,
+    "district_pairs": 300,
+    "evaluated_pairs": 300,
+    "positive_area_overlap_pairs": 0,
+    "no_positive_area_overlaps": true,
+    "coverage_valid": true,
+    "coverage_error": "",
+    "districts_with_invalid_coverage_edges": 0,
+    "sum_district_area_km2": 65983.58339018986,
+    "geometry_checks_passed": true
+  },
+  "area_measured": true,
+  "gap_completeness_assessed": false,
+  "legal_boundary_accuracy_established": false,
+  "district_demand_ready": false,
+  "source_geometry_changed": false,
+  "methods": {
+    "topology": "GEOS planar predicates on the original longitude/latitude coordinates",
+    "coverage": "Exact shared-edge / non-overlap check; coverage gap_width=0.0 degrees",
+    "overlaps": "All 300 pairs; any positive two-dimensional intersection is reported, with no area tolerance",
+    "area": "WGS84 ellipsoid; orient analysis copies CCW exterior / CW holes; absolute net area per polygon in km2",
+    "boundary_length": "WGS84 ellipsoid; sum all exterior and interior ring lengths in km",
+    "repair": "None; no snapping, simplification, clipping or buffer(0)"
+  },
+  "software": {
+    "python": "3.12.0",
+    "numpy": "2.5.3",
+    "shapely": "2.1.2",
+    "geos": "3.13.1",
+    "pyproj": "3.7.2",
+    "proj": "9.5.1"
+  },
+  "checks": {
+    "source_hashes_verified": true,
+    "DCS_registry_reproduced": true,
+    "boundary_and_identity_exports_reproduced": true,
+    "complete_25_district_300_pair_grid": true,
+    "input_files_unchanged": true
+  },
+  "interpretation": [
+    "A completed audit can report review_required; geometry findings are exported rather than repaired.",
+    "Coverage validity permits holes; no coastline, water-body or missing-land completeness test is claimed.",
+    "Areas describe this 2022 reference geometry, including whatever inland water it contains; they are not official land-area statistics.",
+    "A geometry pass does not establish district fleet weights, charging-location allocation or demand readiness.",
+    "Registry, owner parameters, eligibility, source inventory and existing simulations remain unchanged."
+  ],
+  "input_sha256": {
+    "src/ev_demand/geography/audit_district_geometry.py": "d2c070fdba7fe6830cc8c1dd424fc07df45fbd470b31d92c35085ffda22b4f9a",
+    "src/ev_demand/geography/build_district_registry.py": "e2c2e0c72b9ef49a440220a93f1bbe02e42fae72682d16174f6a0a2129452695",
+    "src/ev_demand/geography/prepare_district_boundaries.py": "7844775f5dac2c07330e8e33a3031a9c8502d08cba8866a19a7c1c514996c1ff",
+    "docs/research_pipeline_specification.md": "44a7344d3a66cebc8518b2de4125d91185e3fec3fa53a3d8638c30cda218dac9",
+    "data/processed/reference/district_boundaries_20261020T101811_326888Z/district_boundary_report.json": "43215d1cc01697e6bacddb0329ac26929514dec2e4c8482d1f890e5203cc695a",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/district_registry_report.json": "026d80f2a87041bd792636757ca28c13d666e117a9ce46928c524f395652f9ed",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/district_aliases.csv": "fdd3d58f673d43852a4dc0352118e792f2caabfd7480627a6d3846d5f18d9305",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/district_registry.csv": "c51729b49f6afba7b97881f08faf5b7868ef371661d86b627d1be58d6e96e075",
+    "data/processed/reference/district_registry_20261017T075926_600527Z/owner_home_district_matches.csv": "dc3b1ed88cac5fc528676f1b2536b027027a65f24ad5f964541581c55bc55b20",
+    "data/processed/synthetic/features_20260930T105224_893907Z/owners_features.csv": "bcac35900fbc1eec36e970946aea994c8136b46e1214d0b82fdb56d9a1d3e1bf",
+    "data/raw/public/district_registry_sources/20261017T075926_600527Z/dcs_administrative_division_codes.xlsx": "c4d40c4478b306eebaba4aba3a0bf9be30d5f589d4d05440040be14524f363e0",
+    "data/raw/public/district_boundary_sources/20261020T101811_326888Z/geoboundaries_metadata.json": "1959ef4a83576d17ff8d8aa1ae1d8d899b624a00167ad165e98cb580623e4a1e",
+    "data/raw/public/district_boundary_sources/20261020T101811_326888Z/geoboundaries_LKA_ADM2.geojson": "68ce55ea64d10f37d16b1a0bce588904abf17b59793e8cea05194c580f251485",
+    "data/processed/reference/district_boundaries_20261020T101811_326888Z/district_boundaries.geojson": "8c7b0cdf02168649a8f07b171dd01b7babb10e255331091f728525194c989dff",
+    "data/processed/reference/district_boundaries_20261020T101811_326888Z/district_boundary_identity_audit.csv": "da768930da9afe64f33d525b76e7252cf7cb7072f89d2016d1b04cfd38b2fd65"
+  },
+  "output_sha256": {
+    "district_geometry_audit.csv": "5d1422b4162528c353beb5bdd6e1e9455ed4a8336b9ed3b82bac1b2d77a59819",
+    "district_geometry_issues.geojson": "946a1451e4a25ab9f0b6c43683ed46a51cd05de9daa45c4a72ca7e8f003083e1",
+    "district_pair_audit.csv": "125195345711dcd825206633d776458f593396bb320463165515f11ff66272a6"
+  }
+}
