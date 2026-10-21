@@ -1,0 +1,5 @@
+source_sheet,context,survey_context,linked_owner_records,frequency_answer_column,charger_answer_column,start_window_answer_column,compared_answer_fields,source_answers_reproduced,geographic_place_mapping_activated
+Synthetic responses,T1,"At workplace, education place, shopping area, or other routine non-home place",170,11,18,22,510,True,False
+Synthetic responses,T2,At home,170,10,17,21,510,True,False
+Synthetic responses,T3,"At tourism, leisure, hotel, restaurant, or destination place",170,12,19,23,510,True,False
+Synthetic responses,T4,During a long trip / highway / en-route stop,170,13,20,24,510,True,False

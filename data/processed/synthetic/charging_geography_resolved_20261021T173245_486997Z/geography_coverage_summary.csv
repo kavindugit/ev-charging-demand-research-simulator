@@ -1,0 +1,6 @@
+population_group,owners,home_district_matched,home_declared_alias_matches,named_outside_district_matched,outside_declared_alias_matches,reported_not_applicable,blank_answer,unresolved_text_for_review,named_outside_equals_home
+all_retained,170,170,4,63,4,107,0,0,0
+common_Car_profiles,32,32,0,13,1,19,0,0,0
+common_energy_cases,60,60,1,23,2,37,0,0,0
+open_upper_extension,6,6,2,1,0,5,0,0,0
+outside_screened_cohorts,104,104,1,39,2,65,0,0,0

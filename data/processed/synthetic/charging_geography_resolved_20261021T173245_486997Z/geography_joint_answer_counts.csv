@@ -1,0 +1,27 @@
+population_group,away_geography_answer,outside_answer_status,owners,group_denominator
+all_retained,Both within and outside my home district,named_district,42,170
+all_retained,I do not charge away from home,reported_not_applicable,31,170
+all_retained,I do not know,reported_not_applicable,2,170
+all_retained,It varies a lot,reported_not_applicable,14,170
+all_retained,Mostly outside my home district,named_district,21,170
+all_retained,Mostly within my home district,reported_not_applicable,60,170
+common_Car_profiles,Both within and outside my home district,named_district,10,32
+common_Car_profiles,I do not charge away from home,reported_not_applicable,3,32
+common_Car_profiles,Mostly outside my home district,named_district,3,32
+common_Car_profiles,Mostly within my home district,reported_not_applicable,16,32
+common_energy_cases,Both within and outside my home district,named_district,17,60
+common_energy_cases,I do not charge away from home,reported_not_applicable,14,60
+common_energy_cases,I do not know,reported_not_applicable,1,60
+common_energy_cases,It varies a lot,reported_not_applicable,1,60
+common_energy_cases,Mostly outside my home district,named_district,6,60
+common_energy_cases,Mostly within my home district,reported_not_applicable,21,60
+open_upper_extension,Both within and outside my home district,named_district,1,6
+open_upper_extension,I do not charge away from home,reported_not_applicable,2,6
+open_upper_extension,It varies a lot,reported_not_applicable,1,6
+open_upper_extension,Mostly within my home district,reported_not_applicable,2,6
+outside_screened_cohorts,Both within and outside my home district,named_district,24,104
+outside_screened_cohorts,I do not charge away from home,reported_not_applicable,15,104
+outside_screened_cohorts,I do not know,reported_not_applicable,1,104
+outside_screened_cohorts,It varies a lot,reported_not_applicable,12,104
+outside_screened_cohorts,Mostly outside my home district,named_district,15,104
+outside_screened_cohorts,Mostly within my home district,reported_not_applicable,37,104

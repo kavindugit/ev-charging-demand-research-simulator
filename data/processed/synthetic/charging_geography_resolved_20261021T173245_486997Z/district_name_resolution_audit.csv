@@ -1,0 +1,341 @@
+owner_id,answer_role,raw_answer,previous_district_id,previous_status,resolved_district_id,resolved_status,canonical_district_name,matched_declared_alias,alias_kind
+SYN-SUR-001,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-001,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-002,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-002,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-003,home,Matale,DCS-22,canonical_name_match,DCS-22,canonical_name_match,Matale,Matale,canonical
+SYN-SUR-003,outside,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-004,home,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-004,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-005,home,Vavuniya,DCS-43,canonical_name_match,DCS-43,canonical_name_match,Vavuniya,Vavuniya,canonical
+SYN-SUR-005,outside,Monaragala,,unmatched_text_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-006,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-006,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-007,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-007,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-008,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-008,outside,Badulla,DCS-81,canonical_name_match,DCS-81,canonical_name_match,Badulla,Badulla,canonical
+SYN-SUR-009,home,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-009,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-010,home,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-010,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-011,home,Trincomalee,DCS-53,canonical_name_match,DCS-53,canonical_name_match,Trincomalee,Trincomalee,canonical
+SYN-SUR-011,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-012,home,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-012,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-013,home,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-013,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-014,home,Matale,DCS-22,canonical_name_match,DCS-22,canonical_name_match,Matale,Matale,canonical
+SYN-SUR-014,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-015,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-015,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-016,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-016,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-017,home,Badulla,DCS-81,canonical_name_match,DCS-81,canonical_name_match,Badulla,Badulla,canonical
+SYN-SUR-017,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-018,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-018,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-019,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-019,outside,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-020,home,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-020,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-021,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-021,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-022,home,Matara,DCS-32,canonical_name_match,DCS-32,canonical_name_match,Matara,Matara,canonical
+SYN-SUR-022,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-023,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-023,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-024,home,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-024,outside,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-025,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-025,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-026,home,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-026,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-027,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-027,outside,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-028,home,Matara,DCS-32,canonical_name_match,DCS-32,canonical_name_match,Matara,Matara,canonical
+SYN-SUR-028,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-029,home,Ratnapura,DCS-91,canonical_name_match,DCS-91,canonical_name_match,Ratnapura,Ratnapura,canonical
+SYN-SUR-029,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-030,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-030,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-031,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-031,outside,Trincomalee,DCS-53,canonical_name_match,DCS-53,canonical_name_match,Trincomalee,Trincomalee,canonical
+SYN-SUR-032,home,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-032,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-033,home,Jaffna,DCS-41,canonical_name_match,DCS-41,canonical_name_match,Jaffna,Jaffna,canonical
+SYN-SUR-033,outside,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-034,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-034,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-035,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-035,outside,Kilinochchi,DCS-45,canonical_name_match,DCS-45,canonical_name_match,Kilinochchi,Kilinochchi,canonical
+SYN-SUR-036,home,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-036,outside,Kilinochchi,DCS-45,canonical_name_match,DCS-45,canonical_name_match,Kilinochchi,Kilinochchi,canonical
+SYN-SUR-037,home,Badulla,DCS-81,canonical_name_match,DCS-81,canonical_name_match,Badulla,Badulla,canonical
+SYN-SUR-037,outside,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-038,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-038,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-039,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-039,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-040,home,Kegalle,DCS-92,canonical_name_match,DCS-92,canonical_name_match,Kegalle,Kegalle,canonical
+SYN-SUR-040,outside,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-041,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-041,outside,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-042,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-042,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-043,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-043,outside,Ampara,DCS-52,canonical_name_match,DCS-52,canonical_name_match,Ampara,Ampara,canonical
+SYN-SUR-044,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-044,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-045,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-045,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-046,home,Matara,DCS-32,canonical_name_match,DCS-32,canonical_name_match,Matara,Matara,canonical
+SYN-SUR-046,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-047,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-047,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-048,home,Jaffna,DCS-41,canonical_name_match,DCS-41,canonical_name_match,Jaffna,Jaffna,canonical
+SYN-SUR-048,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-049,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-049,outside,Kilinochchi,DCS-45,canonical_name_match,DCS-45,canonical_name_match,Kilinochchi,Kilinochchi,canonical
+SYN-SUR-050,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-050,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-051,home,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-051,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-052,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-052,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-053,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-053,outside,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-054,home,Monaragala,,unmatched_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-054,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-055,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-055,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-056,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-056,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-057,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-057,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-058,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-058,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-059,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-059,outside,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-060,home,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-060,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-061,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-061,outside,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-062,home,Kegalle,DCS-92,canonical_name_match,DCS-92,canonical_name_match,Kegalle,Kegalle,canonical
+SYN-SUR-062,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-063,home,Kilinochchi,DCS-45,canonical_name_match,DCS-45,canonical_name_match,Kilinochchi,Kilinochchi,canonical
+SYN-SUR-063,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-064,home,Batticaloa,DCS-51,canonical_name_match,DCS-51,canonical_name_match,Batticaloa,Batticaloa,canonical
+SYN-SUR-064,outside,Matara,DCS-32,canonical_name_match,DCS-32,canonical_name_match,Matara,Matara,canonical
+SYN-SUR-065,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-065,outside,Badulla,DCS-81,canonical_name_match,DCS-81,canonical_name_match,Badulla,Badulla,canonical
+SYN-SUR-066,home,Trincomalee,DCS-53,canonical_name_match,DCS-53,canonical_name_match,Trincomalee,Trincomalee,canonical
+SYN-SUR-066,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-067,home,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-067,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-068,home,Monaragala,,unmatched_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-068,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-069,home,Vavuniya,DCS-43,canonical_name_match,DCS-43,canonical_name_match,Vavuniya,Vavuniya,canonical
+SYN-SUR-069,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-070,home,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-070,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-071,home,Matara,DCS-32,canonical_name_match,DCS-32,canonical_name_match,Matara,Matara,canonical
+SYN-SUR-071,outside,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-072,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-072,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-073,home,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-073,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-074,home,Batticaloa,DCS-51,canonical_name_match,DCS-51,canonical_name_match,Batticaloa,Batticaloa,canonical
+SYN-SUR-074,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-075,home,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-075,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-076,home,Mannar,DCS-42,canonical_name_match,DCS-42,canonical_name_match,Mannar,Mannar,canonical
+SYN-SUR-076,outside,Monaragala,,unmatched_text_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-077,home,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-077,outside,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-078,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-078,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-079,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-079,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-080,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-080,outside,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-081,home,Ratnapura,DCS-91,canonical_name_match,DCS-91,canonical_name_match,Ratnapura,Ratnapura,canonical
+SYN-SUR-081,outside,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-082,home,Matale,DCS-22,canonical_name_match,DCS-22,canonical_name_match,Matale,Matale,canonical
+SYN-SUR-082,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-083,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-083,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-084,home,Ratnapura,DCS-91,canonical_name_match,DCS-91,canonical_name_match,Ratnapura,Ratnapura,canonical
+SYN-SUR-084,outside,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-085,home,Badulla,DCS-81,canonical_name_match,DCS-81,canonical_name_match,Badulla,Badulla,canonical
+SYN-SUR-085,outside,Ampara,DCS-52,canonical_name_match,DCS-52,canonical_name_match,Ampara,Ampara,canonical
+SYN-SUR-086,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-086,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-087,home,Badulla,DCS-81,canonical_name_match,DCS-81,canonical_name_match,Badulla,Badulla,canonical
+SYN-SUR-087,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-088,home,Matara,DCS-32,canonical_name_match,DCS-32,canonical_name_match,Matara,Matara,canonical
+SYN-SUR-088,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-089,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-089,outside,Matale,DCS-22,canonical_name_match,DCS-22,canonical_name_match,Matale,Matale,canonical
+SYN-SUR-090,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-090,outside,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-091,home,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-091,outside,Mannar,DCS-42,canonical_name_match,DCS-42,canonical_name_match,Mannar,Mannar,canonical
+SYN-SUR-092,home,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-092,outside,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-093,home,Batticaloa,DCS-51,canonical_name_match,DCS-51,canonical_name_match,Batticaloa,Batticaloa,canonical
+SYN-SUR-093,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-094,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-094,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-095,home,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-095,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-096,home,Trincomalee,DCS-53,canonical_name_match,DCS-53,canonical_name_match,Trincomalee,Trincomalee,canonical
+SYN-SUR-096,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-097,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-097,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-098,home,Ampara,DCS-52,canonical_name_match,DCS-52,canonical_name_match,Ampara,Ampara,canonical
+SYN-SUR-098,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-099,home,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-099,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-100,home,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-100,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-101,home,Jaffna,DCS-41,canonical_name_match,DCS-41,canonical_name_match,Jaffna,Jaffna,canonical
+SYN-SUR-101,outside,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-102,home,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-102,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-103,home,Polonnaruwa,DCS-72,canonical_name_match,DCS-72,canonical_name_match,Polonnaruwa,Polonnaruwa,canonical
+SYN-SUR-103,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-104,home,Hambantota,DCS-33,canonical_name_match,DCS-33,canonical_name_match,Hambantota,Hambantota,canonical
+SYN-SUR-104,outside,Mannar,DCS-42,canonical_name_match,DCS-42,canonical_name_match,Mannar,Mannar,canonical
+SYN-SUR-105,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-105,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-106,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-106,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-107,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-107,outside,Ampara,DCS-52,canonical_name_match,DCS-52,canonical_name_match,Ampara,Ampara,canonical
+SYN-SUR-108,home,Mannar,DCS-42,canonical_name_match,DCS-42,canonical_name_match,Mannar,Mannar,canonical
+SYN-SUR-108,outside,Batticaloa,DCS-51,canonical_name_match,DCS-51,canonical_name_match,Batticaloa,Batticaloa,canonical
+SYN-SUR-109,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-109,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-110,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-110,outside,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-111,home,Ampara,DCS-52,canonical_name_match,DCS-52,canonical_name_match,Ampara,Ampara,canonical
+SYN-SUR-111,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-112,home,Hambantota,DCS-33,canonical_name_match,DCS-33,canonical_name_match,Hambantota,Hambantota,canonical
+SYN-SUR-112,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-113,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-113,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-114,home,Kegalle,DCS-92,canonical_name_match,DCS-92,canonical_name_match,Kegalle,Kegalle,canonical
+SYN-SUR-114,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-115,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-115,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-116,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-116,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-117,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-117,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-118,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-118,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-119,home,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-119,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-120,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-120,outside,Kilinochchi,DCS-45,canonical_name_match,DCS-45,canonical_name_match,Kilinochchi,Kilinochchi,canonical
+SYN-SUR-121,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-121,outside,Matale,DCS-22,canonical_name_match,DCS-22,canonical_name_match,Matale,Matale,canonical
+SYN-SUR-122,home,Monaragala,,unmatched_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-122,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-123,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-123,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-124,home,Ampara,DCS-52,canonical_name_match,DCS-52,canonical_name_match,Ampara,Ampara,canonical
+SYN-SUR-124,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-125,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-125,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-126,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-126,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-127,home,Kegalle,DCS-92,canonical_name_match,DCS-92,canonical_name_match,Kegalle,Kegalle,canonical
+SYN-SUR-127,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-128,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-128,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-129,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-129,outside,Trincomalee,DCS-53,canonical_name_match,DCS-53,canonical_name_match,Trincomalee,Trincomalee,canonical
+SYN-SUR-130,home,Kegalle,DCS-92,canonical_name_match,DCS-92,canonical_name_match,Kegalle,Kegalle,canonical
+SYN-SUR-130,outside,Ratnapura,DCS-91,canonical_name_match,DCS-91,canonical_name_match,Ratnapura,Ratnapura,canonical
+SYN-SUR-131,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-131,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-132,home,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-132,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-133,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-133,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-134,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-134,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-135,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-135,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-136,home,Jaffna,DCS-41,canonical_name_match,DCS-41,canonical_name_match,Jaffna,Jaffna,canonical
+SYN-SUR-136,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-137,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-137,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-138,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-138,outside,Jaffna,DCS-41,canonical_name_match,DCS-41,canonical_name_match,Jaffna,Jaffna,canonical
+SYN-SUR-139,home,Vavuniya,DCS-43,canonical_name_match,DCS-43,canonical_name_match,Vavuniya,Vavuniya,canonical
+SYN-SUR-139,outside,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-140,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-140,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-141,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-141,outside,Kegalle,DCS-92,canonical_name_match,DCS-92,canonical_name_match,Kegalle,Kegalle,canonical
+SYN-SUR-142,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-142,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-143,home,Puttalam,DCS-62,canonical_name_match,DCS-62,canonical_name_match,Puttalam,Puttalam,canonical
+SYN-SUR-143,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-144,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-144,outside,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-145,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-145,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-146,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-146,outside,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-147,home,Kegalle,DCS-92,canonical_name_match,DCS-92,canonical_name_match,Kegalle,Kegalle,canonical
+SYN-SUR-147,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-148,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-148,outside,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-149,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-149,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-150,home,Ratnapura,DCS-91,canonical_name_match,DCS-91,canonical_name_match,Ratnapura,Ratnapura,canonical
+SYN-SUR-150,outside,Matale,DCS-22,canonical_name_match,DCS-22,canonical_name_match,Matale,Matale,canonical
+SYN-SUR-151,home,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-151,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-152,home,Matara,DCS-32,canonical_name_match,DCS-32,canonical_name_match,Matara,Matara,canonical
+SYN-SUR-152,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-153,home,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-153,outside,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-154,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-154,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-155,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-155,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-156,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-156,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-157,home,Nuwara Eliya,DCS-23,canonical_name_match,DCS-23,canonical_name_match,Nuwara Eliya,Nuwara Eliya,canonical
+SYN-SUR-157,outside,Monaragala,,unmatched_text_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-158,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-158,outside,Monaragala,,unmatched_text_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-159,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-159,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-160,home,Kilinochchi,DCS-45,canonical_name_match,DCS-45,canonical_name_match,Kilinochchi,Kilinochchi,canonical
+SYN-SUR-160,outside,Kurunegala,DCS-61,canonical_name_match,DCS-61,canonical_name_match,Kurunegala,Kurunegala,canonical
+SYN-SUR-161,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-161,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-162,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-162,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-163,home,Colombo,DCS-11,canonical_name_match,DCS-11,canonical_name_match,Colombo,Colombo,canonical
+SYN-SUR-163,outside,Anuradhapura,DCS-71,canonical_name_match,DCS-71,canonical_name_match,Anuradhapura,Anuradhapura,canonical
+SYN-SUR-164,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-164,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-165,home,Mullaitivu,DCS-44,canonical_name_match,DCS-44,canonical_name_match,Mullaitivu,Mullaitivu,canonical
+SYN-SUR-165,outside,Ampara,DCS-52,canonical_name_match,DCS-52,canonical_name_match,Ampara,Ampara,canonical
+SYN-SUR-166,home,Batticaloa,DCS-51,canonical_name_match,DCS-51,canonical_name_match,Batticaloa,Batticaloa,canonical
+SYN-SUR-166,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,
+SYN-SUR-167,home,Monaragala,,unmatched_for_review,DCS-82,declared_alias_match,Moneragala,Monaragala,declared_spelling_variant
+SYN-SUR-167,outside,Galle,DCS-31,canonical_name_match,DCS-31,canonical_name_match,Galle,Galle,canonical
+SYN-SUR-168,home,Kalutara,DCS-13,canonical_name_match,DCS-13,canonical_name_match,Kalutara,Kalutara,canonical
+SYN-SUR-168,outside,Badulla,DCS-81,canonical_name_match,DCS-81,canonical_name_match,Badulla,Badulla,canonical
+SYN-SUR-169,home,Jaffna,DCS-41,canonical_name_match,DCS-41,canonical_name_match,Jaffna,Jaffna,canonical
+SYN-SUR-169,outside,Kandy,DCS-21,canonical_name_match,DCS-21,canonical_name_match,Kandy,Kandy,canonical
+SYN-SUR-170,home,Gampaha,DCS-12,canonical_name_match,DCS-12,canonical_name_match,Gampaha,Gampaha,canonical
+SYN-SUR-170,outside,Not applicable,,unmatched_text_for_review,,reported_not_applicable,,,

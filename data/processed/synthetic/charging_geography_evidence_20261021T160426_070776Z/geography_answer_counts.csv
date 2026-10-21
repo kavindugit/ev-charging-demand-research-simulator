@@ -1,0 +1,188 @@
+population_group,question_key,answer,answer_is_blank,owners,group_denominator,owner_share,data_origin
+all_retained,home_district_answer,Ampara,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,home_district_answer,Anuradhapura,False,7,170,0.041176470588235294,SYNTHETIC
+all_retained,home_district_answer,Badulla,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,home_district_answer,Batticaloa,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,home_district_answer,Colombo,False,26,170,0.15294117647058825,SYNTHETIC
+all_retained,home_district_answer,Galle,False,8,170,0.047058823529411764,SYNTHETIC
+all_retained,home_district_answer,Gampaha,False,31,170,0.18235294117647058,SYNTHETIC
+all_retained,home_district_answer,Hambantota,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,home_district_answer,Jaffna,False,5,170,0.029411764705882353,SYNTHETIC
+all_retained,home_district_answer,Kalutara,False,8,170,0.047058823529411764,SYNTHETIC
+all_retained,home_district_answer,Kandy,False,10,170,0.058823529411764705,SYNTHETIC
+all_retained,home_district_answer,Kegalle,False,6,170,0.03529411764705882,SYNTHETIC
+all_retained,home_district_answer,Kilinochchi,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,home_district_answer,Kurunegala,False,7,170,0.041176470588235294,SYNTHETIC
+all_retained,home_district_answer,Mannar,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,home_district_answer,Matale,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,home_district_answer,Matara,False,6,170,0.03529411764705882,SYNTHETIC
+all_retained,home_district_answer,Monaragala,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,home_district_answer,Mullaitivu,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,home_district_answer,Nuwara Eliya,False,8,170,0.047058823529411764,SYNTHETIC
+all_retained,home_district_answer,Polonnaruwa,False,5,170,0.029411764705882353,SYNTHETIC
+all_retained,home_district_answer,Puttalam,False,7,170,0.041176470588235294,SYNTHETIC
+all_retained,home_district_answer,Ratnapura,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,home_district_answer,Trincomalee,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,home_district_answer,Vavuniya,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,away_geography_answer,Both within and outside my home district,False,42,170,0.24705882352941178,SYNTHETIC
+all_retained,away_geography_answer,I do not charge away from home,False,31,170,0.18235294117647058,SYNTHETIC
+all_retained,away_geography_answer,I do not know,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,away_geography_answer,It varies a lot,False,14,170,0.08235294117647059,SYNTHETIC
+all_retained,away_geography_answer,Mostly outside my home district,False,21,170,0.12352941176470589,SYNTHETIC
+all_retained,away_geography_answer,Mostly within my home district,False,60,170,0.35294117647058826,SYNTHETIC
+all_retained,outside_district_answer,Ampara,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,outside_district_answer,Anuradhapura,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Badulla,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Batticaloa,False,1,170,0.0058823529411764705,SYNTHETIC
+all_retained,outside_district_answer,Colombo,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,outside_district_answer,Galle,False,6,170,0.03529411764705882,SYNTHETIC
+all_retained,outside_district_answer,Gampaha,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Jaffna,False,1,170,0.0058823529411764705,SYNTHETIC
+all_retained,outside_district_answer,Kalutara,False,1,170,0.0058823529411764705,SYNTHETIC
+all_retained,outside_district_answer,Kandy,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Kegalle,False,1,170,0.0058823529411764705,SYNTHETIC
+all_retained,outside_district_answer,Kilinochchi,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,outside_district_answer,Kurunegala,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Mannar,False,2,170,0.011764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Matale,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Matara,False,1,170,0.0058823529411764705,SYNTHETIC
+all_retained,outside_district_answer,Monaragala,False,4,170,0.023529411764705882,SYNTHETIC
+all_retained,outside_district_answer,Mullaitivu,False,8,170,0.047058823529411764,SYNTHETIC
+all_retained,outside_district_answer,Not applicable,False,107,170,0.6294117647058823,SYNTHETIC
+all_retained,outside_district_answer,Nuwara Eliya,False,1,170,0.0058823529411764705,SYNTHETIC
+all_retained,outside_district_answer,Polonnaruwa,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Puttalam,False,3,170,0.01764705882352941,SYNTHETIC
+all_retained,outside_district_answer,Ratnapura,False,1,170,0.0058823529411764705,SYNTHETIC
+all_retained,outside_district_answer,Trincomalee,False,2,170,0.011764705882352941,SYNTHETIC
+common_energy_cases,home_district_answer,Ampara,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,home_district_answer,Anuradhapura,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,home_district_answer,Badulla,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Batticaloa,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,home_district_answer,Colombo,False,7,60,0.11666666666666667,SYNTHETIC
+common_energy_cases,home_district_answer,Galle,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Gampaha,False,16,60,0.26666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Hambantota,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Jaffna,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,home_district_answer,Kalutara,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Kandy,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,home_district_answer,Kegalle,False,3,60,0.05,SYNTHETIC
+common_energy_cases,home_district_answer,Kurunegala,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Mannar,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,home_district_answer,Matara,False,3,60,0.05,SYNTHETIC
+common_energy_cases,home_district_answer,Monaragala,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Mullaitivu,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Nuwara Eliya,False,3,60,0.05,SYNTHETIC
+common_energy_cases,home_district_answer,Polonnaruwa,False,3,60,0.05,SYNTHETIC
+common_energy_cases,home_district_answer,Puttalam,False,3,60,0.05,SYNTHETIC
+common_energy_cases,home_district_answer,Ratnapura,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,home_district_answer,Trincomalee,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,away_geography_answer,Both within and outside my home district,False,17,60,0.2833333333333333,SYNTHETIC
+common_energy_cases,away_geography_answer,I do not charge away from home,False,14,60,0.23333333333333334,SYNTHETIC
+common_energy_cases,away_geography_answer,I do not know,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,away_geography_answer,It varies a lot,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,away_geography_answer,Mostly outside my home district,False,6,60,0.1,SYNTHETIC
+common_energy_cases,away_geography_answer,Mostly within my home district,False,21,60,0.35,SYNTHETIC
+common_energy_cases,outside_district_answer,Ampara,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Batticaloa,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Galle,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Gampaha,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Kandy,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,outside_district_answer,Kilinochchi,False,3,60,0.05,SYNTHETIC
+common_energy_cases,outside_district_answer,Kurunegala,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Mannar,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Matale,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Monaragala,False,2,60,0.03333333333333333,SYNTHETIC
+common_energy_cases,outside_district_answer,Mullaitivu,False,6,60,0.1,SYNTHETIC
+common_energy_cases,outside_district_answer,Not applicable,False,37,60,0.6166666666666667,SYNTHETIC
+common_energy_cases,outside_district_answer,Polonnaruwa,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Puttalam,False,1,60,0.016666666666666666,SYNTHETIC
+common_energy_cases,outside_district_answer,Ratnapura,False,1,60,0.016666666666666666,SYNTHETIC
+common_Car_profiles,home_district_answer,Ampara,False,2,32,0.0625,SYNTHETIC
+common_Car_profiles,home_district_answer,Anuradhapura,False,2,32,0.0625,SYNTHETIC
+common_Car_profiles,home_district_answer,Batticaloa,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Colombo,False,5,32,0.15625,SYNTHETIC
+common_Car_profiles,home_district_answer,Gampaha,False,7,32,0.21875,SYNTHETIC
+common_Car_profiles,home_district_answer,Hambantota,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Jaffna,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Kalutara,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Kandy,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Kegalle,False,2,32,0.0625,SYNTHETIC
+common_Car_profiles,home_district_answer,Kurunegala,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Matara,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Mullaitivu,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,home_district_answer,Nuwara Eliya,False,2,32,0.0625,SYNTHETIC
+common_Car_profiles,home_district_answer,Polonnaruwa,False,3,32,0.09375,SYNTHETIC
+common_Car_profiles,home_district_answer,Puttalam,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,away_geography_answer,Both within and outside my home district,False,10,32,0.3125,SYNTHETIC
+common_Car_profiles,away_geography_answer,I do not charge away from home,False,3,32,0.09375,SYNTHETIC
+common_Car_profiles,away_geography_answer,Mostly outside my home district,False,3,32,0.09375,SYNTHETIC
+common_Car_profiles,away_geography_answer,Mostly within my home district,False,16,32,0.5,SYNTHETIC
+common_Car_profiles,outside_district_answer,Kilinochchi,False,3,32,0.09375,SYNTHETIC
+common_Car_profiles,outside_district_answer,Kurunegala,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,outside_district_answer,Mannar,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,outside_district_answer,Monaragala,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,outside_district_answer,Mullaitivu,False,5,32,0.15625,SYNTHETIC
+common_Car_profiles,outside_district_answer,Not applicable,False,19,32,0.59375,SYNTHETIC
+common_Car_profiles,outside_district_answer,Polonnaruwa,False,1,32,0.03125,SYNTHETIC
+common_Car_profiles,outside_district_answer,Puttalam,False,1,32,0.03125,SYNTHETIC
+open_upper_extension,home_district_answer,Anuradhapura,False,1,6,0.16666666666666666,SYNTHETIC
+open_upper_extension,home_district_answer,Colombo,False,3,6,0.5,SYNTHETIC
+open_upper_extension,home_district_answer,Monaragala,False,2,6,0.3333333333333333,SYNTHETIC
+open_upper_extension,away_geography_answer,Both within and outside my home district,False,1,6,0.16666666666666666,SYNTHETIC
+open_upper_extension,away_geography_answer,I do not charge away from home,False,2,6,0.3333333333333333,SYNTHETIC
+open_upper_extension,away_geography_answer,It varies a lot,False,1,6,0.16666666666666666,SYNTHETIC
+open_upper_extension,away_geography_answer,Mostly within my home district,False,2,6,0.3333333333333333,SYNTHETIC
+open_upper_extension,outside_district_answer,Galle,False,1,6,0.16666666666666666,SYNTHETIC
+open_upper_extension,outside_district_answer,Not applicable,False,5,6,0.8333333333333334,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Ampara,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Anuradhapura,False,4,104,0.038461538461538464,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Badulla,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Batticaloa,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Colombo,False,16,104,0.15384615384615385,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Galle,False,7,104,0.0673076923076923,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Gampaha,False,15,104,0.14423076923076922,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Hambantota,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Jaffna,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Kalutara,False,7,104,0.0673076923076923,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Kandy,False,8,104,0.07692307692307693,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Kegalle,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Kilinochchi,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Kurunegala,False,6,104,0.057692307692307696,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Matale,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Matara,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Monaragala,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Mullaitivu,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Nuwara Eliya,False,5,104,0.04807692307692308,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Polonnaruwa,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Puttalam,False,4,104,0.038461538461538464,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Ratnapura,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Trincomalee,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,home_district_answer,Vavuniya,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,away_geography_answer,Both within and outside my home district,False,24,104,0.23076923076923078,SYNTHETIC
+outside_screened_cohorts,away_geography_answer,I do not charge away from home,False,15,104,0.14423076923076922,SYNTHETIC
+outside_screened_cohorts,away_geography_answer,I do not know,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,away_geography_answer,It varies a lot,False,12,104,0.11538461538461539,SYNTHETIC
+outside_screened_cohorts,away_geography_answer,Mostly outside my home district,False,15,104,0.14423076923076922,SYNTHETIC
+outside_screened_cohorts,away_geography_answer,Mostly within my home district,False,37,104,0.3557692307692308,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Ampara,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Anuradhapura,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Badulla,False,3,104,0.028846153846153848,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Colombo,False,4,104,0.038461538461538464,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Galle,False,4,104,0.038461538461538464,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Gampaha,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Jaffna,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Kalutara,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Kandy,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Kegalle,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Kilinochchi,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Kurunegala,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Mannar,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Matale,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Matara,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Monaragala,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Mullaitivu,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Not applicable,False,65,104,0.625,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Nuwara Eliya,False,1,104,0.009615384615384616,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Polonnaruwa,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Puttalam,False,2,104,0.019230769230769232,SYNTHETIC
+outside_screened_cohorts,outside_district_answer,Trincomalee,False,2,104,0.019230769230769232,SYNTHETIC

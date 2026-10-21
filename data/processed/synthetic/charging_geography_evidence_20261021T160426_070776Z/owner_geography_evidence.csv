@@ -1,0 +1,171 @@
+owner_id,data_origin,vehicle_class,screened_cohort,in_saved_Car_profiles,home_district_answer,away_geography_answer,outside_district_answer,home_district_id,home_match_status,named_outside_district_id,outside_match_status,named_outside_equals_home,source_sheet,source_row
+SYN-SUR-001,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,2
+SYN-SUR-002,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Kandy,I do not charge away from home,Not applicable,DCS-21,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,3
+SYN-SUR-003,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Matale,Mostly outside my home district,Puttalam,DCS-22,canonical_name_match,DCS-62,canonical_name_match,False,Synthetic responses,4
+SYN-SUR-004,SYNTHETIC,Car,common_energy_cases,True,Mullaitivu,I do not charge away from home,Not applicable,DCS-44,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,5
+SYN-SUR-005,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Vavuniya,Both within and outside my home district,Monaragala,DCS-43,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,6
+SYN-SUR-006,SYNTHETIC,Car,common_energy_cases,True,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,7
+SYN-SUR-007,SYNTHETIC,Three-wheeler,common_energy_cases,False,Gampaha,It varies a lot,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,8
+SYN-SUR-008,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Gampaha,Both within and outside my home district,Badulla,DCS-12,canonical_name_match,DCS-81,canonical_name_match,False,Synthetic responses,9
+SYN-SUR-009,SYNTHETIC,Car,common_energy_cases,True,Polonnaruwa,I do not charge away from home,Not applicable,DCS-72,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,10
+SYN-SUR-010,SYNTHETIC,Car,outside_screened_cohorts,False,Anuradhapura,Mostly within my home district,Not applicable,DCS-71,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,11
+SYN-SUR-011,SYNTHETIC,SUV / crossover,common_energy_cases,False,Trincomalee,I do not know,Not applicable,DCS-53,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,12
+SYN-SUR-012,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Kurunegala,Mostly within my home district,Not applicable,DCS-61,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,13
+SYN-SUR-013,SYNTHETIC,Car,open_upper_extension,False,Anuradhapura,It varies a lot,Not applicable,DCS-71,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,14
+SYN-SUR-014,SYNTHETIC,Car,outside_screened_cohorts,False,Matale,Mostly within my home district,Not applicable,DCS-22,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,15
+SYN-SUR-015,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Kandy,I do not charge away from home,Not applicable,DCS-21,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,16
+SYN-SUR-016,SYNTHETIC,Car,outside_screened_cohorts,False,Nuwara Eliya,It varies a lot,Not applicable,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,17
+SYN-SUR-017,SYNTHETIC,Car,outside_screened_cohorts,False,Badulla,Mostly within my home district,Not applicable,DCS-81,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,18
+SYN-SUR-018,SYNTHETIC,SUV / crossover,common_energy_cases,False,Nuwara Eliya,I do not charge away from home,Not applicable,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,19
+SYN-SUR-019,SYNTHETIC,Car,outside_screened_cohorts,False,Galle,Both within and outside my home district,Polonnaruwa,DCS-31,canonical_name_match,DCS-72,canonical_name_match,False,Synthetic responses,20
+SYN-SUR-020,SYNTHETIC,Car,common_energy_cases,True,Puttalam,Mostly within my home district,Not applicable,DCS-62,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,21
+SYN-SUR-021,SYNTHETIC,SUV / crossover,common_energy_cases,False,Gampaha,Mostly outside my home district,Mullaitivu,DCS-12,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,22
+SYN-SUR-022,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Matara,It varies a lot,Not applicable,DCS-32,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,23
+SYN-SUR-023,SYNTHETIC,Car,common_energy_cases,True,Kalutara,Mostly within my home district,Not applicable,DCS-13,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,24
+SYN-SUR-024,SYNTHETIC,Car,outside_screened_cohorts,False,Puttalam,Mostly outside my home district,Colombo,DCS-62,canonical_name_match,DCS-11,canonical_name_match,False,Synthetic responses,25
+SYN-SUR-025,SYNTHETIC,Car,outside_screened_cohorts,False,Kalutara,I do not charge away from home,Not applicable,DCS-13,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,26
+SYN-SUR-026,SYNTHETIC,Car,common_energy_cases,True,Kurunegala,Both within and outside my home district,Mullaitivu,DCS-61,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,27
+SYN-SUR-027,SYNTHETIC,Car,common_energy_cases,True,Gampaha,Both within and outside my home district,Polonnaruwa,DCS-12,canonical_name_match,DCS-72,canonical_name_match,False,Synthetic responses,28
+SYN-SUR-028,SYNTHETIC,SUV / crossover,common_energy_cases,False,Matara,I do not charge away from home,Not applicable,DCS-32,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,29
+SYN-SUR-029,SYNTHETIC,Three-wheeler,outside_screened_cohorts,False,Ratnapura,Mostly within my home district,Not applicable,DCS-91,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,30
+SYN-SUR-030,SYNTHETIC,Van,outside_screened_cohorts,False,Gampaha,I do not know,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,31
+SYN-SUR-031,SYNTHETIC,Other,outside_screened_cohorts,False,Gampaha,Mostly outside my home district,Trincomalee,DCS-12,canonical_name_match,DCS-53,canonical_name_match,False,Synthetic responses,32
+SYN-SUR-032,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Kurunegala,It varies a lot,Not applicable,DCS-61,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,33
+SYN-SUR-033,SYNTHETIC,Car,outside_screened_cohorts,False,Jaffna,Mostly outside my home district,Kurunegala,DCS-41,canonical_name_match,DCS-61,canonical_name_match,False,Synthetic responses,34
+SYN-SUR-034,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Nuwara Eliya,I do not charge away from home,Not applicable,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,35
+SYN-SUR-035,SYNTHETIC,Car,common_energy_cases,True,Colombo,Mostly outside my home district,Kilinochchi,DCS-11,canonical_name_match,DCS-45,canonical_name_match,False,Synthetic responses,36
+SYN-SUR-036,SYNTHETIC,Car,common_energy_cases,True,Anuradhapura,Both within and outside my home district,Kilinochchi,DCS-71,canonical_name_match,DCS-45,canonical_name_match,False,Synthetic responses,37
+SYN-SUR-037,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Badulla,Both within and outside my home district,Kalutara,DCS-81,canonical_name_match,DCS-13,canonical_name_match,False,Synthetic responses,38
+SYN-SUR-038,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Colombo,I do not charge away from home,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,39
+SYN-SUR-039,SYNTHETIC,Car,common_energy_cases,True,Kandy,Mostly within my home district,Not applicable,DCS-21,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,40
+SYN-SUR-040,SYNTHETIC,Car,common_energy_cases,True,Kegalle,Both within and outside my home district,Puttalam,DCS-92,canonical_name_match,DCS-62,canonical_name_match,False,Synthetic responses,41
+SYN-SUR-041,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Gampaha,Mostly outside my home district,Galle,DCS-12,canonical_name_match,DCS-31,canonical_name_match,False,Synthetic responses,42
+SYN-SUR-042,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Galle,It varies a lot,Not applicable,DCS-31,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,43
+SYN-SUR-043,SYNTHETIC,Motorcycle / scooter,common_energy_cases,False,Gampaha,Both within and outside my home district,Ampara,DCS-12,canonical_name_match,DCS-52,canonical_name_match,False,Synthetic responses,44
+SYN-SUR-044,SYNTHETIC,SUV / crossover,open_upper_extension,False,Colombo,I do not charge away from home,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,45
+SYN-SUR-045,SYNTHETIC,Car,common_energy_cases,True,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,46
+SYN-SUR-046,SYNTHETIC,Car,outside_screened_cohorts,False,Matara,It varies a lot,Not applicable,DCS-32,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,47
+SYN-SUR-047,SYNTHETIC,Car,common_energy_cases,True,Colombo,Mostly outside my home district,Mullaitivu,DCS-11,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,48
+SYN-SUR-048,SYNTHETIC,Car,common_energy_cases,True,Jaffna,Mostly within my home district,Not applicable,DCS-41,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,49
+SYN-SUR-049,SYNTHETIC,Car,outside_screened_cohorts,False,Gampaha,Mostly outside my home district,Kilinochchi,DCS-12,canonical_name_match,DCS-45,canonical_name_match,False,Synthetic responses,50
+SYN-SUR-050,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,51
+SYN-SUR-051,SYNTHETIC,Car,common_energy_cases,True,Polonnaruwa,Mostly within my home district,Not applicable,DCS-72,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,52
+SYN-SUR-052,SYNTHETIC,Car,outside_screened_cohorts,False,Gampaha,I do not charge away from home,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,53
+SYN-SUR-053,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Colombo,Both within and outside my home district,Polonnaruwa,DCS-11,canonical_name_match,DCS-72,canonical_name_match,False,Synthetic responses,54
+SYN-SUR-054,SYNTHETIC,SUV / crossover,common_energy_cases,False,Monaragala,I do not charge away from home,Not applicable,,unmatched_for_review,,unmatched_text_for_review,,Synthetic responses,55
+SYN-SUR-055,SYNTHETIC,Car,common_energy_cases,True,Gampaha,Both within and outside my home district,Mullaitivu,DCS-12,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,56
+SYN-SUR-056,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,It varies a lot,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,57
+SYN-SUR-057,SYNTHETIC,Car,outside_screened_cohorts,False,Kandy,Mostly within my home district,Not applicable,DCS-21,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,58
+SYN-SUR-058,SYNTHETIC,Three-wheeler,common_energy_cases,False,Kandy,I do not charge away from home,Not applicable,DCS-21,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,59
+SYN-SUR-059,SYNTHETIC,Car,outside_screened_cohorts,False,Gampaha,Both within and outside my home district,Colombo,DCS-12,canonical_name_match,DCS-11,canonical_name_match,False,Synthetic responses,60
+SYN-SUR-060,SYNTHETIC,Car,outside_screened_cohorts,False,Kurunegala,I do not charge away from home,Not applicable,DCS-61,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,61
+SYN-SUR-061,SYNTHETIC,Car,outside_screened_cohorts,False,Galle,Mostly outside my home district,Puttalam,DCS-31,canonical_name_match,DCS-62,canonical_name_match,False,Synthetic responses,62
+SYN-SUR-062,SYNTHETIC,Car,outside_screened_cohorts,False,Kegalle,Mostly within my home district,Not applicable,DCS-92,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,63
+SYN-SUR-063,SYNTHETIC,Car,outside_screened_cohorts,False,Kilinochchi,It varies a lot,Not applicable,DCS-45,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,64
+SYN-SUR-064,SYNTHETIC,Car,outside_screened_cohorts,False,Batticaloa,Both within and outside my home district,Matara,DCS-51,canonical_name_match,DCS-32,canonical_name_match,False,Synthetic responses,65
+SYN-SUR-065,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Gampaha,Both within and outside my home district,Badulla,DCS-12,canonical_name_match,DCS-81,canonical_name_match,False,Synthetic responses,66
+SYN-SUR-066,SYNTHETIC,Three-wheeler,common_energy_cases,False,Trincomalee,Mostly within my home district,Not applicable,DCS-53,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,67
+SYN-SUR-067,SYNTHETIC,Car,outside_screened_cohorts,False,Anuradhapura,Mostly within my home district,Not applicable,DCS-71,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,68
+SYN-SUR-068,SYNTHETIC,Van,open_upper_extension,False,Monaragala,I do not charge away from home,Not applicable,,unmatched_for_review,,unmatched_text_for_review,,Synthetic responses,69
+SYN-SUR-069,SYNTHETIC,Car,outside_screened_cohorts,False,Vavuniya,Mostly within my home district,Not applicable,DCS-43,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,70
+SYN-SUR-070,SYNTHETIC,Car,outside_screened_cohorts,False,Anuradhapura,Mostly within my home district,Not applicable,DCS-71,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,71
+SYN-SUR-071,SYNTHETIC,SUV / crossover,common_energy_cases,False,Matara,Both within and outside my home district,Kandy,DCS-32,canonical_name_match,DCS-21,canonical_name_match,False,Synthetic responses,72
+SYN-SUR-072,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,73
+SYN-SUR-073,SYNTHETIC,Car,common_energy_cases,True,Polonnaruwa,I do not charge away from home,Not applicable,DCS-72,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,74
+SYN-SUR-074,SYNTHETIC,Car,common_energy_cases,True,Batticaloa,Both within and outside my home district,Mullaitivu,DCS-51,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,75
+SYN-SUR-075,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Puttalam,Mostly within my home district,Not applicable,DCS-62,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,76
+SYN-SUR-076,SYNTHETIC,SUV / crossover,common_energy_cases,False,Mannar,Both within and outside my home district,Monaragala,DCS-42,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,77
+SYN-SUR-077,SYNTHETIC,Car,common_energy_cases,True,Anuradhapura,Mostly outside my home district,Kurunegala,DCS-71,canonical_name_match,DCS-61,canonical_name_match,False,Synthetic responses,78
+SYN-SUR-078,SYNTHETIC,Car,outside_screened_cohorts,False,Galle,I do not charge away from home,Not applicable,DCS-31,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,79
+SYN-SUR-079,SYNTHETIC,Car,common_energy_cases,True,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,80
+SYN-SUR-080,SYNTHETIC,Car,outside_screened_cohorts,False,Kalutara,Both within and outside my home district,Kandy,DCS-13,canonical_name_match,DCS-21,canonical_name_match,False,Synthetic responses,81
+SYN-SUR-081,SYNTHETIC,SUV / crossover,common_energy_cases,False,Ratnapura,Both within and outside my home district,Gampaha,DCS-91,canonical_name_match,DCS-12,canonical_name_match,False,Synthetic responses,82
+SYN-SUR-082,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Matale,I do not charge away from home,Not applicable,DCS-22,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,83
+SYN-SUR-083,SYNTHETIC,Van,outside_screened_cohorts,False,Nuwara Eliya,Mostly within my home district,Not applicable,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,84
+SYN-SUR-084,SYNTHETIC,Van,outside_screened_cohorts,False,Ratnapura,Both within and outside my home district,Galle,DCS-91,canonical_name_match,DCS-31,canonical_name_match,False,Synthetic responses,85
+SYN-SUR-085,SYNTHETIC,Three-wheeler,outside_screened_cohorts,False,Badulla,Both within and outside my home district,Ampara,DCS-81,canonical_name_match,DCS-52,canonical_name_match,False,Synthetic responses,86
+SYN-SUR-086,SYNTHETIC,Car,outside_screened_cohorts,False,Galle,Mostly within my home district,Not applicable,DCS-31,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,87
+SYN-SUR-087,SYNTHETIC,SUV / crossover,common_energy_cases,False,Badulla,I do not charge away from home,Not applicable,DCS-81,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,88
+SYN-SUR-088,SYNTHETIC,Car,common_energy_cases,True,Matara,Mostly within my home district,Not applicable,DCS-32,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,89
+SYN-SUR-089,SYNTHETIC,SUV / crossover,common_energy_cases,False,Gampaha,Both within and outside my home district,Matale,DCS-12,canonical_name_match,DCS-22,canonical_name_match,False,Synthetic responses,90
+SYN-SUR-090,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Kalutara,Both within and outside my home district,Galle,DCS-13,canonical_name_match,DCS-31,canonical_name_match,False,Synthetic responses,91
+SYN-SUR-091,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Polonnaruwa,Mostly outside my home district,Mannar,DCS-72,canonical_name_match,DCS-42,canonical_name_match,False,Synthetic responses,92
+SYN-SUR-092,SYNTHETIC,Car,outside_screened_cohorts,False,Kurunegala,Both within and outside my home district,Colombo,DCS-61,canonical_name_match,DCS-11,canonical_name_match,False,Synthetic responses,93
+SYN-SUR-093,SYNTHETIC,Car,outside_screened_cohorts,False,Batticaloa,It varies a lot,Not applicable,DCS-51,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,94
+SYN-SUR-094,SYNTHETIC,Motorcycle / scooter,common_energy_cases,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,95
+SYN-SUR-095,SYNTHETIC,Car,outside_screened_cohorts,False,Kurunegala,Mostly within my home district,Not applicable,DCS-61,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,96
+SYN-SUR-096,SYNTHETIC,Car,outside_screened_cohorts,False,Trincomalee,Mostly within my home district,Not applicable,DCS-53,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,97
+SYN-SUR-097,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Kandy,Mostly within my home district,Not applicable,DCS-21,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,98
+SYN-SUR-098,SYNTHETIC,Car,common_energy_cases,True,Ampara,Mostly within my home district,Not applicable,DCS-52,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,99
+SYN-SUR-099,SYNTHETIC,SUV / crossover,common_energy_cases,False,Puttalam,I do not charge away from home,Not applicable,DCS-62,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,100
+SYN-SUR-100,SYNTHETIC,Car,outside_screened_cohorts,False,Puttalam,Mostly within my home district,Not applicable,DCS-62,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,101
+SYN-SUR-101,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Jaffna,Both within and outside my home district,Anuradhapura,DCS-41,canonical_name_match,DCS-71,canonical_name_match,False,Synthetic responses,102
+SYN-SUR-102,SYNTHETIC,Other,common_energy_cases,False,Puttalam,Mostly within my home district,Not applicable,DCS-62,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,103
+SYN-SUR-103,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Polonnaruwa,Mostly within my home district,Not applicable,DCS-72,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,104
+SYN-SUR-104,SYNTHETIC,Car,common_energy_cases,True,Hambantota,Both within and outside my home district,Mannar,DCS-33,canonical_name_match,DCS-42,canonical_name_match,False,Synthetic responses,105
+SYN-SUR-105,SYNTHETIC,Car,outside_screened_cohorts,False,Kalutara,Mostly outside my home district,Mullaitivu,DCS-13,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,106
+SYN-SUR-106,SYNTHETIC,SUV / crossover,common_energy_cases,False,Galle,I do not charge away from home,Not applicable,DCS-31,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,107
+SYN-SUR-107,SYNTHETIC,Car,outside_screened_cohorts,False,Galle,Both within and outside my home district,Ampara,DCS-31,canonical_name_match,DCS-52,canonical_name_match,False,Synthetic responses,108
+SYN-SUR-108,SYNTHETIC,Three-wheeler,common_energy_cases,False,Mannar,Both within and outside my home district,Batticaloa,DCS-42,canonical_name_match,DCS-51,canonical_name_match,False,Synthetic responses,109
+SYN-SUR-109,SYNTHETIC,Car,outside_screened_cohorts,False,Nuwara Eliya,Mostly within my home district,Not applicable,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,110
+SYN-SUR-110,SYNTHETIC,Car,outside_screened_cohorts,False,Gampaha,Mostly outside my home district,Galle,DCS-12,canonical_name_match,DCS-31,canonical_name_match,False,Synthetic responses,111
+SYN-SUR-111,SYNTHETIC,Car,common_energy_cases,True,Ampara,Mostly within my home district,Not applicable,DCS-52,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,112
+SYN-SUR-112,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Hambantota,Mostly within my home district,Not applicable,DCS-33,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,113
+SYN-SUR-113,SYNTHETIC,Car,common_energy_cases,True,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,114
+SYN-SUR-114,SYNTHETIC,Car,outside_screened_cohorts,False,Kegalle,Mostly within my home district,Not applicable,DCS-92,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,115
+SYN-SUR-115,SYNTHETIC,SUV / crossover,common_energy_cases,False,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,116
+SYN-SUR-116,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Gampaha,I do not charge away from home,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,117
+SYN-SUR-117,SYNTHETIC,Car,outside_screened_cohorts,False,Gampaha,I do not charge away from home,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,118
+SYN-SUR-118,SYNTHETIC,Van,outside_screened_cohorts,False,Kalutara,Mostly within my home district,Not applicable,DCS-13,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,119
+SYN-SUR-119,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Galle,I do not charge away from home,Not applicable,DCS-31,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,120
+SYN-SUR-120,SYNTHETIC,Car,common_energy_cases,True,Colombo,Both within and outside my home district,Kilinochchi,DCS-11,canonical_name_match,DCS-45,canonical_name_match,False,Synthetic responses,121
+SYN-SUR-121,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Gampaha,Both within and outside my home district,Matale,DCS-12,canonical_name_match,DCS-22,canonical_name_match,False,Synthetic responses,122
+SYN-SUR-122,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Monaragala,Mostly within my home district,Not applicable,,unmatched_for_review,,unmatched_text_for_review,,Synthetic responses,123
+SYN-SUR-123,SYNTHETIC,Three-wheeler,common_energy_cases,False,Gampaha,I do not charge away from home,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,124
+SYN-SUR-124,SYNTHETIC,Car,outside_screened_cohorts,False,Ampara,Mostly within my home district,Not applicable,DCS-52,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,125
+SYN-SUR-125,SYNTHETIC,Car,common_energy_cases,True,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,126
+SYN-SUR-126,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,127
+SYN-SUR-127,SYNTHETIC,Car,common_energy_cases,True,Kegalle,Both within and outside my home district,Mullaitivu,DCS-92,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,128
+SYN-SUR-128,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,It varies a lot,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,129
+SYN-SUR-129,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,Mostly outside my home district,Trincomalee,DCS-11,canonical_name_match,DCS-53,canonical_name_match,False,Synthetic responses,130
+SYN-SUR-130,SYNTHETIC,SUV / crossover,common_energy_cases,False,Kegalle,Mostly outside my home district,Ratnapura,DCS-92,canonical_name_match,DCS-91,canonical_name_match,False,Synthetic responses,131
+SYN-SUR-131,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,132
+SYN-SUR-132,SYNTHETIC,Car,outside_screened_cohorts,False,Anuradhapura,Mostly within my home district,Not applicable,DCS-71,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,133
+SYN-SUR-133,SYNTHETIC,Car,common_energy_cases,True,Nuwara Eliya,Mostly within my home district,Not applicable,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,134
+SYN-SUR-134,SYNTHETIC,SUV / crossover,open_upper_extension,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,135
+SYN-SUR-135,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,136
+SYN-SUR-136,SYNTHETIC,Car,outside_screened_cohorts,False,Jaffna,Mostly within my home district,Not applicable,DCS-41,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,137
+SYN-SUR-137,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,It varies a lot,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,138
+SYN-SUR-138,SYNTHETIC,Car,outside_screened_cohorts,False,Kandy,Both within and outside my home district,Jaffna,DCS-21,canonical_name_match,DCS-41,canonical_name_match,False,Synthetic responses,139
+SYN-SUR-139,SYNTHETIC,Car,outside_screened_cohorts,False,Vavuniya,Mostly outside my home district,Colombo,DCS-43,canonical_name_match,DCS-11,canonical_name_match,False,Synthetic responses,140
+SYN-SUR-140,SYNTHETIC,Car,common_energy_cases,True,Nuwara Eliya,Mostly within my home district,Not applicable,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,141
+SYN-SUR-141,SYNTHETIC,Car,outside_screened_cohorts,False,Kandy,Both within and outside my home district,Kegalle,DCS-21,canonical_name_match,DCS-92,canonical_name_match,False,Synthetic responses,142
+SYN-SUR-142,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Colombo,I do not charge away from home,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,143
+SYN-SUR-143,SYNTHETIC,Car,outside_screened_cohorts,False,Puttalam,Mostly within my home district,Not applicable,DCS-62,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,144
+SYN-SUR-144,SYNTHETIC,SUV / crossover,common_energy_cases,False,Gampaha,Mostly outside my home district,Galle,DCS-12,canonical_name_match,DCS-31,canonical_name_match,False,Synthetic responses,145
+SYN-SUR-145,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Colombo,It varies a lot,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,146
+SYN-SUR-146,SYNTHETIC,Car,outside_screened_cohorts,False,Kandy,Mostly outside my home district,Gampaha,DCS-21,canonical_name_match,DCS-12,canonical_name_match,False,Synthetic responses,147
+SYN-SUR-147,SYNTHETIC,Car,outside_screened_cohorts,False,Kegalle,Mostly within my home district,Not applicable,DCS-92,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,148
+SYN-SUR-148,SYNTHETIC,Car,outside_screened_cohorts,False,Kalutara,Both within and outside my home district,Nuwara Eliya,DCS-13,canonical_name_match,DCS-23,canonical_name_match,False,Synthetic responses,149
+SYN-SUR-149,SYNTHETIC,SUV / crossover,open_upper_extension,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,150
+SYN-SUR-150,SYNTHETIC,Car,outside_screened_cohorts,False,Ratnapura,Both within and outside my home district,Matale,DCS-91,canonical_name_match,DCS-22,canonical_name_match,False,Synthetic responses,151
+SYN-SUR-151,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Kandy,Mostly within my home district,Not applicable,DCS-21,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,152
+SYN-SUR-152,SYNTHETIC,Car,outside_screened_cohorts,False,Matara,I do not charge away from home,Not applicable,DCS-32,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,153
+SYN-SUR-153,SYNTHETIC,Car,outside_screened_cohorts,False,Kurunegala,Both within and outside my home district,Mullaitivu,DCS-61,canonical_name_match,DCS-44,canonical_name_match,False,Synthetic responses,154
+SYN-SUR-154,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,I do not charge away from home,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,155
+SYN-SUR-155,SYNTHETIC,Car,outside_screened_cohorts,False,Colombo,It varies a lot,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,156
+SYN-SUR-156,SYNTHETIC,Motorcycle / scooter,outside_screened_cohorts,False,Colombo,Mostly within my home district,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,157
+SYN-SUR-157,SYNTHETIC,Car,outside_screened_cohorts,False,Nuwara Eliya,Mostly outside my home district,Monaragala,DCS-23,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,158
+SYN-SUR-158,SYNTHETIC,Car,common_energy_cases,True,Gampaha,Both within and outside my home district,Monaragala,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,159
+SYN-SUR-159,SYNTHETIC,Car,common_energy_cases,True,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,160
+SYN-SUR-160,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Kilinochchi,Both within and outside my home district,Kurunegala,DCS-45,canonical_name_match,DCS-61,canonical_name_match,False,Synthetic responses,161
+SYN-SUR-161,SYNTHETIC,Motorcycle / scooter,common_energy_cases,False,Colombo,I do not charge away from home,Not applicable,DCS-11,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,162
+SYN-SUR-162,SYNTHETIC,Motorcycle / scooter,common_energy_cases,False,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,163
+SYN-SUR-163,SYNTHETIC,SUV / crossover,outside_screened_cohorts,False,Colombo,Both within and outside my home district,Anuradhapura,DCS-11,canonical_name_match,DCS-71,canonical_name_match,False,Synthetic responses,164
+SYN-SUR-164,SYNTHETIC,Car,outside_screened_cohorts,False,Gampaha,Mostly within my home district,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,165
+SYN-SUR-165,SYNTHETIC,Car,outside_screened_cohorts,False,Mullaitivu,Both within and outside my home district,Ampara,DCS-44,canonical_name_match,DCS-52,canonical_name_match,False,Synthetic responses,166
+SYN-SUR-166,SYNTHETIC,SUV / crossover,common_energy_cases,False,Batticaloa,I do not charge away from home,Not applicable,DCS-51,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,167
+SYN-SUR-167,SYNTHETIC,Van,open_upper_extension,False,Monaragala,Both within and outside my home district,Galle,,unmatched_for_review,DCS-31,canonical_name_match,,Synthetic responses,168
+SYN-SUR-168,SYNTHETIC,Car,outside_screened_cohorts,False,Kalutara,Mostly outside my home district,Badulla,DCS-13,canonical_name_match,DCS-81,canonical_name_match,False,Synthetic responses,169
+SYN-SUR-169,SYNTHETIC,SUV / crossover,common_energy_cases,False,Jaffna,Both within and outside my home district,Kandy,DCS-41,canonical_name_match,DCS-21,canonical_name_match,False,Synthetic responses,170
+SYN-SUR-170,SYNTHETIC,SUV / crossover,common_energy_cases,False,Gampaha,I do not charge away from home,Not applicable,DCS-12,canonical_name_match,,unmatched_text_for_review,,Synthetic responses,171
