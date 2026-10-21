@@ -1,0 +1,61 @@
+owner_id,vehicle_class,owner_replicate_selections,cohort,energy_case,power_scenario,output_origin,behaviour_input_origin
+SYN-SUR-004,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-006,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-007,Three-wheeler,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-009,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-011,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-018,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-020,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-021,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-023,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-026,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-027,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-028,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-035,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-036,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-039,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-040,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-043,Motorcycle / scooter,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-045,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-047,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-048,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-051,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-054,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-055,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-058,Three-wheeler,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-066,Three-wheeler,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-071,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-073,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-074,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-076,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-077,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-079,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-081,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-087,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-088,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-089,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-094,Motorcycle / scooter,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-098,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-099,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-102,Other,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-104,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-106,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-108,Three-wheeler,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-111,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-113,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-115,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-120,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-123,Three-wheeler,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-125,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-127,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-130,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-133,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-140,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-144,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-158,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-159,Car,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-161,Motorcycle / scooter,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-162,Motorcycle / scooter,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-166,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-169,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SYN-SUR-170,SUV / crossover,10,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC

@@ -1,0 +1,26 @@
+vehicle_class,selected_owners,context,n_replicates,control_mean_daily_energy_kwh,availability_mean_daily_energy_kwh,availability_minus_control_kwh_per_day,paired_difference_mcse_kwh_per_day,cohort,energy_case,power_scenario,output_origin,behaviour_input_origin
+Car,32,T1,10,144.9935536610237,184.7371178340012,39.74356417297751,5.1336035466145065,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,T2,10,284.5582737932065,396.26154239534765,111.7032686021411,5.527594977033404,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,T3,10,19.0320722671249,26.28747384511378,7.255401577988883,1.8961827652080903,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,T4,10,37.66927401928552,36.22180402391354,-1.4474699953719725,3.5672159103050998,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,TOTAL,10,486.2531737406401,643.5079380983768,157.25476435773678,8.301241388198926,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T1,10,1.0898505703293597,1.0153823521107432,-0.07446821821861649,0.1703783660499294,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T2,10,1.5029629851681532,1.5134799269839898,0.010516941815836466,0.1494846179194859,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,TOTAL,10,2.5928135554975134,2.5288622790947333,-0.06395127640278006,0.16913100460746905,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T1,10,0.3857943599327258,0.5048770369796635,0.11908267704693763,0.11165633894555807,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T2,10,1.9450958742694964,2.2066364460561294,0.2615405717866331,0.23965844686287688,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,TOTAL,10,2.330890234202222,2.7115134830357928,0.38062324883357074,0.2374094256828675,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T1,10,31.46948401330203,39.357946254056806,7.888462240754778,1.9523737195247228,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T2,10,189.89170520133823,275.9374450107237,86.04573980938548,4.955299921413106,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T3,10,16.197909295766962,17.953966643965042,1.7560573481980786,2.2911367087674677,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T4,10,23.653181370569072,23.756987705819864,0.10380633525079172,1.4623445829735569,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,TOTAL,10,261.2122798809763,357.0063456145652,95.7940657335889,4.880391756741031,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T1,10,8.21347820083312,9.506622868856255,1.2931446680231349,0.7998739903521228,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T2,10,8.50740872312937,10.024508498464554,1.517099775335184,0.7020101695558454,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T3,10,1.3907802285515094,1.2478335382424377,-0.1429466903090718,0.305210060712527,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,TOTAL,10,18.11166715251399,20.77896490556324,2.6672977530492457,0.9756213759945435,common_energy_cases,bounded_uniform_test,reduced_test,SIMULATED,SYNTHETIC

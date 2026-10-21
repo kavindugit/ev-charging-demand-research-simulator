@@ -1,0 +1,601 @@
+replicate,owner_id,vehicle_class,parameter_draw,exceeds_reported_battery_upper,calibration_status,verification_relative_error_percent,verification_within_development_band,cohort,energy_case,power_scenario,output_origin,behaviour_input_origin
+1,SYN-SUR-004,Car,42,False,proxy_target_matched,-0.6122107345037819,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-006,Car,84,,proxy_target_matched,-0.8736688719680474,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-007,Three-wheeler,47,False,proxy_target_matched,1.7053550134446427,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-009,Car,100,,proxy_target_matched,-1.9466633577357562,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-011,SUV / crossover,81,False,proxy_target_matched,0.9520909100515063,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-018,SUV / crossover,73,,proxy_target_matched,-0.6586769005758941,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-020,Car,81,False,proxy_target_matched,0.5288025441297695,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-021,SUV / crossover,97,,proxy_target_matched,-0.3476367457797558,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-023,Car,28,False,proxy_target_matched,-1.6300198625843532,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-026,Car,43,False,proxy_target_matched,1.0498348148146652,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-027,Car,21,False,proxy_target_matched,0.22127292251770125,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-028,SUV / crossover,52,False,proxy_target_matched,-3.5913166027750076,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-035,Car,49,False,proxy_target_matched,-0.2643368485380382,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-036,Car,87,False,proxy_target_matched,-1.358192261841562,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-039,Car,11,,proxy_target_matched,-0.046332996250253444,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-040,Car,19,,proxy_target_matched,1.039244851385046,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-043,Motorcycle / scooter,46,False,proxy_target_matched,-0.9851362991189605,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-045,Car,15,,proxy_target_matched,0.1066434675177419,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-047,Car,86,False,proxy_target_matched,2.5188051886317675,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-048,Car,29,False,proxy_target_matched,0.5671258132786683,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-051,Car,5,False,proxy_target_matched,1.7764004004721112,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-054,SUV / crossover,93,False,proxy_target_matched,-0.30664516981324663,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-055,Car,30,,proxy_target_matched,0.3449846057880013,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-058,Three-wheeler,67,False,proxy_target_matched,2.6730966399043377,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-066,Three-wheeler,10,False,proxy_target_matched,0.06486645035173044,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-071,SUV / crossover,76,False,proxy_target_matched,0.6525657681393904,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-073,Car,47,False,zero_idle_proxy_below_target_review,-2.416287578573839,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-074,Car,70,False,proxy_target_matched,0.5778196722403983,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-076,SUV / crossover,31,False,proxy_target_matched,-1.7613281180914986,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-077,Car,80,False,proxy_target_matched,2.865476123922539,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-079,Car,93,False,proxy_target_matched,-1.2151416628423894,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-081,SUV / crossover,66,,proxy_target_matched,1.1867359952525414,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-087,SUV / crossover,90,False,proxy_target_matched,0.31512433688063446,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-088,Car,56,False,proxy_target_matched,-1.0662458654852491,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-089,SUV / crossover,6,False,proxy_target_matched,1.6001383339332431,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-094,Motorcycle / scooter,88,False,proxy_target_matched,1.5065770763777353,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-098,Car,6,False,proxy_target_matched,-0.9693531281290468,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-099,SUV / crossover,55,False,proxy_target_matched,-0.41129617508980365,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-102,Other,41,False,proxy_target_matched,-0.08193744418475424,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-104,Car,86,False,proxy_target_matched,-0.14420993712046526,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-106,SUV / crossover,38,False,proxy_target_matched,-2.7377978667119995,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-108,Three-wheeler,9,False,proxy_target_matched,-0.0034286993783938513,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-111,Car,70,False,proxy_target_matched,0.42772375676036756,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-113,Car,18,False,proxy_target_matched,0.8017899299749942,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-115,SUV / crossover,66,False,proxy_target_matched,-1.4150939310723198,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-120,Car,40,False,proxy_target_matched,-1.9086657409293273,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-123,Three-wheeler,13,False,proxy_target_matched,0.23589777625798725,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-125,Car,62,False,proxy_target_matched,6.010178328591498,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-127,Car,80,False,proxy_target_matched,-1.0823001249361197,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-130,SUV / crossover,17,False,proxy_target_matched,-0.08724940047257768,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-133,Car,59,False,proxy_target_matched,2.6751046458724836,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-140,Car,38,False,proxy_target_matched,0.6349596229324961,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-144,SUV / crossover,96,False,proxy_target_matched,1.4490918275186448,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-158,Car,11,False,proxy_target_matched,0.0364334585970294,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-159,Car,9,False,proxy_target_matched,-1.0170791990224415,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-161,Motorcycle / scooter,72,False,proxy_target_matched,-1.0140164219203274,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-162,Motorcycle / scooter,24,,proxy_target_matched,-0.8474605323079754,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-166,SUV / crossover,52,,proxy_target_matched,0.21087270976662964,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-169,SUV / crossover,65,False,proxy_target_matched,0.16183216626737273,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+1,SYN-SUR-170,SUV / crossover,68,False,proxy_target_matched,-0.1925221955948797,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-004,Car,44,False,proxy_target_matched,-0.21357498265530683,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-006,Car,69,,proxy_target_matched,3.201224731878849,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-007,Three-wheeler,14,False,proxy_target_matched,0.21432644753573982,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-009,Car,66,,proxy_target_matched,-2.498268573834439,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-011,SUV / crossover,10,False,proxy_target_matched,-0.9623064352209498,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-018,SUV / crossover,98,,proxy_target_matched,-0.3234963445607253,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-020,Car,10,False,proxy_target_matched,0.9700845656082757,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-021,SUV / crossover,64,,proxy_target_matched,-0.2582284890462416,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-023,Car,59,False,proxy_target_matched,-0.3809263639181437,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-026,Car,6,False,proxy_target_matched,0.4913652756151299,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-027,Car,1,False,proxy_target_matched,1.0172578662851262,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-028,SUV / crossover,27,False,proxy_target_matched,-1.1870188908582713,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-035,Car,88,False,proxy_target_matched,1.127309324693182,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-036,Car,41,False,proxy_target_matched,-0.8344114264689173,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-039,Car,44,,proxy_target_matched,0.5510485318895864,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-040,Car,7,,proxy_target_matched,0.9564767929750362,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-043,Motorcycle / scooter,8,False,proxy_target_matched,-2.4208396577797164,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-045,Car,82,,proxy_target_matched,1.1917318071798855,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-047,Car,90,False,proxy_target_matched,0.8906959542602122,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-048,Car,51,False,proxy_target_matched,0.4505439454738136,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-051,Car,44,False,proxy_target_matched,0.7666501036407647,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-054,SUV / crossover,1,False,proxy_target_matched,-0.530148335910563,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-055,Car,81,,proxy_target_matched,-0.13444575508827494,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-058,Three-wheeler,34,False,proxy_target_matched,0.5670177757173933,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-066,Three-wheeler,67,False,proxy_target_matched,-0.9381301434573053,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-071,SUV / crossover,73,False,proxy_target_matched,-0.03113870312859701,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-073,Car,42,False,proxy_target_matched,-0.14405577920371115,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-074,Car,52,False,proxy_target_matched,0.4893173507418025,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-076,SUV / crossover,3,False,proxy_target_matched,0.6140162422793471,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-077,Car,72,False,proxy_target_matched,-0.6964257297515708,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-079,Car,40,False,proxy_target_matched,-0.06760207393533557,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-081,SUV / crossover,33,,proxy_target_matched,0.9474256919703716,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-087,SUV / crossover,71,False,proxy_target_matched,-0.46480230023466795,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-088,Car,64,False,proxy_target_matched,-1.163716127594061,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-089,SUV / crossover,17,False,proxy_target_matched,-0.704074294704371,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-094,Motorcycle / scooter,94,False,proxy_target_matched,1.024380309502737,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-098,Car,69,False,proxy_target_matched,-0.2066685604507401,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-099,SUV / crossover,85,False,proxy_target_matched,1.2942841001438943,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-102,Other,93,False,proxy_target_matched,0.012781522442062432,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-104,Car,12,False,proxy_target_matched,-1.2066186377709398,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-106,SUV / crossover,90,False,proxy_target_matched,-2.051030265170972,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-108,Three-wheeler,52,False,proxy_target_matched,-1.0040974704259464,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-111,Car,5,False,proxy_target_matched,0.3575715192682738,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-113,Car,69,False,proxy_target_matched,1.0038810220063255,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-115,SUV / crossover,79,False,proxy_target_matched,-0.45053315830950735,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-120,Car,62,False,proxy_target_matched,-2.735919471501558,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-123,Three-wheeler,58,False,proxy_target_matched,-0.09914097265109056,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-125,Car,68,False,proxy_target_matched,1.9659623905300627,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-127,Car,91,False,proxy_target_matched,1.0011795070700824,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-130,SUV / crossover,59,False,proxy_target_matched,-1.0029458997084295,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-133,Car,41,False,proxy_target_matched,0.8409046866163727,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-140,Car,79,False,proxy_target_matched,0.5682827449734251,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-144,SUV / crossover,99,False,proxy_target_matched,0.7812737332558717,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-158,Car,9,False,proxy_target_matched,0.009621897791523004,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-159,Car,29,False,proxy_target_matched,-3.2757061428359213,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-161,Motorcycle / scooter,38,False,proxy_target_matched,-0.42307472377746125,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-162,Motorcycle / scooter,85,,proxy_target_matched,0.036852590828129195,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-166,SUV / crossover,47,,proxy_target_matched,0.7043530239847717,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-169,SUV / crossover,86,False,proxy_target_matched,0.7911467248564952,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+10,SYN-SUR-170,SUV / crossover,95,False,proxy_target_matched,0.5120937938631442,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-004,Car,20,False,zero_idle_proxy_below_target_review,-10.215259447707547,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-006,Car,62,,proxy_target_matched,0.16052551291629857,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-007,Three-wheeler,71,False,proxy_target_matched,0.3069633594895427,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-009,Car,77,,proxy_target_matched,-1.3396538133230496,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-011,SUV / crossover,100,False,proxy_target_matched,0.09073699681847458,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-018,SUV / crossover,32,,proxy_target_matched,0.4476944459891108,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-020,Car,39,False,proxy_target_matched,-1.8382565730526323,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-021,SUV / crossover,67,,proxy_target_matched,-1.3503573262287571,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-023,Car,52,False,proxy_target_matched,-0.5944433303972319,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-026,Car,7,False,proxy_target_matched,-1.4677665346229385,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-027,Car,97,False,proxy_target_matched,-1.0916104280176309,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-028,SUV / crossover,46,False,proxy_target_matched,-0.6466410228897157,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-035,Car,61,False,proxy_target_matched,0.297191952015341,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-036,Car,48,False,proxy_target_matched,0.47626317659539286,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-039,Car,15,,proxy_target_matched,-1.316790136580659,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-040,Car,11,,proxy_target_matched,1.6413131880379517,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-043,Motorcycle / scooter,61,False,proxy_target_matched,0.4737846676963198,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-045,Car,96,,proxy_target_matched,-0.5237978957546185,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-047,Car,85,False,proxy_target_matched,-1.087872811067403,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-048,Car,29,False,proxy_target_matched,-1.3406668496984242,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-051,Car,47,False,proxy_target_matched,-2.2920192359822233,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-054,SUV / crossover,1,False,proxy_target_matched,-0.3431099840138896,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-055,Car,46,,proxy_target_matched,0.11993110351371516,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-058,Three-wheeler,68,False,proxy_target_matched,-1.0038948405691528,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-066,Three-wheeler,35,False,proxy_target_matched,-0.07257279355248336,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-071,SUV / crossover,98,False,proxy_target_matched,1.9282573347562115,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-073,Car,20,False,proxy_target_matched,0.2756980675203691,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-074,Car,50,False,proxy_target_matched,0.40969061724049904,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-076,SUV / crossover,69,False,proxy_target_matched,-0.3744095004995618,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-077,Car,70,False,proxy_target_matched,0.3367659543864976,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-079,Car,82,False,proxy_target_matched,-2.349261954063997,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-081,SUV / crossover,1,,proxy_target_matched,-0.28600087100703053,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-087,SUV / crossover,57,False,proxy_target_matched,0.10636187073971293,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-088,Car,53,False,proxy_target_matched,0.032799303493513676,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-089,SUV / crossover,38,False,proxy_target_matched,-0.09966342874271339,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-094,Motorcycle / scooter,20,False,proxy_target_matched,-2.6977892285231952,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-098,Car,53,False,proxy_target_matched,-0.854428542595953,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-099,SUV / crossover,82,False,proxy_target_matched,-0.9609651380927953,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-102,Other,56,False,proxy_target_matched,1.9833157764975962,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-104,Car,48,False,proxy_target_matched,0.6819818977709335,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-106,SUV / crossover,64,False,proxy_target_matched,0.8337574696426708,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-108,Three-wheeler,17,False,proxy_target_matched,2.218753325908396,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-111,Car,68,False,proxy_target_matched,0.5057796683289428,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-113,Car,64,False,proxy_target_matched,0.36972619331627765,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-115,SUV / crossover,8,False,proxy_target_matched,0.8327009398623852,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-120,Car,37,False,proxy_target_matched,-0.04021786904042646,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-123,Three-wheeler,67,False,proxy_target_matched,0.7080816315315097,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-125,Car,56,False,proxy_target_matched,-1.2498250304798009,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-127,Car,1,False,proxy_target_matched,1.6208954855289948,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-130,SUV / crossover,11,False,proxy_target_matched,0.10442664058931683,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-133,Car,35,False,proxy_target_matched,-2.2882565893573292,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-140,Car,1,False,proxy_target_matched,0.37816326631920916,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-144,SUV / crossover,94,False,proxy_target_matched,-0.6075095478305093,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-158,Car,77,False,proxy_target_matched,0.28794352021512815,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-159,Car,22,False,proxy_target_matched,1.5472568972281442,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-161,Motorcycle / scooter,52,False,proxy_target_matched,0.8875482870525087,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-162,Motorcycle / scooter,68,,proxy_target_matched,-1.6258291380541134,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-166,SUV / crossover,47,,proxy_target_matched,-0.1362425734294126,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-169,SUV / crossover,77,False,proxy_target_matched,0.08940977900384617,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+2,SYN-SUR-170,SUV / crossover,77,False,proxy_target_matched,-0.547215683730129,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-004,Car,89,False,proxy_target_matched,0.14783550148864677,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-006,Car,85,,proxy_target_matched,0.027227241680405356,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-007,Three-wheeler,4,False,proxy_target_matched,0.23130991184454608,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-009,Car,100,,proxy_target_matched,-0.1339562186761678,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-011,SUV / crossover,90,False,proxy_target_matched,-1.2518587557616812,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-018,SUV / crossover,36,,proxy_target_matched,-0.1458673967332791,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-020,Car,73,False,proxy_target_matched,0.5502766133348436,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-021,SUV / crossover,3,,proxy_target_matched,1.0154243482331848,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-023,Car,14,False,proxy_target_matched,0.11135282739453967,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-026,Car,81,False,proxy_target_matched,-1.7434275622347672,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-027,Car,19,False,proxy_target_matched,-1.5243831210865255,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-028,SUV / crossover,69,False,proxy_target_matched,-1.9466282123545287,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-035,Car,41,False,proxy_target_matched,0.19605735969054905,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-036,Car,75,False,proxy_target_matched,-2.4940821414165426,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-039,Car,30,,proxy_target_matched,-0.5790273798776613,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-040,Car,71,,proxy_target_matched,0.25899154617314846,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-043,Motorcycle / scooter,13,False,proxy_target_matched,-2.4283375743166635,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-045,Car,78,,proxy_target_matched,0.05038853556660339,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-047,Car,22,False,proxy_target_matched,-2.6821179848078525,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-048,Car,49,False,proxy_target_matched,0.3010690835177465,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-051,Car,46,False,proxy_target_matched,-1.0847514212288245,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-054,SUV / crossover,12,False,proxy_target_matched,0.2195303627070988,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-055,Car,77,,zero_idle_proxy_below_target_review,-18.527397518182585,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-058,Three-wheeler,37,False,proxy_target_matched,0.15933632470601644,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-066,Three-wheeler,68,False,proxy_target_matched,1.249308979186825,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-071,SUV / crossover,83,False,proxy_target_matched,-2.6370108300625916,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-073,Car,63,False,proxy_target_matched,-0.05197479764735835,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-074,Car,18,False,proxy_target_matched,-1.011658718880648,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-076,SUV / crossover,74,False,proxy_target_matched,-1.5679467053582807,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-077,Car,44,False,proxy_target_matched,-1.3730664772330314,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-079,Car,86,False,proxy_target_matched,-1.7154778212523647,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-081,SUV / crossover,73,,proxy_target_matched,1.5289756641808427,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-087,SUV / crossover,24,False,proxy_target_matched,-0.026416067472745386,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-088,Car,27,False,proxy_target_matched,0.7219404494275716,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-089,SUV / crossover,71,False,proxy_target_matched,0.534057205673033,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-094,Motorcycle / scooter,13,False,proxy_target_matched,0.40517362887064756,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-098,Car,44,False,proxy_target_matched,-1.264521229445048,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-099,SUV / crossover,49,False,proxy_target_matched,1.8420529872568592,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-102,Other,13,False,proxy_target_matched,0.8083162961138202,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-104,Car,42,False,proxy_target_matched,-2.8310192801214606,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-106,SUV / crossover,67,False,proxy_target_matched,3.608989838862442,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-108,Three-wheeler,64,False,proxy_target_matched,0.43981250289129026,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-111,Car,98,False,proxy_target_matched,-0.21828291013105128,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-113,Car,34,False,proxy_target_matched,1.2258607477290795,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-115,SUV / crossover,98,False,proxy_target_matched,-1.9016153257144008,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-120,Car,51,False,proxy_target_matched,-0.3159956075174164,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-123,Three-wheeler,83,False,proxy_target_matched,-0.18293870772948528,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-125,Car,50,False,proxy_target_matched,1.3253013295759786,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-127,Car,56,False,proxy_target_matched,2.1027069309244695,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-130,SUV / crossover,97,False,proxy_target_matched,-0.5793219370998748,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-133,Car,10,False,proxy_target_matched,0.5614298849565325,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-140,Car,15,False,proxy_target_matched,-0.15059554914180762,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-144,SUV / crossover,43,False,proxy_target_matched,-0.9809816248995684,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-158,Car,44,False,proxy_target_matched,0.21290098997546192,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-159,Car,6,False,proxy_target_matched,1.855998625835853,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-161,Motorcycle / scooter,94,False,proxy_target_matched,-0.40180116671274524,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-162,Motorcycle / scooter,83,,proxy_target_matched,0.15191873262108135,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-166,SUV / crossover,92,,proxy_target_matched,0.4792328563851145,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-169,SUV / crossover,88,False,proxy_target_matched,1.1919588876850407,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+3,SYN-SUR-170,SUV / crossover,66,False,zero_idle_proxy_below_target_review,-24.85556495638379,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-004,Car,3,False,proxy_target_matched,-0.7975519429390676,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-006,Car,42,,proxy_target_matched,-0.444018086369391,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-007,Three-wheeler,15,False,proxy_target_matched,0.2712568569886331,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-009,Car,18,,proxy_target_matched,-0.454343483807218,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-011,SUV / crossover,60,False,proxy_target_matched,-1.2357417696485906,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-018,SUV / crossover,86,,proxy_target_matched,0.378947408691932,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-020,Car,50,False,proxy_target_matched,-1.0890927692224883,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-021,SUV / crossover,59,,proxy_target_matched,-0.9523816940245289,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-023,Car,77,False,proxy_target_matched,0.8610647023631568,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-026,Car,75,False,proxy_target_matched,0.6867898019287111,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-027,Car,45,False,proxy_target_matched,1.5922955189865418,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-028,SUV / crossover,33,False,proxy_target_matched,-0.8599987462888925,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-035,Car,17,False,proxy_target_matched,0.6243312623588126,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-036,Car,30,False,proxy_target_matched,3.092383458001957,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-039,Car,25,,proxy_target_matched,-2.423962499487742,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-040,Car,94,,proxy_target_matched,-0.2086940756090283,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-043,Motorcycle / scooter,89,False,proxy_target_matched,-1.4261986696072482,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-045,Car,52,,proxy_target_matched,-0.21869291415579362,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-047,Car,99,False,proxy_target_matched,1.2258445664615314,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-048,Car,18,False,proxy_target_matched,-0.4643650067561178,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-051,Car,3,False,proxy_target_matched,2.5884989420162707,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-054,SUV / crossover,97,False,proxy_target_matched,0.3838391039360456,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-055,Car,10,,proxy_target_matched,-0.31043769804055543,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-058,Three-wheeler,49,False,proxy_target_matched,-0.9017144389713017,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-066,Three-wheeler,97,False,proxy_target_matched,2.795938442861101,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-071,SUV / crossover,79,False,proxy_target_matched,-1.1464596831266438,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-073,Car,10,False,zero_idle_proxy_below_target_review,-6.761412868610184,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-074,Car,46,False,proxy_target_matched,-0.6847044310955064,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-076,SUV / crossover,95,False,proxy_target_matched,-0.39759500773636214,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-077,Car,5,False,proxy_target_matched,0.02137907978172482,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-079,Car,56,False,proxy_target_matched,0.35615825567916204,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-081,SUV / crossover,81,,proxy_target_matched,1.1129568048253269,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-087,SUV / crossover,60,False,proxy_target_matched,0.13957317286463766,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-088,Car,34,False,proxy_target_matched,-0.39470458435633127,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-089,SUV / crossover,2,False,proxy_target_matched,0.13518302680191052,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-094,Motorcycle / scooter,62,False,proxy_target_matched,3.4264030557147107,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-098,Car,75,False,proxy_target_matched,-0.6062681952629712,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-099,SUV / crossover,67,False,proxy_target_matched,-0.4560243669582076,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-102,Other,71,False,proxy_target_matched,0.18805418047396216,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-104,Car,97,False,proxy_target_matched,-0.4145308948248161,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-106,SUV / crossover,100,False,proxy_target_matched,2.5769345237183883,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-108,Three-wheeler,38,False,proxy_target_matched,-0.45195051014529364,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-111,Car,46,False,proxy_target_matched,-0.44211704434645727,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-113,Car,85,False,proxy_target_matched,-2.903682017916387,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-115,SUV / crossover,62,False,proxy_target_matched,-1.2896273752372789,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-120,Car,13,False,proxy_target_matched,-0.3563573193438696,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-123,Three-wheeler,83,False,proxy_target_matched,1.7951151098414053,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-125,Car,62,False,proxy_target_matched,-0.6954884345564682,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-127,Car,75,False,proxy_target_matched,0.5229620182462646,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-130,SUV / crossover,11,False,proxy_target_matched,0.4243309367575554,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-133,Car,31,False,proxy_target_matched,-3.7618969167024896,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-140,Car,96,False,proxy_target_matched,0.3537161934449973,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-144,SUV / crossover,2,False,proxy_target_matched,0.6507725341147408,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-158,Car,27,False,proxy_target_matched,-0.08490153317171067,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-159,Car,50,False,proxy_target_matched,-1.6485467792959563,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-161,Motorcycle / scooter,89,False,proxy_target_matched,-1.5915488674110856,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-162,Motorcycle / scooter,54,,proxy_target_matched,-1.6409798916605434,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-166,SUV / crossover,82,,zero_idle_proxy_below_target_review,-13.992876319915116,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-169,SUV / crossover,95,False,proxy_target_matched,-0.7990568410021104,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+4,SYN-SUR-170,SUV / crossover,17,False,proxy_target_matched,0.3456239214879142,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-004,Car,90,False,proxy_target_matched,-0.6250171377430891,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-006,Car,79,,proxy_target_matched,1.514287682799309,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-007,Three-wheeler,4,False,proxy_target_matched,-0.583819261240548,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-009,Car,76,,proxy_target_matched,0.28615808805101395,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-011,SUV / crossover,55,False,proxy_target_matched,0.3522641877223398,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-018,SUV / crossover,66,,proxy_target_matched,-0.15107434497331207,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-020,Car,44,False,proxy_target_matched,-0.0387010728144177,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-021,SUV / crossover,78,,proxy_target_matched,0.38364369901318085,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-023,Car,71,False,proxy_target_matched,1.6574958838765808,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-026,Car,86,False,proxy_target_matched,-0.26269037149292407,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-027,Car,24,False,proxy_target_matched,0.23060458328689748,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-028,SUV / crossover,34,False,proxy_target_matched,-0.14513111314476967,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-035,Car,63,False,proxy_target_matched,-0.2438807139726884,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-036,Car,34,False,proxy_target_matched,2.1928048960175195,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-039,Car,76,,proxy_target_matched,0.9968869914883882,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-040,Car,11,,proxy_target_matched,-1.4921798547388065,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-043,Motorcycle / scooter,96,False,proxy_target_matched,-3.050502457210069,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-045,Car,57,,proxy_target_matched,0.11018801671158762,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-047,Car,77,False,proxy_target_matched,-1.839957605685416,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-048,Car,86,False,proxy_target_matched,0.18083020819597007,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-051,Car,77,False,proxy_target_matched,-0.9355192110596211,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-054,SUV / crossover,44,False,proxy_target_matched,-0.5965935834814862,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-055,Car,52,,proxy_target_matched,0.4004471708480617,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-058,Three-wheeler,2,False,proxy_target_matched,-1.3035615486520435,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-066,Three-wheeler,22,False,proxy_target_matched,-0.5611169787331893,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-071,SUV / crossover,34,False,proxy_target_matched,-0.651989752444071,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-073,Car,18,False,proxy_target_matched,1.0913189421609015,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-074,Car,72,False,proxy_target_matched,-0.7293537872510081,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-076,SUV / crossover,68,False,proxy_target_matched,-0.7177252533638212,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-077,Car,44,False,proxy_target_matched,-0.7757391178616735,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-079,Car,5,False,proxy_target_matched,-0.5880835232006443,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-081,SUV / crossover,12,,proxy_target_matched,-2.5865602791647957,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-087,SUV / crossover,66,False,proxy_target_matched,0.0025652018564636947,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-088,Car,62,False,proxy_target_matched,-0.5908014784143711,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-089,SUV / crossover,71,False,proxy_target_matched,-2.603130659297248,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-094,Motorcycle / scooter,87,False,proxy_target_matched,-0.1903399874729539,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-098,Car,70,False,proxy_target_matched,-0.06203811151579419,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-099,SUV / crossover,86,False,proxy_target_matched,-0.2732388638976291,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-102,Other,15,False,proxy_target_matched,-2.644858838545716,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-104,Car,45,False,proxy_target_matched,1.1350320402303105,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-106,SUV / crossover,59,False,proxy_target_matched,3.6244201752427596,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-108,Three-wheeler,50,False,proxy_target_matched,0.36045117784793135,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-111,Car,23,False,proxy_target_matched,0.5915214760114917,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-113,Car,51,False,proxy_target_matched,-2.383612053157602,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-115,SUV / crossover,26,False,proxy_target_matched,0.9868593879910792,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-120,Car,83,False,proxy_target_matched,1.2172153596084145,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-123,Three-wheeler,68,False,proxy_target_matched,-1.1190637048916874,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-125,Car,62,False,proxy_target_matched,1.6384176377661763,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-127,Car,60,False,proxy_target_matched,1.8773440992118084,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-130,SUV / crossover,89,False,proxy_target_matched,-1.6891116333595302,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-133,Car,10,False,proxy_target_matched,-1.6946570399240746,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-140,Car,93,False,proxy_target_matched,-0.3120577409123526,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-144,SUV / crossover,63,False,proxy_target_matched,-0.6310275589852754,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-158,Car,92,False,proxy_target_matched,1.2620251676728866,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-159,Car,70,False,proxy_target_matched,1.2332505907609592,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-161,Motorcycle / scooter,28,False,proxy_target_matched,0.994548714641974,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-162,Motorcycle / scooter,8,,proxy_target_matched,3.515344592994629,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-166,SUV / crossover,4,,proxy_target_matched,-1.2955376207482994,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-169,SUV / crossover,17,False,proxy_target_matched,-0.47490446454674373,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+5,SYN-SUR-170,SUV / crossover,44,False,proxy_target_matched,0.9767034730138624,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-004,Car,34,False,proxy_target_matched,-0.08799436402820993,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-006,Car,53,,proxy_target_matched,2.0632553877765414,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-007,Three-wheeler,26,False,proxy_target_matched,-0.3877088480667257,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-009,Car,41,,proxy_target_matched,2.7009528236235036,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-011,SUV / crossover,73,False,proxy_target_matched,1.5802334262802864,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-018,SUV / crossover,32,,proxy_target_matched,0.690672849051599,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-020,Car,85,False,proxy_target_matched,0.11802912499980778,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-021,SUV / crossover,44,,proxy_target_matched,-1.291283853459424,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-023,Car,52,False,proxy_target_matched,0.9530109945717458,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-026,Car,2,False,proxy_target_matched,4.198829847114038,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-027,Car,1,False,proxy_target_matched,-0.6602452814324478,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-028,SUV / crossover,39,False,proxy_target_matched,0.22036895625821007,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-035,Car,22,False,proxy_target_matched,0.9187522680016214,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-036,Car,71,False,proxy_target_matched,1.52381967488735,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-039,Car,72,,proxy_target_matched,0.5873883934458091,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-040,Car,86,,proxy_target_matched,3.30589511164312,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-043,Motorcycle / scooter,2,False,proxy_target_matched,4.190839145701886,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-045,Car,41,,proxy_target_matched,-0.24972484677543427,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-047,Car,80,False,proxy_target_matched,-1.3317771842417225,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-048,Car,98,False,proxy_target_matched,-0.6258733259104865,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-051,Car,2,False,proxy_target_matched,1.3052479451024501,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-054,SUV / crossover,60,False,proxy_target_matched,-0.655364337472053,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-055,Car,36,,proxy_target_matched,-0.5902745381992092,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-058,Three-wheeler,58,False,proxy_target_matched,-0.46281107928727305,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-066,Three-wheeler,81,False,proxy_target_matched,-0.33578290204561156,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-071,SUV / crossover,63,False,proxy_target_matched,1.9151650038855994,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-073,Car,73,False,proxy_target_matched,-1.7704698829285714,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-074,Car,30,False,proxy_target_matched,-0.24663583279950219,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-076,SUV / crossover,41,False,proxy_target_matched,-1.089886095492909,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-077,Car,98,False,proxy_target_matched,-2.4372879451528107,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-079,Car,26,False,proxy_target_matched,-0.46080986279879443,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-081,SUV / crossover,94,,proxy_target_matched,-1.0261558584698238,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-087,SUV / crossover,6,False,proxy_target_matched,0.3213229786104277,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-088,Car,12,False,proxy_target_matched,-0.03310293380967,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-089,SUV / crossover,30,False,proxy_target_matched,-1.576801741167233,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-094,Motorcycle / scooter,16,False,proxy_target_matched,-1.0710968735904602,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-098,Car,7,False,proxy_target_matched,-1.2405584578477291,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-099,SUV / crossover,24,False,proxy_target_matched,0.4169085738680911,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-102,Other,57,False,proxy_target_matched,-5.163948170359644,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-104,Car,9,False,proxy_target_matched,-0.5752045774001235,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-106,SUV / crossover,48,False,proxy_target_matched,1.6511919253946017,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-108,Three-wheeler,67,False,proxy_target_matched,0.2228478611989715,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-111,Car,2,False,proxy_target_matched,0.49332032066191633,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-113,Car,92,False,proxy_target_matched,-0.013666463669315121,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-115,SUV / crossover,22,False,proxy_target_matched,2.925714608823915,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-120,Car,25,False,proxy_target_matched,-0.45493238391832724,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-123,Three-wheeler,4,False,proxy_target_matched,-2.137435630873885,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-125,Car,66,False,proxy_target_matched,0.523048216649169,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-127,Car,97,False,proxy_target_matched,1.4289822658113627,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-130,SUV / crossover,15,False,proxy_target_matched,0.48640792170864255,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-133,Car,92,False,proxy_target_matched,-1.4458685507741431,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-140,Car,63,False,proxy_target_matched,-0.6737336117399573,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-144,SUV / crossover,4,False,proxy_target_matched,-1.116466862403931,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-158,Car,28,False,proxy_target_matched,0.45359998982332783,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-159,Car,75,False,proxy_target_matched,-0.08150349799307399,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-161,Motorcycle / scooter,89,False,proxy_target_matched,-1.8271871872313494,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-162,Motorcycle / scooter,88,,proxy_target_matched,1.7590643344958856,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-166,SUV / crossover,83,,proxy_target_matched,-0.6790028019064254,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-169,SUV / crossover,27,False,proxy_target_matched,0.03367946995458393,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+6,SYN-SUR-170,SUV / crossover,69,False,proxy_target_matched,0.77171009672794,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-004,Car,2,False,proxy_target_matched,0.1455512540087467,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-006,Car,47,,proxy_target_matched,-0.11511581781726843,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-007,Three-wheeler,63,False,proxy_target_matched,-2.861987817324263,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-009,Car,10,,proxy_target_matched,0.12799652949622153,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-011,SUV / crossover,74,False,proxy_target_matched,0.5554524065816802,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-018,SUV / crossover,46,,proxy_target_matched,-0.6567793220024765,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-020,Car,54,False,proxy_target_matched,-0.9755415265175205,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-021,SUV / crossover,26,,proxy_target_matched,-0.4193586953660233,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-023,Car,76,False,proxy_target_matched,-1.5698012327165278,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-026,Car,95,False,proxy_target_matched,-0.7506723781914082,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-027,Car,64,False,proxy_target_matched,2.0853426676535447,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-028,SUV / crossover,13,False,proxy_target_matched,-1.3324818168812036,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-035,Car,82,False,proxy_target_matched,0.42362373334505765,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-036,Car,23,False,proxy_target_matched,0.4248446833564623,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-039,Car,90,,proxy_target_matched,-0.022292478203367327,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-040,Car,44,,proxy_target_matched,2.4735677877647744,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-043,Motorcycle / scooter,62,False,proxy_target_matched,2.2670446803870092,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-045,Car,74,,proxy_target_matched,-1.5929248974154486,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-047,Car,83,False,proxy_target_matched,-0.3513901333078606,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-048,Car,34,False,proxy_target_matched,0.9139120629284125,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-051,Car,59,False,proxy_target_matched,-1.8267948089137676,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-054,SUV / crossover,39,False,proxy_target_matched,-0.523421623442244,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-055,Car,77,,zero_idle_proxy_below_target_review,-18.769609202424277,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-058,Three-wheeler,15,False,proxy_target_matched,-1.707062984939589,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-066,Three-wheeler,34,False,proxy_target_matched,-0.7137056615686865,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-071,SUV / crossover,78,False,proxy_target_matched,2.972739192137208,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-073,Car,37,False,proxy_target_matched,-1.56063370527032,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-074,Car,24,False,proxy_target_matched,-0.5104649134649586,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-076,SUV / crossover,25,False,proxy_target_matched,-0.6919038656916454,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-077,Car,74,False,proxy_target_matched,0.9328359692589938,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-079,Car,91,False,proxy_target_matched,-1.1731877113681177,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-081,SUV / crossover,2,,proxy_target_matched,-1.584772602296991,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-087,SUV / crossover,32,False,proxy_target_matched,-0.9278016910536868,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-088,Car,71,False,proxy_target_matched,-0.5264098024831299,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-089,SUV / crossover,77,False,proxy_target_matched,-0.8583740243060634,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-094,Motorcycle / scooter,89,False,proxy_target_matched,0.610902563443183,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-098,Car,5,False,proxy_target_matched,1.2274058678731548,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-099,SUV / crossover,10,False,proxy_target_matched,-1.4709510622261668,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-102,Other,42,False,proxy_target_matched,-0.05363643025647624,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-104,Car,92,False,proxy_target_matched,0.33912842065133564,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-106,SUV / crossover,71,False,proxy_target_matched,0.07265985009021758,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-108,Three-wheeler,29,False,proxy_target_matched,1.1746343471889187,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-111,Car,71,False,proxy_target_matched,-1.1094645874959341,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-113,Car,100,False,proxy_target_matched,0.7808537845242602,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-115,SUV / crossover,5,False,proxy_target_matched,1.201474657287771,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-120,Car,50,False,proxy_target_matched,0.8220127842417657,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-123,Three-wheeler,60,False,proxy_target_matched,2.056076159564868,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-125,Car,72,False,proxy_target_matched,2.066554582408231,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-127,Car,90,False,proxy_target_matched,-0.30640887716940624,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-130,SUV / crossover,28,False,proxy_target_matched,0.2918657275829961,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-133,Car,46,False,proxy_target_matched,0.3760921455951749,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-140,Car,44,False,proxy_target_matched,0.23607212012062284,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-144,SUV / crossover,32,False,proxy_target_matched,0.35862308731697823,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-158,Car,58,False,proxy_target_matched,-0.047438189844783984,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-159,Car,12,False,proxy_target_matched,0.5079470924700624,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-161,Motorcycle / scooter,61,False,proxy_target_matched,0.7949231106902266,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-162,Motorcycle / scooter,32,,proxy_target_matched,-1.1809491112432902,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-166,SUV / crossover,47,,proxy_target_matched,-0.7626114095100944,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-169,SUV / crossover,53,False,proxy_target_matched,0.5281506061376895,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+7,SYN-SUR-170,SUV / crossover,9,False,proxy_target_matched,0.33317721895373964,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-004,Car,91,False,proxy_target_matched,-1.2749457406153297,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-006,Car,38,,proxy_target_matched,0.1580417850139959,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-007,Three-wheeler,91,False,proxy_target_matched,0.37076363987922356,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-009,Car,90,,proxy_target_matched,-2.2577053392574764,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-011,SUV / crossover,47,False,proxy_target_matched,0.09754242753330367,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-018,SUV / crossover,56,,proxy_target_matched,0.7086035861436857,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-020,Car,4,False,proxy_target_matched,2.8360239484219507,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-021,SUV / crossover,13,,proxy_target_matched,-0.8904735032468802,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-023,Car,74,False,proxy_target_matched,1.0945536073776685,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-026,Car,50,False,proxy_target_matched,-0.8818790089952233,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-027,Car,53,False,proxy_target_matched,1.8661368561642133,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-028,SUV / crossover,36,False,proxy_target_matched,0.11519841024758559,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-035,Car,85,False,proxy_target_matched,0.47531867551653395,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-036,Car,12,False,proxy_target_matched,2.97146620925699,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-039,Car,99,,proxy_target_matched,-0.0875925719630466,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-040,Car,14,,proxy_target_matched,-2.704128073339962,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-043,Motorcycle / scooter,21,False,proxy_target_matched,1.062080129244336,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-045,Car,98,,proxy_target_matched,-0.9130291202386398,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-047,Car,97,False,proxy_target_matched,1.0642958750897602,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-048,Car,62,False,proxy_target_matched,0.5689922633562272,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-051,Car,75,False,proxy_target_matched,0.7696013361549792,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-054,SUV / crossover,87,False,proxy_target_matched,1.895022875899488,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-055,Car,94,,proxy_target_matched,-0.04191089107806745,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-058,Three-wheeler,67,False,proxy_target_matched,2.0033109430259266,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-066,Three-wheeler,36,False,proxy_target_matched,-0.9869452199788631,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-071,SUV / crossover,8,False,proxy_target_matched,-1.4913489725458584,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-073,Car,11,False,proxy_target_matched,-0.7845951846662036,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-074,Car,55,False,proxy_target_matched,-1.8905892457603657,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-076,SUV / crossover,35,False,proxy_target_matched,-0.9696628638360627,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-077,Car,24,False,proxy_target_matched,0.12692929986115598,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-079,Car,53,False,proxy_target_matched,-0.6747409974114826,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-081,SUV / crossover,54,,proxy_target_matched,-2.7433330512899423,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-087,SUV / crossover,80,False,proxy_target_matched,0.7382881152758092,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-088,Car,64,False,proxy_target_matched,-0.7413387555580742,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-089,SUV / crossover,65,False,proxy_target_matched,-1.631908791442871,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-094,Motorcycle / scooter,66,False,proxy_target_matched,-2.269989880133927,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-098,Car,82,False,proxy_target_matched,-1.065625623084876,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-099,SUV / crossover,76,False,proxy_target_matched,0.4483766417252122,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-102,Other,49,False,proxy_target_matched,-2.0665364577987066,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-104,Car,45,False,proxy_target_matched,-0.9389335607338123,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-106,SUV / crossover,38,False,proxy_target_matched,0.6021190021694212,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-108,Three-wheeler,50,False,proxy_target_matched,0.11446012494069624,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-111,Car,93,False,proxy_target_matched,0.33647688478630755,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-113,Car,98,False,proxy_target_matched,-0.05330648757293499,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-115,SUV / crossover,16,False,proxy_target_matched,-0.03676832922135942,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-120,Car,17,False,proxy_target_matched,0.246251554257082,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-123,Three-wheeler,75,False,proxy_target_matched,0.5806784783979335,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-125,Car,59,False,proxy_target_matched,0.008155725748082432,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-127,Car,1,False,proxy_target_matched,-0.8114088895765592,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-130,SUV / crossover,80,False,proxy_target_matched,0.0021972075493703613,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-133,Car,89,False,proxy_target_matched,0.33215025259822895,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-140,Car,83,False,proxy_target_matched,0.21044573100303943,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-144,SUV / crossover,90,False,proxy_target_matched,0.7669231772667873,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-158,Car,66,False,proxy_target_matched,-0.6975524172407876,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-159,Car,89,False,proxy_target_matched,-2.502357470690164,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-161,Motorcycle / scooter,7,False,proxy_target_matched,1.7100957339792888,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-162,Motorcycle / scooter,54,,proxy_target_matched,0.04917431054274335,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-166,SUV / crossover,51,,proxy_target_matched,-0.5290678434464069,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-169,SUV / crossover,13,False,proxy_target_matched,-1.6000857027989923,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+8,SYN-SUR-170,SUV / crossover,46,False,proxy_target_matched,-1.018283553581889,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-004,Car,95,False,zero_idle_proxy_below_target_review,-12.801404593766541,False,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-006,Car,94,,proxy_target_matched,-0.10929132215167225,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-007,Three-wheeler,62,False,proxy_target_matched,0.3445345043653347,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-009,Car,47,,proxy_target_matched,-0.00831715535563049,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-011,SUV / crossover,73,False,proxy_target_matched,-0.34627456734491746,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-018,SUV / crossover,21,,proxy_target_matched,-0.4201177117130417,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-020,Car,45,False,proxy_target_matched,-0.1169851391613963,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-021,SUV / crossover,22,,proxy_target_matched,3.855630014005218,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-023,Car,79,False,proxy_target_matched,1.3098775773446647,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-026,Car,57,False,proxy_target_matched,1.390444334099894,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-027,Car,34,False,proxy_target_matched,1.5790344208885587,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-028,SUV / crossover,61,False,proxy_target_matched,2.1144063993855378,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-035,Car,21,False,proxy_target_matched,-1.6580327592445099,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-036,Car,73,False,proxy_target_matched,0.6600934345468268,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-039,Car,84,,proxy_target_matched,-2.3595271724656475,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-040,Car,24,,proxy_target_matched,-0.06137894320936699,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-043,Motorcycle / scooter,69,False,proxy_target_matched,2.1076365689368437,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-045,Car,77,,proxy_target_matched,1.7731626123801192,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-047,Car,100,False,proxy_target_matched,2.0430608561386565,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-048,Car,13,False,proxy_target_matched,0.6144330128108111,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-051,Car,84,False,proxy_target_matched,1.1416499936028002,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-054,SUV / crossover,83,False,proxy_target_matched,-0.1075575059486189,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-055,Car,24,,proxy_target_matched,0.8292427639151834,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-058,Three-wheeler,85,False,proxy_target_matched,0.9888495333627345,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-066,Three-wheeler,4,False,proxy_target_matched,-0.002701170060037672,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-071,SUV / crossover,40,False,proxy_target_matched,1.0037062266941676,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-073,Car,48,False,proxy_target_matched,-0.7023384849383696,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-074,Car,35,False,proxy_target_matched,0.1606918701908766,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-076,SUV / crossover,84,False,proxy_target_matched,1.8650079310698953,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-077,Car,16,False,proxy_target_matched,-0.9571390427626891,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-079,Car,94,False,proxy_target_matched,1.0225164900688588,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-081,SUV / crossover,21,,proxy_target_matched,0.7091924017872175,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-087,SUV / crossover,28,False,proxy_target_matched,0.04620743498726654,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-088,Car,97,False,proxy_target_matched,-0.7063018139702226,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-089,SUV / crossover,63,False,proxy_target_matched,-0.0700411871307316,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-094,Motorcycle / scooter,53,False,proxy_target_matched,-1.1604442200112697,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-098,Car,87,False,proxy_target_matched,-1.93377856525635,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-099,SUV / crossover,40,False,proxy_target_matched,-1.0064833933085104,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-102,Other,4,False,proxy_target_matched,-0.07327506155533348,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-104,Car,35,False,proxy_target_matched,1.5919088368480772,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-106,SUV / crossover,58,False,proxy_target_matched,0.27336750768780504,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-108,Three-wheeler,2,False,proxy_target_matched,-0.6398505417809286,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-111,Car,38,False,proxy_target_matched,0.12797165451547965,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-113,Car,63,False,proxy_target_matched,-0.7110370065575911,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-115,SUV / crossover,65,False,proxy_target_matched,1.624688682872022,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-120,Car,13,False,proxy_target_matched,0.18182541949827158,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-123,Three-wheeler,13,False,proxy_target_matched,0.6596402747968133,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-125,Car,52,False,proxy_target_matched,0.3072328724119888,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-127,Car,9,False,proxy_target_matched,2.578543328784799,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-130,SUV / crossover,3,False,proxy_target_matched,0.7264483062561222,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-133,Car,6,False,proxy_target_matched,-0.4299458147513091,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-140,Car,79,False,proxy_target_matched,0.42211557058597915,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-144,SUV / crossover,2,False,proxy_target_matched,0.39861453067084884,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-158,Car,45,False,proxy_target_matched,0.5156057445133477,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-159,Car,61,False,proxy_target_matched,2.8245705774780916,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-161,Motorcycle / scooter,31,False,proxy_target_matched,-0.4094239940194533,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-162,Motorcycle / scooter,17,,proxy_target_matched,3.785517113469772,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-166,SUV / crossover,73,,proxy_target_matched,-1.5902656907163193,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-169,SUV / crossover,8,False,proxy_target_matched,0.030474589037532418,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+9,SYN-SUR-170,SUV / crossover,32,False,proxy_target_matched,-0.6803943690324332,True,common_energy_cases,bounded_uniform_test,rated_ceiling_test,SIMULATED,SYNTHETIC

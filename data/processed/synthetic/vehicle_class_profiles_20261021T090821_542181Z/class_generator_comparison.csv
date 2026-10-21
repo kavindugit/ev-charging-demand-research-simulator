@@ -1,0 +1,26 @@
+vehicle_class,selected_owners,context,n_replicates,control_mean_daily_energy_kwh,availability_mean_daily_energy_kwh,availability_minus_control_kwh_per_day,paired_difference_mcse_kwh_per_day,cohort,energy_case,power_scenario,output_origin,behaviour_input_origin
+Car,32,T1,10,141.57705840987626,179.12761554896184,37.550557139085576,4.9648899934112265,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,T2,10,276.1954089498972,382.9440542076767,106.74864525777947,5.285823214949249,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,T3,10,18.467974039882634,25.228570518193052,6.760596478310417,1.8162320723405483,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,T4,10,36.697011268460024,35.21607272902045,-1.4809385394395664,3.3889989819632413,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Car,32,TOTAL,10,472.93745266811624,622.5163130038522,149.57886033573604,8.449679254986181,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T1,10,1.505753957230904,1.3679409775493225,-0.13781297968158135,0.22199348609972222,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T2,10,2.35887996238216,2.3441380558646117,-0.014741906517548253,0.23759404520483238,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,4,TOTAL,10,3.8646339196130635,3.7120790334139344,-0.15255488619912888,0.2832718550249879,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T1,10,0.3945904537154105,0.5134930060766039,0.11890255236119332,0.1136388897570233,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T2,10,1.9804762545069126,2.2465423570194045,0.266066102512492,0.2432911220536791,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Other,1,TOTAL,10,2.375066708222323,2.7600353630960086,0.38496865487368537,0.2401091967090389,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T1,10,30.63060690232651,38.17454601495159,7.543939112625078,1.8384986749647316,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T2,10,184.0545014991846,266.0208116295514,81.96631013036684,5.2484821148358805,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T3,10,15.689276878616115,17.19395039060695,1.5046735119908343,2.1493981453758866,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,T4,10,22.90072381182277,22.977238618287036,0.07651480646426823,1.3742010569408583,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+SUV / crossover,18,TOTAL,10,253.27510909195,344.3665466533972,91.09143756144728,4.807608064836754,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T1,10,8.644608953741534,10.268342184671862,1.6237332309303296,0.7808847856545287,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T2,10,8.87303118630163,10.580171166872528,1.7071399805708978,0.697564419865677,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T3,10,1.4340660810447339,1.2300677277368905,-0.2039983533078434,0.3028826515632234,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC
+Three-wheeler,5,TOTAL,10,18.951706221087896,22.07858107928128,3.126874858193386,0.9150884735537235,common_energy_cases,conditional_lognormal_test,reduced_test,SIMULATED,SYNTHETIC

@@ -1,0 +1,7 @@
+vehicle_class,retained_feature_owners,selected_owners,profile_status,cohort,energy_case,power_scenario,output_origin,behaviour_input_origin
+Car,94,32,profile_exported,common_energy_cases,conditional_lognormal_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+Motorcycle / scooter,12,4,profile_exported,common_energy_cases,conditional_lognormal_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+Other,2,1,profile_exported,common_energy_cases,conditional_lognormal_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+SUV / crossover,49,18,profile_exported,common_energy_cases,conditional_lognormal_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+Three-wheeler,7,5,profile_exported,common_energy_cases,conditional_lognormal_test,rated_ceiling_test,SIMULATED,SYNTHETIC
+Van,6,0,no_selected_owners,common_energy_cases,conditional_lognormal_test,rated_ceiling_test,SIMULATED,SYNTHETIC

@@ -1,0 +1,4 @@
+assumption_id,rule,rationale,sensitivity_comparison
+ALLOC-EQUAL-01,Each district receives 1/25 of each national candidate count.,Equal-district benchmark; no claim about observed EV ownership.,Compare population_2024_test.
+ALLOC-POP2024-01,Share = 2024 district population / 2024 national population.,"Assumes equal EVs per resident, across all ages. Census residents are not observed EV owners or charging destinations.",Compare equal_district_test; later compare vehicle ownership or other justified evidence.
+ALLOC-STATIC-01,Hold each allocation case's district shares fixed for 2026-2035.,Controlled comparison; no future population or ownership geography is forecast.,Review changing district shares when suitable evidence is available.

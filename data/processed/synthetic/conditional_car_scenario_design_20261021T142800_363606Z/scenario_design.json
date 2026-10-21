@@ -1,0 +1,59 @@
+{
+  "schema_version": "conditional_car_scenario_design_v1",
+  "status": "draft_for_review",
+  "vehicle_class_scope": "Car",
+  "public_population_reference": {
+    "evidence_id": "DMT2025_CAR_POPULATION",
+    "reference_year": "2025",
+    "reported_value": "973376",
+    "unit": "vehicles",
+    "count_basis": "registered_population_all_fuels",
+    "vehicle_label": "MOTOR CARS",
+    "reported_fuel_category": "all_fuels",
+    "source_file": "data/processed/reference/dmt_tables_20261020T192940_825879Z/annual_vehicle_counts.csv",
+    "source_file_sha256": "4cc68888e28ec25ea8a67cd02850586451041b80bb5c07746f894f2762f9801b",
+    "source_row_selector_json": "{\"metric\": \"vehicle_population\", \"vehicle_label\": \"MOTOR CARS\", \"year\": \"2025\"}",
+    "source_pdf_page": "1",
+    "source_table": "2",
+    "source_row": "2",
+    "source_column": "13",
+    "permitted_role": "historical_reference_only_not_an_activated_EV_baseline",
+    "data_origin": "PUBLIC_REFERENCE"
+  },
+  "scope_reference": "data/processed/synthetic/reference_car_cohort_20261021T140004_059564Z/reference_cohort_scope.json",
+  "years": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031,
+    2032,
+    2033,
+    2034,
+    2035
+  ],
+  "scenarios": [
+    "low",
+    "medium",
+    "high"
+  ],
+  "start_share_2026": "0.02",
+  "end_shares_2035": {
+    "low": "0.05",
+    "medium": "0.10",
+    "high": "0.20"
+  },
+  "interpolation": "linear_share_between_2026_and_2035",
+  "denominator_policy": "fixed_2025_reference_not_projected_future_population",
+  "count_representation": "expected_vehicles",
+  "count_decimal_places": 6,
+  "count_origin": "RESEARCH_SCENARIO_ASSUMPTION",
+  "scope_note": "Car-only candidate experiment. Survey-to-registration class and powertrain transfer assumptions remain unverified.",
+  "not_an_EV_stock_baseline": true,
+  "official_adoption_projection": false,
+  "scenario_probabilities_assigned": false,
+  "fleet_contract_activated": false,
+  "district_allocations_created": false,
+  "new_demand_simulations": 0
+}

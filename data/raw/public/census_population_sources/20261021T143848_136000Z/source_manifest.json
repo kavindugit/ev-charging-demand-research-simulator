@@ -1,0 +1,18 @@
+﻿{
+    "source_agency":  "Department of Census and Statistics, Sri Lanka",
+    "source_title":  "Population by sex and age according to districts, 2024",
+    "reference_year":  2024,
+    "official_listing_url":  "https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/",
+    "requested_source_url":  "https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024/PopulationA/A1",
+    "retrieved_at_utc":  "2026-10-21T14:38:50.7728272Z",
+    "source_file":  "data/raw/public/census_population_sources/20261021T143848_136000Z/district_population_age_sex_2024.xlsx",
+    "source_bytes":  18543,
+    "source_sha256":  "388c7d1ef5fab8a37fbb026ebfbbabdafa84787f187d2b3dec40f2e24aec6c47",
+    "detected_container":  "ZIP_OpenXML_candidate",
+    "data_origin":  "PUBLIC_REFERENCE",
+    "checksum_role":  "Recorded snapshot hash; no independent expected hash used",
+    "workbook_contents_reviewed":  false,
+    "numerical_extraction_complete":  false,
+    "allocation_shares_created":  false,
+    "new_demand_simulations":  0
+}

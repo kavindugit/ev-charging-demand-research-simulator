@@ -1,0 +1,60 @@
+region,check,expected,observed,passed
+sri lanka,sex_sum,21781800,21781800,True
+sri lanka,age_sum,21781800,21781800,True
+colombo,sex_sum,2375415,2375415,True
+colombo,age_sum,2375415,2375415,True
+gampaha,sex_sum,2436142,2436142,True
+gampaha,age_sum,2436142,2436142,True
+kalutara,sex_sum,1305784,1305784,True
+kalutara,age_sum,1305784,1305784,True
+kandy,sex_sum,1461895,1461895,True
+kandy,age_sum,1461895,1461895,True
+matale,sex_sum,526870,526870,True
+matale,age_sum,526870,526870,True
+nuwara eliya,sex_sum,725280,725280,True
+nuwara eliya,age_sum,725280,725280,True
+galle,sex_sum,1097372,1097372,True
+galle,age_sum,1097372,1097372,True
+matara,sex_sum,837889,837889,True
+matara,age_sum,837889,837889,True
+hambantota,sex_sum,671418,671418,True
+hambantota,age_sum,671418,671418,True
+jaffna,sex_sum,594751,594751,True
+jaffna,age_sum,594751,594751,True
+mannar,sex_sum,123756,123756,True
+mannar,age_sum,123756,123756,True
+vavuniya,sex_sum,172312,172312,True
+vavuniya,age_sum,172312,172312,True
+mullaitivu,sex_sum,122619,122619,True
+mullaitivu,age_sum,122619,122619,True
+kilinochchi,sex_sum,136710,136710,True
+kilinochchi,age_sum,136710,136710,True
+batticaloa,sex_sum,595918,595918,True
+batticaloa,age_sum,595918,595918,True
+ampara,sex_sum,744551,744551,True
+ampara,age_sum,744551,744551,True
+trincomalee,sex_sum,442745,442745,True
+trincomalee,age_sum,442745,442745,True
+kurunegala,sex_sum,1768156,1768156,True
+kurunegala,age_sum,1768156,1768156,True
+puttalam,sex_sum,818816,818816,True
+puttalam,age_sum,818816,818816,True
+anuradhapura,sex_sum,960080,960080,True
+anuradhapura,age_sum,960080,960080,True
+polonnaruwa,sex_sum,447530,447530,True
+polonnaruwa,age_sum,447530,447530,True
+badulla,sex_sum,872307,872307,True
+badulla,age_sum,872307,872307,True
+moneragala,sex_sum,527585,527585,True
+moneragala,age_sum,527585,527585,True
+ratnapura,sex_sum,1145423,1145423,True
+ratnapura,age_sum,1145423,1145423,True
+kegalle,sex_sum,870476,870476,True
+kegalle,age_sum,870476,870476,True
+sri lanka,district_sum/population_total,21781800,21781800,True
+sri lanka,district_sum/population_male,10512344,10512344,True
+sri lanka,district_sum/population_female,11269456,11269456,True
+sri lanka,district_sum/age_under_15,4506839,4506839,True
+sri lanka,district_sum/age_15_59,13353837,13353837,True
+sri lanka,district_sum/age_60_64,1183310,1183310,True
+sri lanka,district_sum/age_65_plus,2737814,2737814,True

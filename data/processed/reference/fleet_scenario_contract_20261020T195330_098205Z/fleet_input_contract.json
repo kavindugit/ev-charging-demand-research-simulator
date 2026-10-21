@@ -1,0 +1,603 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "scope_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "vehicle_classes": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "powertrain_scope": {
+          "enum": [
+            "BEV_only",
+            "BEV_and_PHEV",
+            "reported_Electric_category"
+          ]
+        },
+        "count_basis": {
+          "enum": [
+            "active_vehicle_stock",
+            "registered_vehicle_population",
+            "registration_cohort",
+            "conditional_scenario_stock"
+          ]
+        },
+        "national_method": {
+          "enum": [
+            "supplied_national_counts",
+            "conditional_penetration"
+          ]
+        },
+        "district_fleet_basis": {
+          "enum": [
+            "owner_residence",
+            "vehicle_registration"
+          ]
+        },
+        "count_representation": {
+          "enum": [
+            "expected_vehicles",
+            "integer_vehicles"
+          ]
+        },
+        "integerization_reference": {
+          "type": "string"
+        },
+        "definition_evidence_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "behaviour_model_reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "behaviour_class_compatibility_reference": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "scope_id",
+        "vehicle_classes",
+        "powertrain_scope",
+        "count_basis",
+        "national_method",
+        "district_fleet_basis",
+        "count_representation",
+        "integerization_reference",
+        "definition_evidence_id",
+        "behaviour_model_reference",
+        "behaviour_class_compatibility_reference"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "count_representation": {
+                "const": "integer_vehicles"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "integerization_reference": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "national_inputs": {
+      "type": "array",
+      "minItems": 30,
+      "maxItems": 30,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "year": {
+            "enum": [
+              2026,
+              2027,
+              2028,
+              2029,
+              2030,
+              2031,
+              2032,
+              2033,
+              2034,
+              2035
+            ]
+          },
+          "scenario": {
+            "enum": [
+              "low",
+              "medium",
+              "high"
+            ]
+          },
+          "national_method": {
+            "enum": [
+              "supplied_national_counts",
+              "conditional_penetration"
+            ]
+          },
+          "count_basis": {
+            "enum": [
+              "active_vehicle_stock",
+              "registered_vehicle_population",
+              "registration_cohort",
+              "conditional_scenario_stock"
+            ]
+          },
+          "national_ev_count": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "all_fuel_population": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          },
+          "ev_stock_share": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0,
+            "maximum": 1
+          },
+          "value_status": {
+            "enum": [
+              "official_projection",
+              "model_derived_scenario",
+              "engineering_assumption"
+            ]
+          },
+          "evidence_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "assumption_id": {
+            "type": "string"
+          },
+          "rationale": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "year",
+          "scenario",
+          "national_method",
+          "count_basis",
+          "national_ev_count",
+          "all_fuel_population",
+          "ev_stock_share",
+          "value_status",
+          "evidence_id",
+          "assumption_id",
+          "rationale"
+        ],
+        "oneOf": [
+          {
+            "properties": {
+              "national_method": {
+                "const": "supplied_national_counts"
+              },
+              "national_ev_count": {
+                "type": "number",
+                "minimum": 0
+              },
+              "all_fuel_population": {
+                "type": "null"
+              },
+              "ev_stock_share": {
+                "type": "null"
+              }
+            }
+          },
+          {
+            "properties": {
+              "national_method": {
+                "const": "conditional_penetration"
+              },
+              "count_basis": {
+                "const": "conditional_scenario_stock"
+              },
+              "national_ev_count": {
+                "type": "null"
+              },
+              "all_fuel_population": {
+                "type": "number",
+                "minimum": 0
+              },
+              "ev_stock_share": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            }
+          }
+        ],
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "value_status": {
+                  "enum": [
+                    "model_derived_scenario",
+                    "engineering_assumption"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "assumption_id": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "district_allocations": {
+      "type": "array",
+      "minItems": 750,
+      "maxItems": 750,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "district_id": {
+            "enum": [
+              "DCS-11",
+              "DCS-12",
+              "DCS-13",
+              "DCS-21",
+              "DCS-22",
+              "DCS-23",
+              "DCS-31",
+              "DCS-32",
+              "DCS-33",
+              "DCS-41",
+              "DCS-42",
+              "DCS-43",
+              "DCS-44",
+              "DCS-45",
+              "DCS-51",
+              "DCS-52",
+              "DCS-53",
+              "DCS-61",
+              "DCS-62",
+              "DCS-71",
+              "DCS-72",
+              "DCS-81",
+              "DCS-82",
+              "DCS-91",
+              "DCS-92"
+            ]
+          },
+          "district_name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "province_name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "year": {
+            "enum": [
+              2026,
+              2027,
+              2028,
+              2029,
+              2030,
+              2031,
+              2032,
+              2033,
+              2034,
+              2035
+            ]
+          },
+          "scenario": {
+            "enum": [
+              "low",
+              "medium",
+              "high"
+            ]
+          },
+          "allocation_share": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "allocation_basis": {
+            "enum": [
+              "owner_residence",
+              "vehicle_registration"
+            ]
+          },
+          "value_status": {
+            "enum": [
+              "official_projection",
+              "model_derived_scenario",
+              "engineering_assumption"
+            ]
+          },
+          "evidence_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "assumption_id": {
+            "type": "string"
+          },
+          "rationale": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "district_id",
+          "district_name",
+          "province_name",
+          "year",
+          "scenario",
+          "allocation_share",
+          "allocation_basis",
+          "value_status",
+          "evidence_id",
+          "assumption_id",
+          "rationale"
+        ],
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "value_status": {
+                  "enum": [
+                    "model_derived_scenario",
+                    "engineering_assumption"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "assumption_id": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "assumptions": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "assumption_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "parameter_or_rule": {
+            "type": "string",
+            "minLength": 1
+          },
+          "applicable_scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "value_or_rule": {
+            "type": "string",
+            "minLength": 1
+          },
+          "rationale": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence_ids": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sensitivity_plan": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "assumption_id",
+          "parameter_or_rule",
+          "applicable_scope",
+          "value_or_rule",
+          "rationale",
+          "evidence_ids",
+          "sensitivity_plan"
+        ]
+      }
+    }
+  },
+  "required": [
+    "scope",
+    "national_inputs",
+    "district_allocations",
+    "assumptions"
+  ],
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fleet scenario input contract v1",
+  "description": "Schema for completed inputs, not for the deliberately unfilled templates.",
+  "x-contract-version": "fleet_scenario_input_contract_v1",
+  "x-csv-conversion": "Parse numbers explicitly; an unused numeric field becomes JSON null. A blank required numeric field is unresolved, never zero.",
+  "x-count-unit": "distinct_vehicles",
+  "x-district-identities": [
+    {
+      "district_id": "DCS-11",
+      "district_name": "Colombo",
+      "province_name": "Western"
+    },
+    {
+      "district_id": "DCS-12",
+      "district_name": "Gampaha",
+      "province_name": "Western"
+    },
+    {
+      "district_id": "DCS-13",
+      "district_name": "Kalutara",
+      "province_name": "Western"
+    },
+    {
+      "district_id": "DCS-21",
+      "district_name": "Kandy",
+      "province_name": "Central"
+    },
+    {
+      "district_id": "DCS-22",
+      "district_name": "Matale",
+      "province_name": "Central"
+    },
+    {
+      "district_id": "DCS-23",
+      "district_name": "Nuwara Eliya",
+      "province_name": "Central"
+    },
+    {
+      "district_id": "DCS-31",
+      "district_name": "Galle",
+      "province_name": "Southern"
+    },
+    {
+      "district_id": "DCS-32",
+      "district_name": "Matara",
+      "province_name": "Southern"
+    },
+    {
+      "district_id": "DCS-33",
+      "district_name": "Hambantota",
+      "province_name": "Southern"
+    },
+    {
+      "district_id": "DCS-41",
+      "district_name": "Jaffna",
+      "province_name": "Northern"
+    },
+    {
+      "district_id": "DCS-42",
+      "district_name": "Mannar",
+      "province_name": "Northern"
+    },
+    {
+      "district_id": "DCS-43",
+      "district_name": "Vavuniya",
+      "province_name": "Northern"
+    },
+    {
+      "district_id": "DCS-44",
+      "district_name": "Mullaitivu",
+      "province_name": "Northern"
+    },
+    {
+      "district_id": "DCS-45",
+      "district_name": "Kilinochchi",
+      "province_name": "Northern"
+    },
+    {
+      "district_id": "DCS-51",
+      "district_name": "Batticaloa",
+      "province_name": "Eastern"
+    },
+    {
+      "district_id": "DCS-52",
+      "district_name": "Ampara",
+      "province_name": "Eastern"
+    },
+    {
+      "district_id": "DCS-53",
+      "district_name": "Trincomalee",
+      "province_name": "Eastern"
+    },
+    {
+      "district_id": "DCS-61",
+      "district_name": "Kurunegala",
+      "province_name": "North Western"
+    },
+    {
+      "district_id": "DCS-62",
+      "district_name": "Puttalam",
+      "province_name": "North Western"
+    },
+    {
+      "district_id": "DCS-71",
+      "district_name": "Anuradhapura",
+      "province_name": "North Central"
+    },
+    {
+      "district_id": "DCS-72",
+      "district_name": "Polonnaruwa",
+      "province_name": "North Central"
+    },
+    {
+      "district_id": "DCS-81",
+      "district_name": "Badulla",
+      "province_name": "Uva"
+    },
+    {
+      "district_id": "DCS-82",
+      "district_name": "Moneragala",
+      "province_name": "Uva"
+    },
+    {
+      "district_id": "DCS-91",
+      "district_name": "Ratnapura",
+      "province_name": "Sabaragamuwa"
+    },
+    {
+      "district_id": "DCS-92",
+      "district_name": "Kegalle",
+      "province_name": "Sabaragamuwa"
+    }
+  ],
+  "x-semantic-rules": [
+    "Require each (year,scenario) key exactly once in the national table; length alone does not establish coverage.",
+    "Require each (district_id,year,scenario) key exactly once in the district table, with canonical district and province names.",
+    "National method and count basis must agree with the scope declaration across every row.",
+    "District allocation basis must agree with the scope declaration; fleet ownership/registration allocation is distinct from charging-location allocation.",
+    "All 25 district shares must be supplied and sum to one for each year/scenario, with absolute tolerance 1e-9; do not fill, renormalize or drop missing districts.",
+    "For conditional_penetration, compute national_ev_count = all_fuel_population * ev_stock_share in the same vehicle-class scope and target year.",
+    "Compute expected district count = national count * district share; summed district counts must conserve the national count.",
+    "Every evidence_id must resolve to a retained source or derivation with reference period, scope and file hashes; the seven historical references alone do not establish future counts or district shares.",
+    "Every non-empty assumption_id must resolve to one unique assumption-register record; justify and sensitivity-test future assumptions.",
+    "Record raw source counts as PUBLIC_REFERENCE and scenario values by value_status; simulated charging demand remains SIMULATED with behavioural input origin declared separately.",
+    "Future national counts must be ordered low <= medium <= high within each year and common scope; no automatic monotonic growth over time is assumed.",
+    "For integer_vehicles, require an explicit integerization rule and preserve national totals; do not silently round fractional expected counts.",
+    "A registration_cohort is not the whole active or registered fleet; retain its identity in all downstream outputs.",
+    "Scope-definition and behavioural-class compatibility references require substantive review; schema conformance does not establish empirical validity.",
+    "Contract/schema conformance alone does not activate fleet inputs, spatial weights, charging-location mapping or district demand."
+  ]
+}

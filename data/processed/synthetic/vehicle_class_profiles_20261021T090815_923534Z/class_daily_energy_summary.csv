@@ -1,0 +1,51 @@
+generator,vehicle_class,selected_owners,context,n_replicates,mean_daily_energy_kwh,daily_energy_mcse_kwh,mean_daily_energy_per_study_vehicle_kwh,mcse_per_study_vehicle_kwh,cohort,energy_case,power_scenario,output_origin,behaviour_input_origin
+poisson_control,Car,32,T1,10,142.39315802623827,4.628294046501983,4.449786188319946,0.14463418895318697,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Car,32,T2,10,278.5610848300871,4.860370166121724,8.705033900940222,0.15188656769130388,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Car,32,T3,10,18.68315504848283,1.2709589248935953,0.5838485952650885,0.03971746640292485,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Car,32,T4,10,36.94626710829601,2.333623613043035,1.1545708471342504,0.07292573790759484,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Car,32,TOTAL,10,476.58366501310394,6.46032119561941,14.893239531659498,0.20188503736310656,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Motorcycle / scooter,4,T1,10,1.3056651952279508,0.15368880554674316,0.3264162988069877,0.03842220138668579,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Motorcycle / scooter,4,T2,10,1.944970526728871,0.18606559639742815,0.48624263168221776,0.046516399099357036,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Motorcycle / scooter,4,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Motorcycle / scooter,4,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Motorcycle / scooter,4,TOTAL,10,3.250635721956822,0.25384974210101185,0.8126589304892055,0.06346243552525296,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Other,1,T1,10,0.39113387967842295,0.08320004079605903,0.39113387967842295,0.08320004079605903,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Other,1,T2,10,1.9670381696153996,0.259423355143136,1.9670381696153996,0.259423355143136,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Other,1,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Other,1,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Other,1,TOTAL,10,2.3581720492938225,0.2940994156803964,2.3581720492938225,0.2940994156803964,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,SUV / crossover,18,T1,10,30.884546546074283,1.8788934493210394,1.7158081414485713,0.10438296940672441,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,SUV / crossover,18,T2,10,185.4308823429456,3.98240487989217,10.3017156857192,0.221244715549565,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,SUV / crossover,18,T3,10,15.85889482885778,1.2469567482426196,0.8810497127143211,0.06927537490236775,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,SUV / crossover,18,T4,10,22.992844364800952,2.0334630328445034,1.2773802424889418,0.1129701684913613,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,SUV / crossover,18,TOTAL,10,255.16716808267864,4.260906380893675,14.175953782371035,0.23671702116075974,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Three-wheeler,5,T1,10,8.43650968023523,0.5213103015457803,1.6873019360470463,0.10426206030915605,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Three-wheeler,5,T2,10,8.73278371737681,0.5809000969621881,1.746556743475362,0.11618001939243763,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Three-wheeler,5,T3,10,1.3867174738261567,0.18376076045418582,0.27734349476523135,0.03675215209083717,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Three-wheeler,5,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+poisson_control,Three-wheeler,5,TOTAL,10,18.556010871438197,0.6759462232177055,3.7112021742876395,0.1351892446435411,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Car,32,T1,10,180.4000360056286,3.1267597743264064,5.637501125175894,0.0977112429477002,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Car,32,T2,10,386.18179914187033,5.575722154047046,12.068181223183448,0.1742413173139702,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Car,32,T3,10,25.591676676378516,1.8754650037264384,0.7997398961368286,0.0586082813664512,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Car,32,T4,10,35.484779746821964,2.6832772086739274,1.1088993670881864,0.08385241277106023,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Car,32,TOTAL,10,627.6582915706986,6.913124548579322,19.61432161158433,0.21603514214310382,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Motorcycle / scooter,4,T1,10,1.2173094616752929,0.09502266186219444,0.3043273654188232,0.02375566546554861,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Motorcycle / scooter,4,T2,10,1.9318026174990794,0.20592381895864695,0.48295065437476986,0.05148095473966174,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Motorcycle / scooter,4,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Motorcycle / scooter,4,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Motorcycle / scooter,4,TOTAL,10,3.149112079174372,0.23544364127840856,0.787278019793593,0.05886091031960214,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Other,1,T1,10,0.5101816940355387,0.1067183091732339,0.5101816940355387,0.1067183091732339,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Other,1,T2,10,2.2309395211619893,0.2445605920498708,2.2309395211619893,0.2445605920498708,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Other,1,T3,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Other,1,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Other,1,TOTAL,10,2.741121215197528,0.278947940365403,2.741121215197528,0.278947940365403,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,SUV / crossover,18,T1,10,38.506286536337,1.7782635286363635,2.139238140907611,0.09879241825757575,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,SUV / crossover,18,T2,10,268.0192535299146,4.464463047760818,14.8899585294397,0.24802572487560098,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,SUV / crossover,18,T3,10,17.476573081527032,2.149399278000608,0.9709207267515018,0.11941107100003379,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,SUV / crossover,18,T4,10,23.18424983139768,1.4294569637574681,1.2880138795220932,0.07941427576430378,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,SUV / crossover,18,TOTAL,10,347.1863629791763,4.124960284934655,19.288131276620906,0.2291644602741475,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Three-wheeler,5,T1,10,9.862308136603462,0.8740138924417729,1.9724616273206923,0.17480277848835457,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Three-wheeler,5,T2,10,10.343357815135533,0.7922503315094089,2.068671563027107,0.1584500663018818,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Three-wheeler,5,T3,10,1.243171601450461,0.26161868667306903,0.2486343202900922,0.052323737334613804,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Three-wheeler,5,T4,10,0.0,0.0,0.0,0.0,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
+availability_aware,Three-wheeler,5,TOTAL,10,21.448837553189456,0.9630987042818414,4.289767510637891,0.1926197408563683,common_energy_cases,conditional_gamma_test,reduced_test,SIMULATED,SYNTHETIC
